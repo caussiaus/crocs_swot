@@ -1,0 +1,39 @@
+/* in your <style> or style.css */
+
+#container {
+    position: relative;
+    width: 100%;
+    max-width: 1280px;
+    /* force a 16:9 aspect ratio */
+    aspect-ratio: 1280 / 720;
+    margin: auto;
+  }
+  
+  /* stack canvas underneath SVG, both full-size */
+  #container canvas,
+  #container svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* canvas must be behind */
+  #container canvas {
+    z-index: 0;
+    pointer-events: none;
+  }
+  
+  /* svg on top so your rectangles & labels show above the particles */
+  #container svg {
+    z-index: 1;
+    pointer-events: none;
+  }
+  
+  /* (your existing text-style rules can stay) */
+  .axis-label { /* … */ }
+  .year-big   { /* … */ }
+  .quad .title{ /* … */ }
+  .quad .bullet{ /* … */ }
+  
