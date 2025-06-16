@@ -3,53 +3,44 @@
 <head>
   <meta charset="UTF-8">
   <title>Crocs – Dynamic “Cloud” SWOT Map</title>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap"
-    rel="stylesheet"
-  />
+
+  <!-- type & basic layout -->
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
   <style>
-    body {
-      margin: 0;
-      background: #fafafa;
-      font-family: 'Fredoka One', sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-    #container {
-      width: 100%;
-      max-width: 1280px;
-      aspect-ratio: 1280 / 720;
-      position: relative;
-    }
+    :root      { --w:1280; --h:720; }
+    body       { margin:0; background:#fafafa; font-family:'Fredoka One',sans-serif;
+                 display:flex; justify-content:center; align-items:center; height:100vh; }
+    #container { position:relative; width:100%; max-width:var(--w)px; aspect-ratio:var(--w)/var(--h); }
+
+    /* stack canvas below svg */
     #container canvas,
-    #container svg {
-      position: absolute;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
-    }
-    #container canvas {
-      z-index: 0;
-      pointer-events: none;
-    }
-    #container svg {
-      z-index: 1;
-      preserveAspectRatio: none;
-    }
+    #container svg { position:absolute; inset:0; width:100%; height:100%; }
+    #container canvas { z-index:0; pointer-events:none; }
+    #container svg   { z-index:1; pointer-events:none; }
+
+    /* text styles */
     .axis-label { font-size:18px; fill:#333; font-weight:700; text-anchor:middle; }
     .year-big   { font-size:52px; fill:#444; font-weight:700; text-anchor:middle; }
     .quad .title{ font-size:20px; fill:#222; text-anchor:middle; }
-    .quad .bullet{font-size:12px; fill:#222;}
-  </style>
+
+    /* bullet styling */
+    .bullet-box { fill:none; stroke:#ddd; stroke-width:1.5; }
+    .bullet       { font-size:12px; fill:#222; }
+    .bullet tspan { dominant-baseline:hanging; }
+ 
+    .bullet-box {
+  fill: none;
+  stroke: none;
+}
+ </style>
 </head>
+
 <body>
   <div id="container">
     <canvas id="particle-canvas"></canvas>
     <svg id="viz" viewBox="0 0 1280 720"></svg>
   </div>
 
-  <!-- D3 + external script.js -->
   <script src="https://unpkg.com/d3@7"></script>
   <script src="js/script.js"></script>
 </body>
