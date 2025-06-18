@@ -1,0 +1,3970 @@
+10-Q 1 crox2017331-10q.htm 10-Q  Document
+Table of Contents
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_____________________________________________________________
+FORM 10-Q
+
+
+x QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended March 31, 2017
+or
+¨ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to
+
+
+Commission File No. 000-51754
+_____________________________________________________________
+CROCS, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+(State or other jurisdiction of
+incorporation or organization)
+20-2164234
+(I.R.S. Employer
+Identification No.)
+7477 East Dry Creek Parkway, Niwot, Colorado 80503
+(Address, including zip code, of registrant’s principal executive offices)
+
+
+(303) 848-7000
+(Registrant’s telephone number, including area code)
+_____________________________________________________________
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No ¨
+
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes x No ¨
+
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+Large accelerated filer ý
+Accelerated filer o
+Non-accelerated filer o
+(do not check if a
+smaller reporting company)
+Smaller reporting company o
+Emerging growth company o
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+
+Indicate by check mark whether the registrant is shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ¨ No x
+
+
+As of April 28, 2017, Crocs, Inc. had 74,084,707 shares of its $0.001 par value common stock outstanding.
+
+
+
+
+* * *
+Table of Contents
+
+
+
+
+Cautionary Note Regarding Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 (the "Exchange Act"). From time to time, we may also provide oral or written forward-looking statements in other materials we release to the public. Such forward-looking statements are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995.
+
+
+Statements that refer to industry trends, projections of our future financial performance, anticipated trends in our business and other characterizations of future events or circumstances are forward-looking statements. These statements, which express management’s current views concerning future events or results, use words like “anticipate,” “assume,” “believe,” “continue,” “estimate,” “expect,” “future,” “intend,” “plan,” “project,” “strive,” and future or conditional tense verbs like “could,” “may,” “might,” “should,” “will,” “would,” and similar expressions or variations. Examples of forward-looking statements include, but are not limited to, statements we make regarding:
+
+
+•
+our expectations regarding future trends, expectations and performance of our business;
+•
+our belief that we have sufficient liquidity to fund our business operations during the next twelve months; and
+•
+our expectations regarding our level of capital expenditures in 2017.
+
+
+Forward-looking statements are subject to risks, uncertainties and other factors, which may cause actual results to differ materially from future results expressed or implied by such forward-looking statements. Important factors that could cause actual results to differ materially from the forward-looking statements include, without limitation, those described in the section entitled “Risk Factors” under Item 1A in our Annual Report on Form 10-K for the year ended December 31, 2016 and subsequent filings with the Securities and Exchange Commission. Caution should be taken not to place undue reliance on any such forward-looking statements. Moreover, such forward-looking statements speak only as of the date of this report. We undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements.
+
+
+
+
+i
+* * *
+Table of Contents
+
+
+Crocs, Inc.
+Table of Contents to the Quarterly Report on Form 10-Q
+For the Quarterly Period Ended March 31, 2017
+PART I — Financial Information
+## Item 1.
+Financial Statements (Unaudited)
+1
+Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2017 and 2016
+1
+Condensed Consolidated Statements of Comprehensive Income for the Three Months Ended March 31, 2017 and 2016
+2
+Condensed Consolidated Balance Sheets as of March 31, 2017 and December 31, 2016
+3
+Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2017 and 2016
+4
+Notes to Unaudited Condensed Consolidated Financial Statements
+5
+## Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+20
+## Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+31
+## Item 4.
+Controls and Procedures
+32
+PART II — Other Information
+33
+## Item 1.
+Legal Proceedings
+33
+## Item 1A.
+Risk Factors
+33
+## Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+33
+## Item 6.
+Exhibits
+34
+Signatures
+35
+
+
+
+
+ii
+* * *
+Table of Contents
+
+
+PART I — Financial Information
+## ITEM 1. Financial Statements
+CROCS, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(UNAUDITED)
+(in thousands, except per share data)
+Three Months Ended March 31,
+2017
+
+
+2016
+Revenues
+$
+267,907
+
+
+
+
+$
+279,140
+
+
+Cost of sales
+134,323
+
+
+
+
+149,774
+
+
+Gross profit
+133,584
+
+
+129,366
+
+
+Selling, general and administrative expenses
+118,002
+
+
+
+
+115,123
+
+
+Income from operations
+15,582
+
+
+14,243
+
+
+Foreign currency gain (loss), net
+276
+
+
+
+
+(1,247
+)
+Interest income
+150
+
+
+
+
+216
+
+
+Interest expense
+(184
+)
+
+
+(243
+)
+Other income
+124
+
+
+
+
+82
+
+
+Income before income taxes
+15,948
+
+
+13,051
+
+
+Income tax expense
+(4,938
+)
+
+
+(2,905
+)
+Net income
+11,010
+
+
+10,146
+
+
+Dividends on Series A convertible preferred stock
+(3,000
+)
+
+
+(3,000
+)
+Dividend equivalents on Series A convertible preferred shares related to redemption value accretion and beneficial conversion feature
+(855
+)
+
+
+(785
+)
+Net income attributable to common stockholders
+$
+7,155
+
+
+$
+6,361
+
+
+Net income per common share:
+
+
+
+
+
+
+Basic
+$
+0.08
+
+
+
+
+$
+0.07
+
+
+Diluted
+$
+0.08
+
+
+
+
+$
+0.07
+
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+
+
+
+1
+* * *
+Table of Contents
+
+
+CROCS, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(UNAUDITED)
+(in thousands)
+Three Months Ended March 31,
+2017
+2016
+Net income
+$
+11,010
+
+
+$
+10,146
+
+
+Other comprehensive income:
+
+
+
+
+Foreign currency translation gain, net
+4,514
+
+
+4,800
+
+
+Total comprehensive income
+$
+15,524
+
+
+$
+14,946
+
+
+
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+
+
+
+2
+* * *
+Table of Contents
+
+
+CROCS, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(UNAUDITED)
+(in thousands, except par value)
+March 31,
+2017
+December 31,
+2016
+ASSETS
+
+
+
+
+Current assets:
+
+
+
+
+Cash and cash equivalents
+$
+88,884
+
+
+$
+147,565
+
+
+Accounts receivable, net of allowances of $49,176 and $48,138, respectively
+148,624
+
+
+78,297
+
+
+Inventories
+178,467
+
+
+147,029
+
+
+Income tax receivable
+5,062
+
+
+2,995
+
+
+Other receivables
+16,991
+
+
+14,642
+
+
+Restricted cash - current
+2,539
+
+
+2,534
+
+
+Prepaid expenses and other assets
+21,955
+
+
+32,413
+
+
+Total current assets
+462,522
+
+
+425,475
+
+
+Property and equipment, net of accumulated depreciation of $92,643 and $88,603, respectively
+43,801
+
+
+44,090
+
+
+Intangible assets, net
+69,671
+
+
+72,700
+
+
+Goodwill
+1,506
+
+
+1,480
+
+
+Deferred tax assets, net
+6,930
+
+
+6,825
+
+
+Restricted cash
+3,430
+
+
+2,547
+
+
+Other assets
+13,296
+
+
+13,273
+
+
+Total assets
+$
+601,156
+
+
+$
+566,390
+
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+
+
+
+
+Current liabilities:
+
+
+
+
+Accounts payable
+$
+81,387
+
+
+$
+61,927
+
+
+Accrued expenses and other liabilities
+73,516
+
+
+78,282
+
+
+Income taxes payable
+9,103
+
+
+6,593
+
+
+Current portion of borrowings and capital lease obligations
+4,459
+
+
+2,338
+
+
+Total current liabilities
+168,465
+
+
+149,140
+
+
+Long-term income tax payable
+4,854
+
+
+4,464
+
+
+Long-term capital lease obligations
+43
+
+
+40
+
+
+Other liabilities
+13,615
+
+
+13,462
+
+
+Total liabilities
+186,977
+
+
+167,106
+
+
+Commitments and contingencies
+
+
+
+
+
+
+
+
+Series A convertible preferred stock, 1.0 million authorized, 0.2 million shares outstanding, liquidation preference $203 million
+179,756
+
+
+178,901
+
+
+Stockholders’ equity:
+
+
+
+
+Preferred stock, par value $0.001 per share, 4.0 million shares authorized, none outstanding
+—
+
+
+—
+
+
+Common stock, par value $0.001 per share, 94.4 million and 93.9 million issued, 74.1 million and 73.6 million shares outstanding, respectively
+94
+
+
+94
+
+
+Treasury stock, at cost, 20.3 million shares
+(284,477
+)
+(284,237
+)
+Additional paid-in capital
+367,008
+
+
+364,397
+
+
+Retained earnings
+202,880
+
+
+195,725
+
+
+Accumulated other comprehensive loss
+(51,082
+)
+(55,596
+)
+Total stockholders’ equity
+234,423
+
+
+220,383
+
+
+Total liabilities and stockholders’ equity
+$
+601,156
+
+
+$
+566,390
+
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+
+3
+* * *
+Table of Contents
+
+
+CROCS, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+(in thousands)
+Three Months Ended March 31,
+2017
+2016
+Cash flows from operating activities:
+
+
+
+
+Net income
+$
+11,010
+
+
+$
+10,146
+
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+
+
+
+Depreciation and amortization
+8,446
+
+
+8,595
+
+
+Unrealized (gain) loss on foreign exchange, net
+856
+
+
+(5,613
+)
+Share-based compensation
+2,611
+
+
+2,826
+
+
+Other non-cash items
+(689
+)
+808
+
+
+Changes in operating assets and liabilities:
+
+
+
+
+Accounts receivable, net of allowances
+(66,917
+)
+(69,763
+)
+Inventories
+(28,591
+)
+(14,383
+)
+Prepaid expenses and other assets
+9,618
+
+
+(6,814
+)
+Accounts payable, accrued expenses and other liabilities
+13,766
+
+
+17,260
+
+
+Cash used in operating activities
+(49,890
+)
+(56,938
+)
+Cash flows from investing activities:
+
+
+
+
+Cash paid for purchases of property and equipment
+(3,243
+)
+(3,216
+)
+Proceeds from disposal of property and equipment
+12
+
+
+—
+
+
+Cash paid for intangible assets
+(2,167
+)
+(2,714
+)
+Change in restricted cash
+(850
+)
+(1,760
+)
+Cash used in investing activities
+(6,248
+)
+(7,690
+)
+Cash flows from financing activities:
+
+
+
+
+Proceeds from bank borrowings
+5,500
+
+
+20,000
+
+
+Repayments of bank borrowings and capital lease obligations
+(3,376
+)
+(12,842
+)
+Dividends—Series A preferred stock
+(3,000
+)
+(3,000
+)
+Other
+(240
+)
+(158
+)
+Cash provided by (used in) financing activities
+(1,116
+)
+4,000
+
+
+Effect of exchange rate changes on cash
+(1,427
+)
+6,367
+
+
+Net change in cash and cash equivalents
+(58,681
+)
+(54,261
+)
+Cash and cash equivalents—beginning of period
+147,565
+
+
+143,341
+
+
+Cash and cash equivalents—end of period
+$
+88,884
+
+
+$
+89,080
+
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+
+4
+* * *
+Table of Contents
+
+
+CROCS, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+1. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Unless otherwise noted in this report, any description of "we," "us" or "our" includes Crocs, Inc. ("Crocs" or the "Company,") and its wholly-owned subsidiaries within our reportable operating segments and corporate operations. The Company is engaged in the design, development, manufacturing, worldwide marketing and distribution of casual lifestyle footwear and accessories for men, women, and children. We strive to be the global leader in the sale of molded footwear featuring fun, comfort, color, and functionality. Our reportable operating segments include: the Americas, operating in North and South America; Asia Pacific, operating throughout Asia, Australia, New Zealand, Africa and the Middle East; and Europe, operating throughout Europe and Russia.
+
+
+The accompanying unaudited condensed consolidated interim financial statements include the Company’s accounts and those of its wholly-owned subsidiaries, and reflect all adjustments which are necessary for a fair statement of the financial position, results of operations and cash flows for the periods presented in accordance with accounting principles generally accepted in the U.S. ("U.S. GAAP"). Such unaudited interim condensed consolidated financial statements have been prepared in accordance with the instructions to Form 10-Q pursuant to the rules and regulations of the U.S. Securities and Exchange Commission. Certain information and footnote disclosures normally included in financial statements prepared in accordance with U.S. GAAP have been condensed or omitted pursuant to such rules and regulations. The year-end condensed balance sheet data was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States of America.
+
+
+These unaudited condensed consolidated interim financial statements should be read in conjunction with our Annual Report on Form 10-K for the year ended December 31, 2016 ("Annual Report"), and have been prepared on a consistent basis with the accounting policies described in Note 1 of the Notes to the Audited Consolidated Financial Statements ("Notes") included in our Annual Report. Our accounting policies did not change in the first quarter of 2017, except for the new accounting pronouncements adopted as described in Note 2 — Recent Accounting Pronouncements.
+
+
+Seasonality of Business
+
+
+Due to the seasonal nature of our footwear, which is more heavily focused on styles suitable for warmer weather, the Company's business is typically affected by seasonal trends, with higher levels of wholesale sales in its first and second quarters and higher retail sales in its second and third quarters. In addition, our quarterly results of operations may fluctuate significantly as a result of other factors, including general economic conditions or consumer confidence. Accordingly, the Company's operating results and cash flows for the three-months ended March 31, 2017 are not necessarily indicative of the operating results and cash flows for any other quarter or for the full year.
+
+
+Transactions with Affiliates
+
+
+The Company receives services from three subsidiaries of Blackstone Capital Partners VI L.P. (“Blackstone”). Blackstone and certain of its permitted transferees currently beneficially own all the outstanding shares of the Company’s Series A Convertible Preferred Stock, which is convertible into approximately 15.7% of the Company’s common stock as of March 31, 2017. Two Blackstone representatives also serve on the Company’s board of directors (the “Board”).
+
+
+Certain Blackstone subsidiaries provide various services, including inventory count, cybersecurity and consulting, and workforce management services. The Company paid $0.1 million and $0.2 million for the three months ended March 31, 2017 and 2016, respectively for these services. Expenses related to these services are reported in ‘Selling, general and administrative expenses’ in the condensed consolidated statement of operations.
+
+
+Research, Design and Development Expenses
+
+
+Research, design and development expenses were $2.9 million and $2.7 million for the three months ended March 31, 2017 and 2016, respectively, and are reported in 'Selling, general and administrative expenses' in the condensed consolidated statements of operations.
+
+
+
+
+5
+* * *
+Table of Contents
+
+
+Advertising and Promotional Expenses
+
+
+Production costs of advertising and promotion costs are expensed when the advertising is first run. Advertising communication costs are expensed in the periods that the communications occur. Certain of the Company’s promotional expenses result from payments under endorsement contracts. Payments under endorsement contracts are expensed on a straight-line basis over the related annual contract terms.
+
+
+Prepaid advertising and promotional endorsement costs of $3.2 million and $4.5 million were included in other ‘Prepaids and other current assets’ in the condensed consolidated balance sheets at March 31, 2017 and December 31, 2016, respectively. Total advertising, production, promotional and agency expenses were $12.0 million and $8.3 million for the three months ended March 31, 2017 and 2016, respectively.
+
+
+Depreciation Expense
+
+
+Depreciation expense related to property, plant and equipment reported in ‘Cost of sales’ and ‘Selling, general and administrative expenses’ was:
+Three Months Ended March 31,
+2017
+2016
+(in thousands)
+Selling, general and administrative expenses
+$
+3,191
+
+
+$
+3,313
+
+
+Cost of sales
+553
+
+
+387
+
+
+Total depreciation expense
+$
+3,744
+
+
+$
+3,700
+
+
+2\. RECENT ACCOUNTING PRONOUNCEMENTS
+New Accounting Pronouncement Adopted
+Inventory Measurement
+
+
+In July 2015, the Financial Accounting Standards Board ("FASB") issued authoritative guidance to measure in-scope inventory at the lower of cost or net realizable value. The Company adopted this guidance on January 1, 2017 on a prospective basis. The adoption did not have a significant effect on our consolidated financial position or results of operations.
+
+
+New Accounting Pronouncements Not Yet Adopted
+
+
+Clarifying the Definition of a Business
+
+
+In January 2017, the FASB issued authoritative guidance intended to clarify the definition of a business, for purposes of determining whether a business has been acquired or sold, and consequently whether transactions should be accounted for as acquisitions or disposals of a business, or as acquisitions or disposals of assets. This guidance is to be applied prospectively and becomes effective for annual reporting periods beginning after December 15, 2017, including interim periods within those periods. The Company is currently assessing the impact that adopting this new accounting standard will have on its consolidated financial statements.
+
+
+Statement of Cash Flows - Classification and Change in Cash
+
+
+In August 2016, the FASB issued authoritative guidance intended to clarify how entities should classify certain cash receipts and cash payments on the statement of cash flows. Further, in November 2016, the FASB issued guidance requiring that restricted cash be included with cash and cash equivalents when reconciling the beginning-of-period and end-of-period total amounts shown on the statement of cash flows. These updates are effective for annual reporting periods beginning after December 15, 2017, and interim periods within those annual periods, with early adoption permitted. The guidance should be applied retrospectively unless it is impractical to do so; in which case, the guidance should be applied prospectively as of the earliest date practicable. The Company is currently assessing the impact that adopting this new accounting standard will have on its consolidated financial statements.
+
+
+
+
+6
+* * *
+Table of Contents
+
+
+Prepaid Stored-Value Products
+
+
+In March 2016, the FASB issued guidance related to the recognition of breakage for certain prepaid stored-value products. This update aligns recognition of the financial liabilities related to prepaid stored-value products (for example, prepaid gift cards), with Topic 606, Revenue from Contracts with Customers, for non-financial liabilities. In general, certain of these liabilities may be extinguished proportionally in earnings as redemptions occur, or when redemption is remote if issuers are not entitled to the unredeemed stored value. This standard is effective for annual periods (including interim periods) beginning after December 15, 2017, with early adoption permitted. At adoption, this update will be applied either using a modified retrospective transition method by means of a cumulative-effect adjustment to retained earnings as of the beginning of the fiscal year in which the guidance is effective or retrospectively to each period presented. The Company is currently assessing the adoption method and the impact that adopting this new accounting standard will have on its consolidated financial statements.
+
+
+Leases
+
+
+In February 2016, the FASB issued authoritative guidance intended to increase transparency and comparability among organizations by recognizing lease assets and liabilities on the balance sheet and disclosing key information about leasing arrangements. Under the new guidance, lessees will be required to recognize a right-of-use asset and a lease liability, measured on a discounted basis, at the commencement date for all leases with terms greater than twelve months. Additionally, this guidance will require disclosures to help investors and other financial statement users to better understand the amount, timing, and uncertainty of cash flows arising from leases, including qualitative and quantitative requirements. The guidance should be applied under a modified retrospective transition approach for leases existing at the beginning of the earliest comparative period presented in the adoption-period financial statements. Any leases that expire before the initial application date will not require any accounting adjustment. This guidance is effective for annual reporting periods beginning after December 15, 2018, including interim periods within those annual periods, with early adoption permitted.
+
+
+The Company will adopt this guidance beginning with the quarterly reporting period ending March 31, 2019. The Company is evaluating the full impact this guidance will have on its consolidated financial statements, and expects that adoption will result in significant increases in lease related assets and liabilities on its consolidated balance sheet.
+
+
+Revenue Recognition
+
+
+In May 2014, the FASB issued authoritative guidance related to new accounting requirements for the recognition of revenue from contracts with customers. The core principle of the guidance is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled to in exchange for the goods or services. Subsequent to the release of this guidance, the FASB has issued additional updates intended to provide interpretive clarifications and to reduce the cost and complexity of applying the new revenue recognition standard both at transition and on an ongoing basis. The new standard and related amendments are effective for annual reporting periods beginning after December 15, 2017, and interim periods within those annual periods. Upon adoption of the new standard, the use of either a full retrospective or cumulative effect transition method is permitted.
+
+
+In December 2016, the Company established an implementation team and engaged external advisers to develop a multi-phase plan to assess the Company’s business and contracts, as well as any changes to accounting policies, processes or systems necessary to adopt the requirements of the new standard. The Company has completed an initial review of its revenue contracts and terms and is assessing how adoption of the new standard will affect its consolidated financial statements and disclosures, as well as the adoption method. The Company is continuing its evaluation of the impact of the accounting and disclosure changes, and method of adoption, on its business processes, controls and systems. The Company will provide additional information regarding expected effects on its consolidated financial statements and disclosures, and the transition method in subsequent quarterly reports.
+
+
+Other Pronouncements
+
+
+Other new pronouncements issued but not effective until after March 31, 2017 are not expected to have a material impact on the Company’s consolidated financial statements.
+
+
+
+
+7
+* * *
+Table of Contents
+
+
+3. INVENTORIES
+The following table summarizes inventories by major classification:
+March 31,
+2017
+December 31,
+2016
+(in thousands)
+Finished goods
+$
+174,430
+
+
+$
+142,333
+
+
+Raw materials
+2,728
+
+
+654
+
+
+Work-in-progress
+1,309
+
+
+4,042
+
+
+Total inventories
+$
+178,467
+
+
+$
+147,029
+
+
+
+
+4. INTANGIBLE ASSETS, NET
+Intangible Assets, Net
+Other intangible assets consist of the following:
+March 31, 2017
+December 31, 2016
+Useful Life
+Gross
+Accum. Amortiz.
+Net
+Gross
+Accum. Amortiz.
+Net
+(Years)
+(in thousands)
+Intangible assets subject to amortization:
+Capitalized software
+2 - 7
+$
+143,812
+
+
+$
+(79,220
+)
+$
+64,592
+
+
+$
+142,358
+
+
+$
+(74,530
+)
+$
+67,828
+
+
+Patents, copyrights, and trademarks
+6 - 25
+6,489
+
+
+(5,549
+)
+940
+
+
+6,438
+
+
+(5,471
+)
+967
+
+
+Other
+2,221
+
+
+(2,221
+)
+—
+
+
+2,855
+
+
+(2,855
+)
+—
+
+
+Intangible assets not subject to amortization:
+In progress (1)
+3,843
+
+
+—
+
+
+3,843
+
+
+3,616
+
+
+—
+
+
+3,616
+
+
+Trademarks and other
+296
+
+
+—
+
+
+296
+
+
+289
+
+
+—
+
+
+289
+
+
+Total
+$
+156,661
+
+
+$
+(86,990
+)
+$
+69,671
+
+
+$
+155,556
+
+
+$
+(82,856
+)
+$
+72,700
+
+
+_________________________________________________________________
+
+
+(1) Primarily capitalized software project costs under development.
+Estimated future annual amortization expense of intangible assets is:
+March 31, 2017
+(in thousands)
+2017 (remainder of year)
+$
+12,380
+
+
+2018
+14,736
+
+
+2019
+12,613
+
+
+2020
+10,085
+
+
+2021
+9,911
+
+
+Thereafter
+5,807
+
+
+Total
+$
+65,532
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+* * *
+Table of Contents
+
+
+Intangible Amortization Expense
+
+
+Intangibles amortization expense reported in the Company’s condensed consolidated statements of operations was as follows:
+Three Months Ended March 31,
+
+
+2017
+2016
+(in thousands)
+Selling, general and administrative expenses
+$
+3,485
+
+
+$
+3,561
+
+
+Cost of sales
+1,217
+
+
+1,334
+
+
+Total amortization expense
+$
+4,702
+
+
+$
+4,895
+
+
+
+
+5. ACCRUED EXPENSES AND OTHER CURRENT LIABILITIES
+The following table summarizes accrued expenses and other current liabilities:
+March 31,
+2017
+December 31,
+2016
+(in thousands)
+Accrued compensation and benefits
+$
+18,690
+
+
+$
+20,898
+
+
+Fulfillment, freight, and duties
+12,372
+
+
+14,572
+
+
+Professional services
+10,257
+
+
+10,900
+
+
+Sales/use and value added tax payable
+4,447
+
+
+4,978
+
+
+Accrued rent and occupancy
+8,102
+
+
+7,335
+
+
+Royalties payable and deferred revenue
+6,553
+
+
+7,475
+
+
+Other (1)
+13,095
+
+
+12,124
+
+
+Total accrued expenses and other current liabilities
+$
+73,516
+
+
+$
+78,282
+
+
+_________________________________________________________________
+
+
+(1)
+Includes current liabilities related to derivatives, Series A preferred stock dividends and legal settlements.
+
+
+
+
+6. FAIR VALUE MEASUREMENTS
+Recurring Fair Value Measurements
+U.S. GAAP for fair value establishes a hierarchy that prioritizes fair value measurements based on the types of inputs used for the various valuation techniques (market approach, income approach and cost approach). The Company utilizes a combination of market and income approaches to value derivative instruments. The Company’s financial assets and liabilities are measured using inputs from the three levels of the fair value hierarchy. The three levels of the hierarchy are as follows:
+Level 1
+Unadjusted quoted prices in active markets for identical assets and liabilities.
+Level 2
+Unadjusted quoted prices in active markets for similar assets and liabilities; or
+Unadjusted quoted prices for identical or similar assets or liabilities in markets that are not active; or
+Inputs other than quoted prices that are observable for the asset or liability.
+Level 3
+Unobservable inputs for the asset or liability.
+
+
+The financial assets and liabilities that are measured and recorded at fair value on a recurring basis consist of the Company's derivative instruments. The Company's derivative instruments are foreign currency forward exchange contracts. The Company manages credit risk of its derivative instruments on the basis of its net exposure with its counterparty and has elected to measure the fair value in the same manner. All of the Company's derivative instruments are classified as Level 2 and are reported within 'Accrued expenses and other liabilities' in the condensed consolidated balance sheets. There were no transfers between Level 1 or Level 2, nor were there any outstanding derivative instruments classified as Level 3 as of March 31, 2017 or December 31, 2016. The fair value of the Company's derivative instruments was a liability of $1.3 million and $0.2 million at March 31, 2017, and December 31, 2016, respectively. See Note 7 — Derivative Financial Instruments for more information.
+
+
+9
+* * *
+Table of Contents
+
+
+
+
+The carrying amounts of the Company's cash and cash equivalents, accounts receivable, accounts payable and current accrued liabilities approximate their fair value as recorded due to the short-term maturity of these instruments.
+The Company's borrowing instruments are recorded at their carrying values in the condensed consolidated balance sheets, which may differ from their respective fair values. The fair values of the Company's notes payable outstanding approximate their carrying values at March 31, 2017 and December 31, 2016 based on interest rates currently available to the Company for similar borrowings.
+March 31, 2017
+December 31, 2016
+Carrying Value
+Fair Value
+Carrying Value
+Fair Value
+(in thousands)
+Borrowings and capital lease obligations
+$
+4,502
+
+
+$
+4,502
+
+
+$
+2,378
+
+
+$
+2,378
+
+
+Non-Financial Assets and Liabilities
+The Company's non-financial assets, which primarily consist of property and equipment, goodwill and other intangible assets, are not required to be carried at fair value on a recurring basis and are reported at carrying value. However, on a periodic basis or whenever events or changes in circumstances indicate that their carrying value may not be fully recoverable (and at least annually for goodwill and indefinite-lived intangible assets), non-financial instruments are assessed for impairment and, if applicable, written down to and recorded at fair value.
+The Company did not record impairment during the three months ended March 31, 2017. During the three months ended March 31, 2016, the Company recorded non-cash impairment of $0.2 million to reduce the carrying values of certain retail store assets to their estimated fair value. Impairments are reported in 'Selling, general and administrative expenses' in the Company's condensed consolidated statements of operations. The fair values of these assets were determined based on Level 3 measurements, including estimates of the amount and timing of future cash flows based upon historical experience, expected market conditions, and management's plans.
+Three Months Ended March 31,
+2017
+2016
+(in thousands)
+Retail store asset impairment
+$
+—
+
+
+$
+193
+
+
+
+
+7. DERIVATIVE FINANCIAL INSTRUMENTS
+The Company transacts business in various foreign countries and is therefore exposed to foreign currency exchange rate risk that impacts the reported U.S. Dollar amounts of revenues, costs, and certain foreign currency monetary assets and liabilities. In order to manage exposure to fluctuations in foreign currency and to reduce the volatility in earnings caused by fluctuations in foreign exchange rates, the Company enters into forward contracts to buy and sell foreign currency. By policy, the Company does not enter into these contracts for trading purposes or speculation.
+
+
+Counterparty default risk is considered low because the forward contracts that the Company enters into are over-the-counter instruments transacted with highly-rated financial institutions. The Company was not required and did not post collateral as of March 31, 2017 or December 31, 2016.
+The Company's derivative instruments are recorded at fair value as a derivative asset or liability in the condensed consolidated balance sheets. The Company reports derivative instruments with the same counterparty on a net basis when a master netting arrangement is in place. Changes in fair value are recognized within 'Foreign currency gain (loss), net' in the condensed consolidated statements of operations. For the cash flow statement, the Company classifies cash flows from derivative instruments at settlement in the same category as the cash flows from the related hedged items within 'Cash used in operating activities'.
+
+
+10
+* * *
+Table of Contents
+
+
+Results of Derivative Activities
+The fair values of derivative assets and liabilities, net, which are reported in 'Accrued expenses and other liabilities' in the condensed consolidated balance sheets were:
+March 31, 2017
+December 31, 2016
+Derivative Assets
+Derivative Liabilities
+Derivative Assets
+Derivative Liabilities
+(in thousands)
+Foreign currency forward exchange contracts
+Level 1
+$
+—
+
+
+$
+—
+
+
+$
+—
+
+
+$
+—
+
+
+Level 2
+2,116
+
+
+(3,410
+)
+6,541
+
+
+(6,698
+)
+Level 3
+—
+
+
+—
+
+
+—
+
+
+—
+
+
+2,116
+
+
+(3,410
+)
+6,541
+
+
+(6,698
+)
+Netting of counterparty contracts
+(2,116
+)
+2,116
+
+
+(6,541
+)
+6,541
+
+
+Foreign currency forward contract derivative liabilities
+$
+—
+
+
+$
+(1,294
+)
+$
+—
+
+
+$
+(157
+)
+
+
+The notional amounts of outstanding foreign currency forward exchange contracts shown below report the total U.S. Dollar
+equivalent position and the net contract fair values for each foreign currency position.
+March 31, 2017
+December 31, 2016
+Notional
+Fair Value
+Notional
+Fair Value
+Japanese Yen
+$
+65,627
+
+
+$
+64
+
+
+$
+87,171
+
+
+$
+4,180
+
+
+Singapore Dollar
+34,747
+
+
+103
+
+
+94,763
+
+
+(2,611
+)
+Euro
+55,018
+
+
+(186
+)
+71,228
+
+
+(1,441
+)
+British Pound Sterling
+18,727
+
+
+—
+
+
+14,332
+
+
+(660
+)
+South Korean Won
+17,739
+
+
+(5
+)
+8,278
+
+
+407
+
+
+Other currencies
+67,310
+
+
+(1,270
+)
+52,449
+
+
+(32
+)
+Total
+$
+259,168
+
+
+$
+(1,294
+)
+$
+328,221
+
+
+$
+(157
+)
+Latest maturity date
+April 2017
+
+
+January 2016
+
+
+Amounts reported in 'Foreign currency gain (loss), net' in the condensed consolidated statements of operations include both realized and unrealized gains/losses from foreign currency transactions and derivative contracts, and were as follows:
+Three Months Ended March 31,
+2017
+2016
+(in thousands)
+Foreign currency transaction gain
+$
+3,211
+
+
+$
+2,262
+
+
+Foreign currency loss on foreign currency forward exchange contracts
+(2,935
+)
+(3,509
+)
+Foreign currency gain (loss), net
+$
+276
+
+
+$
+(1,247
+)
+
+
+
+
+
+
+11
+* * *
+Table of Contents
+
+
+8. REVOLVING CREDIT FACILITY AND BANK BORROWINGS
+The Company’s borrowings consist of:
+
+
+March 31,
+2017
+December 31,
+2016
+
+
+(in thousands)
+Senior revolving credit facility
+$
+3,500
+
+
+$
+—
+
+
+Notes payable
+948
+
+
+2,329
+
+
+Capital lease obligations
+54
+
+
+49
+
+
+Total borrowings and capital lease obligations
+4,502
+
+
+2,378
+
+
+Less: Current portion of borrowings and capital lease obligations
+4,459
+
+
+2,338
+
+
+Total long-term capital lease obligations
+$
+43
+
+
+$
+40
+
+
+
+
+Senior Revolving Credit Facility
+
+
+The Company's Senior Revolving Credit Facility (the "Facility"), as amended, provides for borrowings of up to $80 million through February 2021. The Facility contains certain covenants that restrict certain actions by the Company under the Facility, including limitations on: (i) stock repurchases to $50 million per year, subject to certain restrictions; and (ii) capital expenditures and commitments to $50 million per year. The Facility also requires the Company to meet certain financial covenant ratios that become effective when total borrowings under the Facility, including letters of credit, exceed $20 million during certain periods or if the outstanding borrowings exceed the borrowing base. If the financial covenant ratios are in effect, the Company must maintain a minimum fixed charge coverage ratio of 1.10 to 1.00, and a maximum leverage ratio of 2.00 to 1.00. The weighted average interest rate on borrowings as of March 31, 2017 was 3.54%. As of March 31, 2017, the Company was in compliance with all financial covenants.
+
+
+As of March 31, 2017, the Company had outstanding letters of credit of $1.3 million, which reduce the amounts available for borrowing under the terms of the Facility. As of March 31, 2017 and December 31, 2016, the Company had $75.2 million and $78.7 million, respectively, of available borrowing capacity under the Facility.
+Asia Revolving Credit Facility
+The Company’s revolving credit facility agreement (the "Asia Facility") with HSBC Bank (China) Company Limited, Shanghai Branch ("HSBC"), provides the Company uncommitted dual currency revolving loan facilities of up to 40.0 million Chinese Renminbi ("RMB"), or $5.8 million, with a combined facility limit of RMB 60.0 million, or $8.7 million. As of March 31, 2017 and December 31, 2016, borrowings under the Asia Facility remained suspended at the discretion of HSBC. The Asia Facility will mature in February 2021.
+Notes Payable
+Notes payable to finance the Company’s enterprise software system costs and certain insurance premiums incur interest at fixed rates ranging from 1.99% to 2.63%.
+The maturities of the Company's debt and capital lease obligations were:
+March 31, 2017
+(in thousands)
+2017 (remainder of year)
+$
+4,459
+
+
+2018
+13
+
+
+2019
+13
+
+
+2020
+12
+
+
+2021
+5
+
+
+Total principal debt maturities
+4,502
+
+
+Less: current portion
+4,459
+
+
+Non-current portion
+$
+43
+
+
+
+
+
+
+12
+* * *
+Table of Contents
+
+
+9. EQUITY
+
+
+Common Stock
+
+
+The Company has one class of common stock with a par value of $0.001 per share. There are 250 million shares of common stock authorized for issuance. Holders of common stock are entitled to one vote per share on all matters presented to the stockholders.
+Common Stock Repurchase Program
+The Company did not repurchase any of its common stock during the three months ended March 31, 2017 or 2016. As of March 31, 2017, the Company had authorization to repurchase approximately $118.7 million of its common stock.
+
+
+Preferred Stock
+
+
+The Company has authorized and available for issuance 4.0 million shares of preferred stock. None of these preferred shares are issued or outstanding as of March 31, 2017 or December 31, 2016.
+
+
+Series A Convertible Preferred Stock
+
+
+The Company is authorized to issue up to 1.0 million shares of Series A convertible preferred stock (“Series A Preferred Stock”), par value $0.001 per share, of which 0.2 million shares were issued to Blackstone and certain of its permitted transferees in January, 2014. The Series A Preferred Stock has a stated value of $1,000 per share.
+Participation Rights and Dividends
+Holders of the Series A Preferred Stock are entitled to receive dividends declared or paid on the Company’s common stock and are entitled to vote together with the holders of the Company’s common stock as a single class, in each case, on an as-converted basis. Holders of the Series A Preferred Stock also have certain limited special approval rights, including with respect to the issuance of pari passu or senior equity securities of the Company.
+The Series A Preferred Stock ranks senior to the Company's common stock with respect to rights to preferred dividends, liquidation, winding-up, and dissolution. Holders of Series A preferred stock are entitled to cumulative dividends payable quarterly in cash at a rate of 6% per annum. If the Company fails to make timely dividend payments, the dividend rate will increase to 8% per annum until such time as all accrued but unpaid dividends have been paid in full. As of March 31, 2017 and December 31, 2016, the Company had accrued preferred dividends of $3.0 million, which are reported in ‘Accrued expenses and other liabilities' in the condensed consolidated balance sheets. These accrued dividends were paid in cash in April 2017 and January 2017, respectively.
+Conversion Rights of the Company and Blackstone
+The Series A Preferred Stock is convertible at the option of the holders at any time into shares of common stock at a conversion price of $14.50 per share, subject to adjustment for customary anti-dilution provisions. Beginning on or after January 27, 2017, provided the closing price of the Company's common stock has been equal to or greater than $29.00 for 20 consecutive trading days, the Company may elect to convert all or a portion of the Series A Preferred Stock into an equivalent number of shares of common stock. At March 31, 2017, had the holders converted or the Company been entitled to exercise its conversion right, the Series A Preferred Stock would have been convertible into 13,793,100 shares of common stock.
+Redemption Rights of the Company and Blackstone
+The Company has the option to redeem the Series A Preferred Stock anytime on or after January 27, 2022 for 100% of the stated redemption value of $200 million plus all accrued and unpaid dividends.
+Blackstone has the option to cause the redemption of the Series A Preferred Stock any time after January 27, 2022 or upon a change in control. Further, upon certain change of control events, Blackstone can require the Company to repurchase the Series A Preferred Stock at 101% of the redemption value plus all accrued and unpaid dividends. The carrying value of the Series A Preferred Stock is accreted up to its $200 million redemption value on a straight-line basis through the redemption date.
+
+
+
+
+
+
+13
+* * *
+Table of Contents
+
+
+10. SHARE COMPENSATION
+The Company’s stock-based compensation awards are issued under the 2015 Equity Incentive Plan (“2015 Plan”) and two predecessor plans, the 2005 Equity Incentive Plan and the 2007 Equity Incentive Plan. Any awards that expire or are forfeited become available for issuance under the 2015 Plan. Shares of common stock reserved and authorized for issuance at March 31, 2017 under all plans were 8,093,277 shares, subject to adjustment for future stock splits, stock dividends, and similar changes in capitalization.
+Refer to Notes 1 and 11 of the Company’s Annual Report for a detailed description of the Company’s stock-based compensation awards, including information related to grant date fair value, vesting terms, performance and other conditions.
+Share-based Compensation Expense
+Pre-tax share-based compensation expense reported in the Company’s condensed consolidated statements of operations was as follows:
+
+
+Three Months Ended March 31,
+
+
+2017
+
+
+2016
+(in thousands)
+Cost of sales
+$
+89
+
+
+
+
+$
+128
+
+
+Selling, general and administrative expenses
+2,522
+
+
+
+
+2,698
+
+
+Total stock compensation expense
+$
+2,611
+
+
+
+
+$
+2,826
+
+
+
+
+Due to the timing of annual grants, the price of the Company’s common stock and other factors, stock-based compensation expense recognized during the three months ended March 31, 2017 is not indicative of the level of compensation expense expected to be incurred for the full year.
+
+
+Stock Option Activity
+Stock option activity during the three months ended March 31, 2017 was:
+Number of Options
+Outstanding as of December 31, 2016
+518,252
+
+
+Granted
+—
+
+
+Exercised
+—
+
+
+Forfeited or expired
+(53,058
+)
+Outstanding as of March 31, 2017
+465,194
+
+
+As of March 31, 2017, the Company had $0.2 million of total unrecognized share-based compensation expense related to unvested options, which is expected to be amortized over the remaining weighted average period of 1.6 years. The weighted average exercise price of vested options was $16.64 per share.
+
+
+14
+* * *
+Table of Contents
+
+
+
+
+Restricted Stock Awards and Restricted Stock Units Activity
+
+
+The Company grants time-based and performance-based Restricted Stock Awards (“RSA”) and Restricted Stock Units (“RSUs”). RSA and RSU activity during the three months ended March 31, 2017 was:
+
+
+Restricted Stock Awards
+
+
+Restricted Stock Units
+Shares
+
+
+Weighted
+Average
+Grant Date
+Fair Value
+
+
+Units
+
+
+Weighted
+Average
+Grant Date
+Fair Value
+Unvested at December 31, 2016
+11,430
+
+
+$
+10.28
+
+
+
+
+3,855,368
+
+
+$
+10.31
+
+
+Granted
+—
+
+
+—
+
+
+
+
+2,327,258
+
+
+6.80
+
+
+Vested
+(5,715
+)
+
+
+10.28
+
+
+
+
+(515,963
+)
+
+
+10.84
+
+
+Forfeited
+—
+
+
+
+
+—
+
+
+
+
+(1,105,226
+)
+
+
+9.31
+
+
+Unvested at March 31, 2017
+5,715
+
+
+$
+10.28
+
+
+
+
+4,561,437
+
+
+$
+8.70
+
+
+
+
+RSAs vested during the three months ended March 31, 2017 consisted entirely of time-based awards. As of March 31, 2017, unrecognized share-based compensation expense for RSAs was $0.1 million, which is expected to amortize over a remaining weighted average period of 0.2 years.
+RSUs vested during the three months ended March 31, 2017 consisted of 447,646 time-based awards and 68,317 performance-based awards. As of March 31, 2017, unrecognized share-based compensation expense for time-based and performance-based awards was $15.8 million and $6.4 million respectively, and is expected to amortize over a remaining weighted average period of 1.9 years.
+
+
+11. INCOME TAXES
+
+
+Income tax expense and effective tax rates were as follows:
+
+
+Three Months Ended March 31,
+2017
+2016
+Income before income taxes
+$
+15,948
+
+
+$
+13,051
+
+
+Income tax expense
+4,938
+
+
+2,905
+
+
+Effective tax rate
+31.0
+%
+22.1
+%
+
+
+During the three months ended March 31, 2017, the increase in effective tax rate, compared to the same period in 2016, is primarily due to operating losses in certain jurisdictions where the Company is unable to record tax benefits because it has determined that it is not more likely than not that such tax benefits will be realized, as well as an increase in profitability in certain jurisdictions for which tax expense is recorded. The Company’s effective income tax rate, for each period presented, also differs from the federal U.S. statutory rate primarily due to differences in income tax rates between U.S. and foreign jurisdictions as well as book losses in certain jurisdictions for which tax benefits cannot be recognized. There were no significant or unusual discrete tax items during the quarter. The Company had unrecognized tax benefits of $5.2 million and $4.8 million at March 31, 2017 and December 31, 2016, respectively, and the Company does not expect any significant changes in tax benefits in the next twelve months.
+
+
+12. EARNINGS PER SHARE
+Basic and diluted earnings per common share (“EPS”) for the three months ended March 31, 2017 and 2016 were as follows:
+Three Months Ended March 31,
+2017
+2016
+(in thousands)
+Numerator:
+
+
+
+
+Net income attributable to common stockholders
+$
+7,155
+
+
+$
+6,361
+
+
+Less: adjustment for income allocated to participating securities
+(1,127
+)
+(1,010
+)
+Net income attributable to common stockholders - basic and diluted
+$
+6,028
+
+
+$
+5,351
+
+
+Denominator:
+
+
+
+
+Weighted average common shares outstanding - basic
+73,810
+
+
+73,087
+
+
+Plus: dilutive effect of stock options and unvested restricted stock units
+751
+
+
+946
+
+
+Weighted average common shares outstanding - diluted
+74,561
+
+
+74,033
+
+
+Net income per common share:
+
+
+
+
+Basic
+$
+0.08
+
+
+$
+0.07
+
+
+Diluted
+$
+0.08
+
+
+$
+0.07
+
+
+
+
+Diluted EPS is calculated using the two-class method. For the three months ended March 31, 2017 and 2016, 0.8 million and 1.9 million options and restricted stock units, respectively, were excluded from the calculation of diluted EPS under the two-class method because the effect was anti-dilutive. If converted, Series A preferred stock would represent approximately 15.7% of the Company's common stock outstanding, or 13.8 million additional common shares as of March 31, 2017.
+
+
+15
+* * *
+Table of Contents
+
+
+
+
+13. COMMITMENTS AND CONTINGENCIES
+Rental Commitments and Contingencies
+The Company rents retail store, office and warehouse space, vehicles, and equipment under operating leases expiring at various dates through 2033. Rent expense for leases with escalations or rent holidays is recognized on a straight-line basis over the lease term beginning on the lease inception date. Certain leases also provide for contingent rents, which are generally determined as a percent of sales in excess of specified levels. A contingent rent liability is recognized together with the corresponding rent expense when specified levels have been achieved or when the Company determines that achieving the specified levels during the period is probable.
+Future minimum lease payments under operating leases were as follows:
+
+
+March 31, 2017
+(in thousands)
+2017 (remainder of year)
+$
+56,964
+
+
+2018
+65,734
+
+
+2019
+38,776
+
+
+2020
+27,173
+
+
+2021
+22,084
+
+
+Thereafter
+67,846
+
+
+Total minimum lease payments
+$
+278,577
+
+
+Minimum sublease rentals of $0.1 million under non-cancelable subleases and contingent rentals, which may be paid under certain retail leases on a basis of percentage of sales in excess of stipulated amounts, are excluded from the commitment schedule.
+
+
+Rent expense under operating leases was as follows:
+Three Months Ended March 31,
+2017
+2016
+(in thousands)
+Minimum rentals (1)
+$
+20,786
+
+
+$
+22,456
+
+
+Contingent rentals
+2,260
+
+
+2,129
+
+
+Less: Sublease rentals
+(37
+)
+(61
+)
+Total rent expense
+$
+23,009
+
+
+$
+24,524
+
+
+_________________________________________________________________
+
+
+(1) Minimum rentals include all lease payments as well as fixed and variable common area maintenance, parking, and storage fees, which were approximately $2.6 million and $2.5 million during the three months ended March 31, 2017 and 2016, respectively.
+
+
+Three Months Ended March 31,
+2017
+2016
+(in thousands)
+Selling, general & administrative expenses
+$
+20,090
+
+
+$
+21,722
+
+
+Cost of goods sold
+2,919
+
+
+2,802
+
+
+Total
+$
+23,009
+
+
+$
+24,524
+
+
+
+
+Purchase Commitments
+Under the terms of an annual supply agreement, the Company guarantees payment for certain third-party manufacturer purchases of raw materials used in the manufacture of its products, up to a maximum of €3.5 million (approximately $3.7 million as of March 31, 2017).
+
+
+16
+* * *
+Table of Contents
+
+
+As of March 31, 2017 the Company had firm purchase commitments with other third-party manufacturers of $94.6 million.
+Government Tax Audits
+The Company is regularly subject to, and is currently undergoing, audits by various tax authorities in the United States and several foreign jurisdictions, including customs duties, import and other taxes for prior tax years. See Note 15 — Legal Proceedings for additional information.
+Other
+During its normal course of business, the Company may make certain indemnities, commitments and guarantees under which it may be required to make payments in relation to certain matters. The Company cannot determine a range of estimated future payments and has not recorded any liability for indemnities, commitments and guarantees in the accompanying condensed consolidated balance sheets.
+See Note 15 — Legal Proceedings for further details regarding potential loss contingencies related to government tax audits and other current legal proceedings.
+
+
+
+
+17
+* * *
+Table of Contents
+
+
+14. OPERATING SEGMENTS AND GEOGRAPHIC INFORMATION
+
+
+The Company has three reportable operating segments based on the geographic nature of our operations: Americas, Asia Pacific, and Europe. In addition, the 'Other businesses' category aggregates insignificant operating segments that do not meet the reportable segment threshold, including manufacturing operations located in Mexico and Italy, and corporate operations.
+
+
+Each of the reportable operating segments derives its revenues from the sale of footwear and accessories to external customers. Revenues for 'Other businesses' include non-footwear product sales to external customers that are excluded from the measurement of segment operating revenues and income.
+Segment performance is evaluated based on segment results without allocating corporate expenses, or indirect general, administrative, and other expenses. Segment profits or losses include adjustments to eliminate inter-segment sales. As such, reconciling items for segment operating income represent unallocated corporate and other expenses as well as inter-segment eliminations. The following tables set forth information related to reportable operating segments:
+Three Months Ended March 31,
+2017
+2016
+(in thousands)
+Revenues:
+Americas
+$
+117,722
+
+
+$
+124,130
+
+
+Asia Pacific (1)
+98,344
+
+
+104,502
+
+
+Europe
+51,651
+
+
+50,336
+
+
+Total segment revenues
+267,717
+
+
+278,968
+
+
+Other businesses
+190
+
+
+172
+
+
+Total consolidated revenues
+$
+267,907
+
+
+$
+279,140
+
+
+Operating income:
+Americas
+$
+22,002
+
+
+$
+16,576
+
+
+Asia Pacific
+26,726
+
+
+25,851
+
+
+Europe
+12,274
+
+
+6,523
+
+
+Total segment income from operations
+61,002
+
+
+48,950
+
+
+Reconciliation of total segment income from operations to income before income taxes:
+Other businesses
+(5,617
+)
+(6,074
+)
+Unallocated corporate and other
+(39,803
+)
+(28,633
+)
+Income from operations
+15,582
+
+
+14,243
+
+
+Foreign currency gain (loss), net
+276
+
+
+(1,247
+)
+Interest income
+150
+
+
+216
+
+
+Interest expense
+(184
+)
+(243
+)
+Other income
+124
+
+
+82
+
+
+Income before income taxes
+$
+15,948
+
+
+$
+13,051
+
+
+Depreciation and amortization:
+Americas
+$
+1,345
+
+
+$
+1,478
+
+
+Asia Pacific
+926
+
+
+1,078
+
+
+Europe
+385
+
+
+780
+
+
+Total segment depreciation and amortization
+2,656
+
+
+3,336
+
+
+Other businesses
+1,746
+
+
+1,710
+
+
+Unallocated corporate and other
+4,044
+
+
+3,549
+
+
+Total consolidated depreciation and amortization
+$
+8,446
+
+
+$
+8,595
+
+
+_________________________________________________________________
+
+
+(1) In April and May 2017, we entered into agreements to transfer certain company-operated stores located in the Middle East and China to distributors.
+
+
+18
+* * *
+Table of Contents
+
+
+
+
+15. LEGAL PROCEEDINGS
+The Company was subjected to an audit by U.S. Customs & Border Protection ("CBP") in respect of the period from 2006 to 2010. In October 2013, CBP issued their final audit report. In that report CBP projected that unpaid duties totaling approximately $12.4 million were due for the period under review and recommended collection of the duties due. On April 20, 2017, CBP agreed to settle the matter and accepted the Company’s previously tendered payment of $7 million. This matter is now closed. The settlement has been reflected in the Company’s condensed financial statements as of March 31, 2017.
+The Company was subjected to an audit by the Brazilian Federal Tax Authorities related to imports of footwear from China between 2010 and 2014. On January 13, 2015, the Company was notified about the issuance of assessments totaling approximately $4.6 million for the period January 2010 through May 2011. The Company has disputed these assessments and asserted defenses to the claims. On February 25, 2015, the Company received additional assessments totaling approximately $10.6 million related to the remainder of the audit period. The Company has also disputed these assessments and asserted defenses to these claims in administrative appeals, and is awaiting definitive resolution of those administrative appeals. In the event that the definitive resolution of these administrative appeals is adverse to the Company, the Company has recourse to further judicial processes, which would likely require the posting of a bond. It is anticipated that this matter will take up to two years to be fully resolved. It is not possible at this time to predict the outcome of this matter or to estimate a potential amount of loss, if any.
+For all other claims and other disputes, where the Company is able to estimate possible losses or a range of possible losses, the Company estimates that as of March 31, 2017, it is reasonably possible that losses associated with these claims and other disputes could potentially exceed amounts accrued by the Company by up to $0.4 million, which is reported in the condensed consolidated balance sheet in 'Accrued expenses and other liabilities'.
+The Company is subject to other litigation from time to time in the ordinary course of business, including employment, intellectual property and product liability claims. The Company is not party to any other pending legal proceedings that it believes would reasonably have a material adverse impact on its business, financial position, results of operations or cash flows.
+
+
+19
+* * *
+Table of Contents
+
+
+## ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Business Overview
+Crocs, Inc. and its consolidated subsidiaries (collectively, the “Company,” “Crocs,” “we,” “our,” or “us”) are engaged in the design, development, manufacturing, worldwide marketing, distribution and sale of casual lifestyle footwear and accessories for men, women, and children. The broad appeal of our footwear has allowed us to market our products through a wide range of distribution channels, our own Crocs single-branded stores including both full price and outlet stores, our own e-commerce sites, traditional multi-branded stores including family footwear stores, sporting goods stores and a variety of specialty and independent retail channels, and third-party e-commerce sites. In select markets we also sell to distributors that are typically granted the rights to distribute our products in a given geographical area.
+Known or Anticipated Trends
+
+
+Based on our recent operating results and current perspectives on our operating environment, we anticipate certain trends to impact our operating results:
+
+
+•
+Softening of the global economy and a cautious retail environment may continue to negatively affect customer purchasing trends.
+
+
+•
+Foreign exchange rates may continue to unfavorably impact revenues from our foreign operations for the foreseeable future.
+
+
+•
+Consumers spending preferences continue to shift toward e-commerce and away from brick and mortar stores. This has resulted in continued sales growth in our e-commerce channel, which has been largely offset by declining foot traffic in our retail locations.
+
+
+•
+We anticipate lower retail revenues and selling, general and administrative expenses as we close less productive stores as leases expire and transfer select company operated stores to distributors. Distributor revenues are reported within our wholesale channel.
+
+
+•
+We have identified reductions in selling, general and administrative expenses (“SG&A”) in the amount of $75 to $85 million. These actions are projected to generate an annual $30 to $35 million improvement in earnings before interest and taxes by 2019. We expect to achieve approximately $25 million of these SG&A reductions in 2017. We expect to incur charges of approximately $10 to $15 million over the next two years to achieve these SG&A reductions, with approximately $7 to $10 million of that being incurred in 2017. In conjunction with these actions, we anticipate closing approximately 160 company operated retail stores by the end of 2018, thereby reducing our total store count to approximately 400 from 558 at the end of 2016.
+
+
+Use of Non-GAAP Financial Measures
+In addition to financial measures presented on the basis of accounting principles generally accepted in the United States of America (“U.S. GAAP”), we present certain information related to our current period results of operations through “constant currency”, which is a non-GAAP financial measure and should be viewed as a supplement to our results of operations and presentation of reportable segments under U.S. GAAP. Constant currency represents current period results that have been retranslated using prior year average foreign exchange rates for the comparative period to enhance the visibility of the underlying business trends excluding the impact of foreign currency exchange rate fluctuations.
+Management uses constant currency to assist in comparing business trends from period to period on a consistent non-GAAP basis in communications with the Board of Directors (the “Board”), stockholders, analysts, and investors concerning our financial performance. We believe constant currency is useful to investors and other users of our consolidated financial statements as an additional tool to evaluate operating performance. We believe it also provides a useful baseline for analyzing trends in our operations. Investors should not consider constant currency in isolation from, or as a substitute for, financial information prepared in accordance with U.S. GAAP.
+
+
+20
+* * *
+Table of Contents
+
+
+Financial Highlights
+The following are significant developments in our businesses during the three months ended March 31, 2017:
+
+
+•
+Revenues for the three months ended March 31, 2017 were $267.9 million, a decrease of $11.2 million, or 4.0%, compared to the same period in 2016.
+
+
+•
+Cost of sales for the three months ended March 31, 2017 was $134.3 million, a decrease of $15.5 million, or 10.3%, compared to the same period in 2016.
+
+
+•
+Gross profit for the three months ended March 31, 2017 was $133.6 million, an increase of $4.2 million, or 3.3%. Gross margin increased 350 basis points to 49.9%, compared to the same period in 2016.
+
+
+•
+Selling, general and administrative expenses increased $2.9 million, or 2.5%, including $2.2 million in strategic consulting and reorganization costs, for the three months ended March 31, 2017 compared to the same period in 2016.
+
+
+•
+Net income attributable to common stockholders increased $0.8 million to income of $7.2 million compared to $6.4 million for the same period in 2016. Net earnings per common share (“EPS”) was $0.08 for the three months ended March 31, 2017 compared to $0.07 for the three months ended March 31, 2016.
+Future Outlook
+We intend to continue our strategic plans for long-term improvement and growth of the business, which comprise these key initiatives:
+
+
+(1) developing powerful product stories supported with effective marketing,
+
+
+(2) driving global cohesive brand positioning,
+
+
+(3) increasing working marketing spend,
+
+
+(4) enhancing engagement with key wholesale accounts,
+
+
+(5) gaining greater strategic and economic leverage from our direct-to-consumer assets,
+
+
+(6) prioritizing investment in larger-scale geographies,
+
+
+(7) streamlining our cost structure by reducing duplication and complexity across regional offices and the corporate center, and
+
+
+(8) investing to drive supply chain effectiveness and reliability.
+
+
+We believe these initiatives will better position Crocs to adapt to changing customer demands and global economic developments. We are focusing on our core molded footwear heritage by narrowing our product line with an emphasis on higher margin units, as well as developing innovative new casual lifestyle footwear platforms. By streamlining the product portfolio and reducing non-core product development, we believe we will create a more powerful consumer connection to the brand.
+
+
+We are refining our business model around the world, prioritizing direct investment in larger-scale geographies to focus our resources on the demographics with the largest growth prospects, moving away from direct investment in the retail and wholesale businesses in smaller markets and transferring significant commercial responsibilities to distributors and third-party agents. Further, we intend to expand our engagement with leading wholesale accounts in select markets to drive sales growth, optimize product placement and enhance brand reputation.
+
+
+
+
+
+
+
+
+21
+* * *
+Table of Contents
+
+
+Results of Operations
+
+
+Comparison of the Three Months Ended March 31, 2017 and 2016
+Three Months Ended March 31,
+2017
+2016
+Change
+(in thousands, except per share data and average selling price)
+Revenues
+$
+267,907
+
+
+$
+279,140
+
+
+$
+(11,233
+)
+(4.0
+)%
+Cost of sales
+134,323
+
+
+149,774
+
+
+(15,451
+)
+(10.3
+)%
+Gross profit
+133,584
+
+
+129,366
+
+
+4,218
+
+
+3.3
+%
+Selling, general and administrative expenses
+118,002
+
+
+115,123
+
+
+2,879
+
+
+2.5
+%
+Income from operations
+15,582
+
+
+14,243
+
+
+1,339
+
+
+9.4
+%
+Foreign currency gain (loss), net
+276
+
+
+(1,247
+)
+1,523
+
+
+122.1
+%
+Interest income
+150
+
+
+216
+
+
+(66
+)
+(30.6
+)%
+Interest expense
+(184
+)
+(243
+)
+59
+
+
+(24.3
+)%
+Other income, net
+124
+
+
+82
+
+
+42
+
+
+51.2
+%
+Income before income taxes
+15,948
+
+
+13,051
+
+
+2,897
+
+
+22.2
+%
+Income tax expense
+(4,938
+)
+(2,905
+)
+(2,033
+)
+70.0
+%
+Net income
+11,010
+
+
+10,146
+
+
+864
+
+
+8.5
+%
+Dividends on Series A convertible preferred stock
+(3,000
+)
+(3,000
+)
+—
+
+
+—
+%
+Dividend equivalents on Series A convertible preferred shares related to redemption value accretion and beneficial conversion feature
+(855
+)
+(785
+)
+(70
+)
+8.9
+%
+Net income attributable to common stockholders
+$
+7,155
+
+
+$
+6,361
+
+
+$
+794
+
+
+12.5
+%
+Net income per common share:
+Basic
+$
+0.08
+
+
+$
+0.07
+
+
+$
+0.01
+
+
+14.3
+%
+Diluted
+$
+0.08
+
+
+$
+0.07
+
+
+$
+0.01
+
+
+14.3
+%
+Gross margin
+49.9
+%
+46.3
+%
+350
+
+
+7.6
+%
+Operating margin
+5.8
+%
+5.1
+%
+70
+
+
+13.7
+%
+Footwear unit sales
+16,396
+
+
+16,268
+
+
+128
+
+
+0.8
+%
+Average footwear selling price
+$
+16.11
+
+
+$
+16.85
+
+
+$
+(0.74
+)
+(4.4
+)%
+
+
+Revenues. Revenues decreased $11.2 million, or 4.0%, in the three months ended March 31, 2017, compared to the same period in 2016. The decrease in revenues was due to the net effect of: (i) an increase of $2.2 million, or 0.8%, due to higher unit sales volumes, (ii) a decrease of $14.3 million, or 5.1%, due to lower average selling prices, and (iii) an increase of $0.9 million, or 0.3%, from foreign currency translation.
+
+
+Cost of sales. During the three months ended March 31, 2017, cost of sales decreased $15.5 million, or 10.3%, compared to the same period in 2016. The decrease in cost of sales was due to the net impact of: (i) an increase of $1.2 million, or 0.8%, due to higher unit sales volumes, (ii) a decrease of $18.5 million, or 12.3%, due to lower average costs per unit, and (iii) an increase of $1.8 million, or 1.2%, from foreign currency translation. Lower average costs per unit were primarily the result of product mix, including sandals and clog silhouettes which cost less to produce, and lower negotiated inbound ocean freight costs.
+Gross profit. During the three months ended March 31, 2017, gross profit increased $4.2 million, or 3.3%, and gross margin increased 350 basis points to 49.9% compared to the same period in 2016. The increase in gross profit is due to the net impact of: (i) an increase of $4.1 million, or 3.2%, due to the combined impact of decreases in average costs per unit which exceeded decreases in average selling prices, (ii) an increase of $1.0 million, or 0.8%, due to higher sales unit volumes, and (iii) a decrease of $0.9 million, or 0.7%, from foreign currency translation.
+
+
+22
+* * *
+Table of Contents
+
+
+Selling, general and administrative expenses. SG&A increased $2.9 million, or 2.5%, during the three months ended March 31, 2017, compared to the same period in 2016. The increase was primarily due to the combined impact of: (i) an increase of $3.8 million in marketing expense related to our 2017 spring and summer advertising and promotional activities; (ii) increases in other expenses of $0.9 million, none of which were individually significant; offset by (iii) cash recoveries of previously reserved accounts receivable of $1.1 million; and (iv) lower SG&A related to the disposition of our Taiwan and South Africa businesses of $0.7 million.
+Bad debt expense related to our China operations was not significant during 2017 or 2016, due to the implementation of a more restrictive credit policy in 2015 and continued focus on the creditworthiness of our distribution partners.
+
+
+Foreign currency gain (loss), net. ‘Foreign currency gain (loss), net’ consists of foreign currency gains and losses from the re-measurement and settlement of monetary assets and liabilities denominated in non-functional currencies, and realized and unrealized gains and losses on foreign currency derivative instruments. During the three months ended March 31, 2017, we recognized realized and unrealized net gains of $0.3 million compared to net losses of $1.2 million on foreign currency during the three months ended March 31, 2016.
+Income tax expense. During the three months ended March 31, 2017, income tax expense increased $2.0 million compared to the same period in 2016. The effective tax rate for the three months ended March 31, 2017 was 31.0% compared to an effective tax rate of 22.1% for the same period in 2016, an 8.9% increase. The increase in the effective rate was driven primarily by operating losses in certain jurisdictions where we are unable to record tax benefits because we have determined that it is not more likely than not that such tax benefits will be realized, as well as an increase in profitability in certain jurisdictions for which tax expense is recorded. Our effective tax rate of 31.0% for the three months ended March 31, 2017 differs from the federal U.S. statutory rate primarily due to differences in income tax rates between U.S. and foreign jurisdictions as well as book losses in certain jurisdictions for which tax benefits cannot be recognized.
+
+
+Revenues by Channel
+Three Months Ended
+March 31,
+Change
+Constant Currency Change (1)
+2017
+2016
+$
+%
+$
+%
+(in thousands)
+Wholesale:
+
+
+
+
+
+
+
+
+
+
+
+
+Americas
+$
+71,023
+
+
+$
+74,155
+
+
+$
+(3,132
+)
+(4.2
+)%
+$
+(4,279
+)
+(5.8
+)%
+Asia Pacific
+70,935
+
+
+77,154
+
+
+(6,219
+)
+(8.1
+)%
+(6,220
+)
+(8.1
+)%
+Europe
+40,583
+
+
+39,062
+
+
+1,521
+
+
+3.9
+%
+2,137
+
+
+5.5
+%
+Other businesses
+190
+
+
+172
+
+
+18
+
+
+10.5
+%
+21
+
+
+12.2
+%
+Total wholesale
+182,731
+
+
+190,543
+
+
+(7,812
+)
+(4.1
+)%
+(8,341
+)
+(4.4
+)%
+Retail:
+
+
+
+
+
+
+
+
+
+
+
+
+Americas
+32,829
+
+
+35,749
+
+
+(2,920
+)
+(8.2
+)%
+(2,958
+)
+(8.3
+)%
+Asia Pacific
+21,532
+
+
+22,519
+
+
+(987
+)
+(4.4
+)%
+(1,164
+)
+(5.2
+)%
+Europe
+7,419
+
+
+7,555
+
+
+(136
+)
+(1.8
+)%
+(411
+)
+(5.4
+)%
+Total retail
+61,780
+
+
+65,823
+
+
+(4,043
+)
+(6.1
+)%
+(4,533
+)
+(6.9
+)%
+E-commerce:
+
+
+
+
+
+
+
+
+
+
+
+
+Americas
+13,869
+
+
+14,226
+
+
+(357
+)
+(2.5
+)%
+(392
+)
+(2.8
+)%
+Asia Pacific
+5,877
+
+
+4,829
+
+
+1,048
+
+
+21.7
+%
+1,103
+
+
+22.8
+%
+Europe
+3,650
+
+
+3,719
+
+
+(69
+)
+(1.9
+)%
+(32
+)
+(0.9
+)%
+Total e-commerce
+23,396
+
+
+22,774
+
+
+622
+
+
+2.7
+%
+679
+
+
+3.0
+%
+Total revenues
+$
+267,907
+
+
+$
+279,140
+
+
+$
+(11,233
+)
+(4.0
+)%
+$
+(12,195
+)
+(4.4
+)%
+_________________________________________________________________
+
+
+(1) Reflects year over year change as if the current period results were in “constant currency”, which is a non-GAAP financial measure. “Constant currency” represents current period results that have been retranslated using exchange rates used in the prior comparative period.
+
+
+
+
+23
+* * *
+Table of Contents
+
+
+Wholesale channel revenues. During the three months ended March 31, 2017, revenues from our wholesale channel decreased $7.8 million, or 4.1%, compared to the same period in 2016. The decrease in wholesale channel revenues was due to the net impact of: (i) an increase of $2.2 million, or 1.1%, in unit sales volumes, (ii) a decrease of $10.5 million, or 5.5%, due to lower average selling prices, and (iii) an increase of $0.5 million, or 0.3%, from foreign currency translation.
+Retail channel revenues. During the three months ended March 31, 2017, revenues from our retail channel decreased $4.0 million, or 6.1%, compared to the same period in 2016. The decrease in retail channel revenues was due to the net impact of: (i) a decrease of $3.1 million, or 4.7%, in unit sales volumes, (ii) a decrease of $1.4 million, or 2.2%, due to lower average selling prices, and (iii) an increase of $0.5 million, or 0.8%, from foreign currency translation.
+
+
+E-commerce channel revenues. During the three months ended March 31, 2017, revenues from our e-commerce channel increased $0.6 million, or 2.7%, compared to the same period in 2016. The increase in e-commerce revenues was due to the net impact of: (i) an increase of $2.4 million, or 10.5%, in unit sales volumes (primarily due to increased sales volumes in the Americas and Asia Pacific segments), (ii) a decrease of $1.7 million, or 7.5%, due to lower average selling prices, and (iii) a decrease of $0.1 million, or 0.3%, from foreign currency translation.
+
+
+Future changes in average selling prices will be impacted by: (i) the mix of products sold, (ii) the sales channel under which the sales are made (as we generally realize higher sales prices from our retail and e-commerce channels as compared to our wholesale channel), and (iii) the level of sales discounts and incentives we offer our customers.
+
+
+Comparison of the Three Months Ended March 31, 2017 and 2016 by Reportable Operating Segment
+
+
+The following table sets forth information related to our reportable operating segments, including a comparison of revenues and operating income by segment:
+Three Months Ended March 31,
+Change
+Constant Currency
+Change (1)
+2017
+2016
+$
+%
+$
+%
+(in thousands)
+Revenues:
+
+
+
+
+
+
+
+
+
+
+
+
+Americas
+$
+117,722
+
+
+$
+124,130
+
+
+$
+(6,408
+)
+(5.2
+)%
+$
+(7,629
+)
+(6.1
+)%
+Asia Pacific
+98,344
+
+
+104,502
+
+
+(6,158
+)
+(5.9
+)%
+(6,281
+)
+(6.0
+)%
+Europe
+51,651
+
+
+50,336
+
+
+1,315
+
+
+2.6
+%
+1,694
+
+
+3.4
+%
+Total segment revenues
+267,717
+
+
+278,968
+
+
+(11,251
+)
+(4.0
+)%
+(12,216
+)
+(4.4
+)%
+Other businesses
+190
+
+
+172
+
+
+18
+
+
+10.5
+%
+21
+
+
+12.2
+%
+Total revenues
+$
+267,907
+
+
+$
+279,140
+
+
+$
+(11,233
+)
+(4.0
+)%
+$
+(12,195
+)
+(4.4
+)%
+Income from operations: (2)
+
+
+
+
+
+
+
+
+Americas
+$
+22,002
+
+
+$
+16,576
+
+
+$
+5,426
+
+
+32.7
+%
+$
+5,306
+
+
+32.0
+%
+Asia Pacific
+26,726
+
+
+25,851
+
+
+875
+
+
+3.4
+%
+816
+
+
+3.2
+%
+Europe
+12,274
+
+
+6,523
+
+
+5,751
+
+
+88.2
+%
+5,835
+
+
+89.5
+%
+Total segment operating income
+61,002
+
+
+48,950
+
+
+12,052
+
+
+24.6
+%
+11,957
+
+
+24.4
+%
+Other businesses (3)
+(5,617
+)
+(6,074
+)
+457
+
+
+(7.5
+)%
+423
+
+
+(7.0
+)%
+Unallocated corporate and other (4)
+(39,803
+)
+(28,633
+)
+(11,170
+)
+39.0
+%
+(11,238
+)
+39.2
+%
+Total operating income
+$
+15,582
+
+
+$
+14,243
+
+
+$
+1,339
+
+
+9.4
+%
+$
+1,142
+
+
+8.0
+%
+_________________________________________________________________
+
+
+(1) Reflects year over year change as if the current period results were in “constant currency”, which is a non-GAAP financial measure. “Constant currency” represents current period results that have been retranslated using exchange rates used in the prior comparative period.
+
+
+(2) Income from operations in the Americas increased primarily as a result of lower product costs. Income from operations in Asia increased as a result of both lower product costs and lower selling, general and administrative expenses. Income from operations in Europe increased as a result of higher product gross margin due to less discount channel sales, and lower selling, general and administrative expenses.
+
+
+24
+* * *
+Table of Contents
+
+
+
+
+(3) Other businesses consists primarily of our owned manufacturing facilities.
+
+
+(4) Unallocated corporate and other includes a corporate component consisting primarily of corporate support and administrative functions, costs associated with share-based compensation, research and development, brand marketing, legal, depreciation and amortization of corporate and other assets not allocated to operating segments.
+
+
+Americas Operating Segment
+Revenues. During the three months ended March 31, 2017, revenues for our Americas segment decreased $6.4 million, or 5.2%, compared to the same period in 2016. The decrease in the Americas segment revenues was due to the net impact of: (i) a decrease of $5.4 million, or 4.3%, related to lower unit sales volumes, (ii) a decrease of $2.3 million, or 1.8%, related to a decrease in average selling prices, and (iii) an increase of $1.3 million, or 0.9%, due to foreign currency translation.
+Cost of Sales. During the three months ended March 31, 2017, cost of sales for our Americas segment decreased $12.0 million, or 17.2%, compared to the same period in 2016. The decrease in the Americas segment cost of sales was due to the net impact of: (i) a decrease of $3.0 million, or 4.3%, due to lower unit sales volumes, (ii) a decrease of $9.8 million, or 14.1%, due to lower average costs per unit, and (iii) an increase of $0.8 million, or 1.2%, due to foreign currency translation.
+Gross Profit. During the three months ended March 31, 2017, gross profit for the Americas segment increased $5.5 million, or 10.2%, and gross margin increased 710 basis points to 51.0%, compared to the same period in 2016. The increase in the Americas segment gross profit is due to the net impact of: (i) a decrease of $2.4 million, or 4.3%, due to lower unit sales volumes, (ii) an increase of $7.5 million, or 13.8%, due to a decline in average costs per unit which exceeded the decline in average selling prices and, (iii) an increase of $0.4 million, or 0.7%, due to foreign currency translation.
+SG&A. During the three months ended March 31, 2017, SG&A for our Americas segment increased $0.1 million, or 0.3%, compared to the same period in 2016. The increase in SG&A was primarily due to the net impact of: (i) an increase of $0.7 million in salaries and wages, (ii) an increase of $0.4 million in marketing expense, and (iii) a decrease of $1.0 million in facilities, services and other expenses, none of which were individually significant.
+Asia Pacific Operating Segment
+Revenues. During the three months ended March 31, 2017, revenues for our Asia Pacific segment decreased $6.2 million, or 5.9%, compared to the same period in 2016. The decrease in the Asia Pacific segment revenues was due to the net impact of: (i) an increase of $13.3 million, or 12.7%, due to higher unit sales volumes, (ii) a decrease of $19.6 million, or 18.7%, in average selling prices, and (iii) an increase of $0.1 million, or 0.1%, from foreign currency translation.
+Cost of Sales. During the three months ended March 31, 2017, cost of sales for our Asia Pacific segment decreased $2.3 million, or 4.9%, compared to the same period in 2016. The decrease in the Asia Pacific segment cost of sales was due to the net impact of: (i) an increase of $5.9 million, or 12.7%, due to higher unit sales volumes, (ii) a decrease of $8.3 million, or 17.7%, due to lower average costs per unit, and (iii) an increase $0.1 million, or 0.1%, from foreign currency translation.
+Gross Profit. During the three months ended March 31, 2017, gross profit for the Asia Pacific segment decreased $3.9 million, or 6.7%, and gross margin decreased 47 basis points to 54.8% compared to the same period in 2016. The decrease in the Asia Pacific segment gross profit is due to the net impact of: (i) an increase $7.3 million, or 12.7%, due to higher unit sales volumes, (ii) a decrease of $11.3 million, or 19.5%, due to a decline in average selling prices that exceeded the decline in average costs per unit, and (iii) a $0.1 million, or 0.0%, increase from foreign currency translation.
+SG&A. During the three months ended March 31, 2017, SG&A for our Asia Pacific segment decreased $4.8 million, or 14.9%, compared to the same period in 2016. The decrease in SG&A was primarily due to the net impact of: (i) a decrease of $1.1 million due to bad debt recoveries, (ii) a decrease of $1.3 million in salaries and wages, (iii) a decrease of $1.4 million in facilities costs, and (iv) a decrease of $1.0 million in marketing expense, services and other costs, none of which were individually significant.
+
+
+25
+* * *
+Table of Contents
+
+
+Europe Operating Segment
+Revenues. During the three months ended March 31, 2017, revenues for our Europe segment increased $1.3 million, or 2.6%, compared to the same period in 2016. The increase in the Europe segment revenues was due to the net impact of: (i) a decrease of $3.1 million, or 6.2%, due to lower unit sales volumes, (ii) an increase of $4.8 million, or 9.6%, due to a higher average selling prices, and (iii) a decrease of $0.4 million, or 0.8%, from foreign currency translation.
+
+
+Cost of Sales. During the three months ended March 31, 2017, cost of sales for our Europe segment decreased $1.7 million, or 6.2%, compared to the same period in 2016. The decrease in the Europe segment cost of sales was due to the net impact of: (i) a decrease of $1.7 million, or 6.2%, due to lower sales volumes, (ii) an increase of $0.2 million or 0.7%, in higher average costs per unit, and (iii) a decrease of $0.2 million, or 0.7%, from foreign currency translation.
+
+
+Gross Profit. During the three months ended March 31, 2017, gross profit for the Europe segment increased $3.0 million, or 13.4%, and gross margin increased 475 basis points to 49.7% compared to the same period in 2016. The increase in the Europe segment gross profit is due to the net impact of: (i) a decrease of $1.4 million, or 6.2%, due to lower unit sales volumes, (ii) a $4.6 million, or 20.5%, increase due to a higher average selling prices, and (iii) a $0.2 million, or 0.9%, decrease from foreign currency translation.
+SG&A. During the three months ended March 31, 2017, SG&A for our Europe segment decreased $2.7 million, or 16.8%, compared to the same period in 2016. The decrease in SG&A was primarily due to the net impact of: (i) a $1.0 million decrease in marketing expense, (ii) a $0.5 million decrease in salaries and wages, (iii) a $0.6 million decrease in sales expense, (iv) a $0.3 million decrease in facilities expense, and (v) decreases in services and other costs of $0.3 million.
+
+
+Unallocated Corporate and Other
+
+
+SG&A. During the three months ended March 31, 2017, SG&A costs within Unallocated Corporate and Other increased by $11.2 million or 39.0%, compared to the same period in 2016. The increase was primarily due to: (i) an increase of $1.5 million in salaries and wages, including $0.8 million in severance costs, (ii) an increase of $5.0 million in marketing expenses primarily related to our advertising and promotional activities to support our spring and summer selling seasons, (iii) an increase of $1.3 million in strategic consulting service fees, and (iv) an increase of $3.4 million in other corporate costs, none of which were individually significant.
+
+
+Store Locations and Comparable Store Sales
+
+
+The table below illustrates the overall change in the number of our company-operated retail locations by type of store and reportable operating segment:
+December 31, 2016
+Opened
+Closed
+March 31, 2017
+Company-operated retail locations: (1)
+Type:
+Kiosk/store-in-store
+98
+
+
+—
+
+
+8
+
+
+90
+
+
+Retail stores
+228
+
+
+3
+
+
+12
+
+
+219
+
+
+Outlet stores
+232
+
+
+7
+
+
+6
+
+
+233
+
+
+Total
+558
+
+
+10
+
+
+26
+
+
+542
+
+
+Operating segment:
+Americas
+190
+
+
+1
+
+
+5
+
+
+186
+
+
+Asia Pacific (1)
+270
+
+
+9
+
+
+19
+
+
+260
+
+
+Europe
+98
+
+
+—
+
+
+2
+
+
+96
+
+
+Total
+558
+
+
+10
+
+
+26
+
+
+542
+
+
+_________________________________________________________________
+
+
+(1) In April and May 2017, we entered into agreements to transfer certain company-operated stores located in the Middle East and China to distributors.
+
+
+26
+* * *
+Table of Contents
+
+
+
+
+Comparable retail store sales and direct to consumer store sales by operating segment are as follows:
+Constant Currency (1)
+Three Months Ended March 31,
+2017
+2016
+Comparable store sales (retail only): (1)
+Americas
+(6.0
+)%
+2.9
+%
+Asia Pacific
+(1.4
+)%
+2.0
+%
+Europe
+(7.7
+)%
+7.5
+%
+Global
+(4.8
+)%
+3.1
+%
+Constant Currency (1)
+Three Months Ended March 31,
+2017
+2016
+Direct to consumer comparable store sales (includes retail and e-commerce): (2)
+Americas
+(5.0
+)%
+12.2
+%
+Asia Pacific
+5.5
+%
+5.8
+%
+Europe
+(5.2
+)%
+9.7
+%
+Global
+(2.2
+)%
+9.9
+%
+_________________________________________________________________
+
+
+(1) Reflects period over period change on a “constant currency” basis, which is a non-GAAP financial measure. “Constant currency” represents current period results that have been retranslated using exchange rates used in the prior comparative period.
+
+
+(2) Comparable store status is determined on a monthly basis. Comparable store sales includes the revenues of stores that have been in operation for more than twelve months. Stores in which selling square footage has changed more than 15% as a result of a remodel, expansion or reduction are excluded until the thirteenth month in which they have comparable prior year sales. Temporarily closed stores are excluded from the comparable store sales calculation during the month of closure. Location closures in excess of three months are excluded until the thirteenth month post re-opening. E-commerce revenues are based on same site sales period over period.
+
+
+
+
+27
+* * *
+Table of Contents
+
+
+Liquidity and Capital Resources
+
+
+We anticipate our cash flows from operations and available borrowings under our revolving credit facility (as described below) will be sufficient to meet the ongoing liquidity needs of our business for the next twelve months. As of March 31, 2017, we had $88.9 million in cash and cash equivalents and up to $75.2 million in available borrowings under our revolving credit facility. At March 31, 2017, $83.5 million of our $88.9 million in cash and cash equivalents was held in international locations. See “Repatriation of Cash” below for more information. Additional future financing may be necessary to fund our operations and there can be no assurance that, if needed, we will be able to secure additional debt or equity financing on terms acceptable to us or at all.
+
+
+Condensed Consolidated Statements of Cash Flows
+Our condensed consolidated statements of cash flows are summarized as follows:
+Three Months Ended March 31,
+2017
+2016
+Change
+(in thousands)
+Cash used in operating activities
+$
+(49,890
+)
+$
+(56,938
+)
+$
+7,048
+
+
+Cash used in investing activities
+(6,248
+)
+(7,690
+)
+1,442
+
+
+Cash provided by (used in) financing activities
+(1,116
+)
+4,000
+
+
+(5,116
+)
+Effect of exchange rate changes on cash
+(1,427
+)
+6,367
+
+
+(7,794
+)
+Net change in cash and cash equivalents
+$
+(58,681
+)
+$
+(54,261
+)
+$
+(4,420
+)
+Operating Activities. Cash used in operating activities decreased $7.0 million for the three months ended March 31, 2017 compared to the three months ended March 31, 2016. The decrease in cash used in operating activities resulted from a favorable change in net income as adjusted for non-cash items of $5.5 million, and a favorable change in our operating assets and liabilities of $1.6 million. Net income as adjusted for non-cash items increased primarily due to: (i) an increase of $6.5 million from net unrealized foreign currency forward contracts gains and losses, (ii) an increase of $0.9 million from higher net income, (iii) a decrease of $1.0 million in bad debts, and (iv) a decrease of $0.9 million in other non-cash items. The net increase from operating assets and liabilities was due to: (i) an increase of $2.8 million from accounts receivable, (ii) a decrease of $14.2 million from inventory largely driven by inventory management initiatives, (iii) an increase of $16.4 million in prepaids and other expenses driven primarily by our advertising and promotional expenditures and a customs duty settlement, and (iv) a decrease of $3.4 million from lower accounts payable and accrued expenses.
+
+
+Investing Activities. The $1.4 million decrease in cash used in investing activities for the three months ended March 31, 2017 compared to the three months ended March 31, 2016 is primarily due to the net impact of: (i) a $0.9 million decrease in long-term restricted cash, and (ii) a $0.5 million decrease in cash paid for intangible assets during the prior comparative three months ended March 31, 2016. Our capital expenditures in the three months ended March 31, 2017 did not change significantly compared to the same period in 2016.
+
+
+Financing Activities. The $5.1 million decrease in cash provided by financing activities for the three months ended March 31, 2017 compared to the three months ended March 31, 2016 resulted from lower borrowings and repayments during the three months ended March 31, 2017 compared to the same period in 2016. Our net borrowings decreased because we financed more of our short-term cash requirements from internal cash generated from operations.
+
+
+Working Capital. Changes in cash from working capital during the three months ended March 31, 2017 were due primarily to the following: (i) higher accounts receivable of $66.9 million, primarily due to the higher seasonal sales volumes in the first quarter as compared to the fourth quarter of last year, (ii) higher inventories of $28.6 million in advance of our spring and summer selling seasons, (iii) lower prepaid expenses and other assets of $9.6 million due primarily to a customs duty settlement of $7.0 million and amortization of prepaid advertising, endorsement and other prepaids of $2.6 million, and (iv) higher accounts payable, accrued expenses and other of $13.8 million, primarily related to increased inventory levels in advance of our spring and summer selling seasons. Cash on hand decreased $58.7 million as of March 31, 2017 compared to December 31, 2016.
+
+
+Bad debt expense related to our China operations was not significant during 2017 or 2016, due to the implementation of a more restrictive credit policy in 2015 and continued focus on the creditworthiness of our distribution partners.
+
+
+
+
+28
+* * *
+Table of Contents
+
+
+Senior Revolving Credit Facility
+
+
+In order to provide additional liquidity in the future and to help support our strategic goals, our Senior Revolving Credit Facility (the "Facility"), as amended, provides for borrowings of up to $80.0 million through February 2021. The Facility contains financial covenants that restrict certain actions by us, including limitations on: (i) stock repurchases to $50.0 million per year, subject to certain restrictions; and (ii) capital expenditures and commitments to $50.0 million per year. The Facility also requires us to meet certain financial covenant ratios that become effective when total borrowings, including letters of credit, exceed $20.0 million during certain periods or when the outstanding borrowings exceed the borrowing base. If the financial covenants are in effect, we must maintain a minimum fixed charge coverage ratio of 1.10 to 1.00, and a maximum leverage ratio of 2.00 to 1.00. The weighted average interest rate on borrowings as of March 31, 2017 was 3.54%. As of March 31, 2017, we were in compliance with all covenants.
+
+
+As of March 31, 2017, we had borrowings of $3.5 million on the Facility and $1.3 million of outstanding letters of credit, resulting in $75.2 million of available credit for future financing needs.
+
+
+Long-term Bank Borrowings
+
+
+As of March 31, 2017 and December 31, 2016, we had $0.9 million and $2.3 million, respectively, of current debt outstanding under notes payable. As of March 31, 2017, the notes bear interest rates ranging from 1.99% to 2.63%.
+
+
+Stock Repurchase Plan Authorizations
+On December 26, 2013, the Board approved the repurchase of up to $350.0 million of our common stock. The number, price, structure, and timing of the repurchases will be at our sole discretion and may be made in the open market or in privately negotiated transactions. The repurchase authorization does not have an expiration date and does not oblige us to acquire any particular amount of our common stock. The Board may suspend, modify, or terminate the repurchase program at any time without prior notice.
+As of March 31, 2017, we had $118.7 million of remaining common stock repurchase authorizations under our 2013 stock repurchase plan. During each of the three months ended March 31, 2017 and 2016, we had no repurchases.
+Capital Assets Expenditures
+During the three months ended March 31, 2017, net capital assets acquired, inclusive of intangible assets, were $5.4 million compared to $5.9 million during the three months ended March 31, 2016. As of March 31, 2017, we have committed to additional purchases of capital assets of approximately $9.7 million. Capital spend during the three months ended March 31, 2017 related primarily to information technology investments, opening new retail stores and renovating existing stores.
+Repatriation of Cash
+We have cash balances located in various countries and denominations associated with our international operations. Fluctuations in foreign currency exchange rates impact the results of our operations and cash positions. Future fluctuations in foreign currencies may have a material impact on our cash flows and capital resources. Cash balances held in foreign countries may have additional restrictions and covenants that could adversely impact our liquidity and our ability to timely access and transfer cash balances between entities.
+
+
+We generally consider unremitted earnings of subsidiaries operating outside of the U.S. to be indefinitely reinvested; however, our Board has approved a foreign cash repatriation strategy. As part of this strategy, we repatriated approximately $13.4 million of current earnings during the three months ended March 31, 2017 without a tax impact. Further cash repatriation will depend on future cash requirements in the U.S. As of March 31, 2017, we maintain approximately $178.0 million of foreign earnings for which tax has previously been provided that has not yet been repatriated.
+
+
+29
+* * *
+Table of Contents
+
+
+
+
+Most of the cash balances held outside of the U.S. could be repatriated to the U.S., but under current law, would be subject to U.S. federal and state income taxes less applicable foreign tax credits. In some countries, repatriation of certain foreign balances is restricted by local laws and could have adverse tax consequences if we were to move the cash to another country. Certain countries have monetary laws, which may limit our ability to utilize cash resources in those countries for operations in other countries. These limitations may affect our ability to fully utilize our cash resources for needs in the U.S. or other countries and could adversely affect our liquidity. As of March 31, 2017, we held $83.5 million of our total $88.9 million cash balance in international locations. This cash is primarily used for the ongoing operations of the business in the locations in which the cash is held. Of the $83.5 million, $1.1 million could potentially be restricted, as described above. If the remaining $82.4 million were immediately repatriated to the U.S., no additional tax expense would be incurred as $178.0 million has previously been provided for in prior periods.
+
+
+Critical Accounting Policies and Estimates
+The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, sales and expenses, and related disclosure of contingent assets and liabilities. We evaluate our assumptions and estimates on an on-going basis. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. For a complete discussion of our critical accounting policies, please refer to our Annual Report on Form 10-K for the year ended December 31, 2016. There have been no significant changes in our critical accounting policies or their application since December 31, 2016.
+
+
+Recent Accounting Pronouncements
+See Note 2 — Recent Accounting Pronouncements in the accompanying notes to the condensed consolidated financial statements for a description of recently adopted accounting pronouncements, and issued accounting pronouncements that we believe may have an impact on our consolidated financial statements when adopted.
+
+
+
+
+30
+* * *
+Table of Contents
+
+
+## ITEM 3. Quantitative and Qualitative Disclosures About Market Risk
+
+
+Foreign Currency Exchange Risk
+
+
+As a global company, we have significant revenues and costs denominated in currencies other than the U.S. Dollar. We are exposed to the risk of gains and losses resulting from changes in exchange rates on monetary assets and liabilities within our international subsidiaries that are denominated in currencies other than the subsidiary’s functional currency. Likewise, our U.S. companies are also exposed to the risk of gains and losses and the resulting changes in exchange rates on monetary assets and liabilities that are denominated in a currency other than the U.S. Dollar.
+
+
+We have experienced and will continue to experience changes in international currency rates, impacting both results of operations and the value of assets and liabilities denominated in foreign currencies. We enter into forward foreign exchange contracts to buy or sell various foreign currencies to selectively protect against volatility in the value of non-functional currency denominated monetary assets and liabilities. Changes in the fair value of these forward contracts are recognized in earnings in the period that the changes occur. As of March 31, 2017, the U.S. Dollar notional value of our outstanding foreign currency forward exchange contracts was approximately $259.2 million. The net fair value of these contracts at March 31, 2017 was a liability $1.3 million.
+
+
+We perform a sensitivity analysis to determine the effects that market risk exposures may have on the fair values of our foreign currency forward exchange contracts. To perform the sensitivity analysis, we assess the risk of loss in fair values from the effect of hypothetical changes in foreign currency exchange rates. This analysis assumes a like movement by the foreign currencies in our hedge portfolio against the U.S. Dollar. As of March 31, 2017, a 10% appreciation in the value of the U.S. Dollar would result in a net increase in the fair value of our derivative portfolio of approximately $5.9 million.
+
+
+Effects of Changes in Exchange Rates on Translated Results of International Subsidiaries
+
+
+Changes in exchange rates have a direct effect on our reported U.S. Dollar consolidated financial statements because we translate the operating results and financial position of our international subsidiaries to U.S. Dollars using current period exchange rates. Specifically, we translate the statements of operations of our foreign subsidiaries into the U.S. Dollar reporting currency using average exchange rates each reporting period. As a result, comparisons of reported results between reporting periods may be impacted significantly due to differences in the exchange rates used to translate the operating results of our international subsidiaries.
+
+
+For example, in our European operating segment, when the U.S. Dollar strengthens relative to the Euro, our reported U.S. Dollar results are lower than if there had been no change in the exchange rate, because more Euros are required to generate the same U.S. Dollar translated amount. Conversely, when the U.S. Dollar weakens relative to the Euro, the reported U.S. Dollar results of our Europe segment are higher compared to a period with a stronger U.S. Dollar relative to the Euro. Similarly, the reported U.S. Dollar results of our Asia Pacific operating segment, where the functional currencies are primarily the Japanese Yen, Chinese Yuan, Korean Won and the Singapore Dollar, are comparatively lower or higher when the U.S. Dollar strengthens or weakens, respectively, relative to these currencies.
+
+An increase of 1% of the value of the U.S. Dollar relative to foreign currencies would have increased our income before taxes during the three months ended March 31, 2017 by approximately $0.3 million. The volatility of the exchange rates is dependent on many factors that cannot be forecasted with reliable accuracy. See Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations in Part I of this Form 10-Q for a discussion of the impact of the change in foreign exchange rates on our U.S Dollar condensed consolidated statement of operations for the three months ended March 31, 2017 and 2016.
+
+
+
+
+
+
+
+
+
+
+
+
+31
+* * *
+Table of Contents
+
+
+## ITEM 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of our disclosure controls and procedures as such item is defined under Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended ("Exchange Act"). Based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of March 31, 2017, to provide reasonable assurance that information required to be disclosed in our reports under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. Management necessarily applies its judgment in assessing the costs and benefits of such controls and procedures that, by their nature, can only provide reasonable assurance regarding management's control objectives.
+
+
+Changes in Internal Control over Financial Reporting
+
+
+There were no changes in our internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)) during the three months ended March 31, 2017, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+
+
+
+
+
+
+
+
+32
+* * *
+Table of Contents
+
+
+PART II — Other Information
+## ITEM 1. Legal Proceedings
+The Company was subjected to an audit by U.S. Customs & Border Protection (“CBP”) in respect of the period from 2006 to 2010. In October 2013, CBP issued their final audit report. In that report CBP projected that unpaid duties totaling approximately $12.4 million were due for the period under review and recommended collection of the duties due. On April 2017, CBP agreed to settle the matter and accepted our previously tendered payment of $7 million. This matter is now closed. The settlement has been reflected in our condensed consolidated financial statements as of March 31, 2017.
+
+
+We were subjected to an audit by the Brazilian Federal Tax Authorities related to imports of footwear from China between 2010 and 2014. On January 13, 2015, we were notified about the issuance of assessments totaling approximately $4.6 million for the period January 2010 through May 2011. We have disputed these assessments and asserted defenses to the claims. On February 25, 2015, we received additional assessments totaling approximately $10.6 million related to the remainder of the audit period. We have also disputed these assessments and asserted defenses to these claims in administrative appeals, and are awaiting definitive resolution of those administrative appeals. In the event that the definitive resolution of these administrative appeals is adverse to us, we have recourse to further judicial processes, which would likely require the posting of a bond. It is anticipated that this matter will take up to two years to be fully resolved. It is not possible at this time to predict the outcome of this matter.
+
+
+Although we are subject to other litigation from time to time in the ordinary course of business, including employment, intellectual property and product liability claims, we are not party to any other pending legal proceedings that we believe would reasonably have a material adverse impact on our business and financial results.
+
+
+## ITEM 1A. Risk Factors
+There have been no material changes to the risk factors contained in our Annual Report on Form 10-K for the year ended December 31, 2016.
+
+
+## ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds
+None.
+
+
+33
+* * *
+Table of Contents
+
+
+## ITEM 6. Exhibits
+Exhibit Number
+Description
+3.1
+Restated Certificate of Incorporation of Crocs, Inc. (incorporated herein by reference to Exhibit 4.1 to Crocs, Inc.’s Registration Statement on Form S-8, filed on March 9, 2006).
+3.2
+Certificate of Amendment to Restated Certificate of Incorporation of Crocs, Inc. (incorporated herein by reference to Exhibit 3.1 to Crocs, Inc.’s Current Report on Form 8-K, filed on July 12, 2007).
+3.3
+Amended and Restated Bylaws of Crocs, Inc. (incorporated herein by reference to Exhibit 4.2 to Crocs, Inc.’s Registration Statement on Form S-8, filed on March 9, 2006)
+3.4
+Certificate of Designations of Series A Convertible Preferred Stock of Crocs, Inc. (incorporated herein by reference to Exhibit 3.1 to Crocs, Inc.’s Current Report on Form 8-K, filed on January 27, 2014).
+4.1
+Specimen Common Stock Certificate (incorporated herein by reference to Exhibit 4.2 to Crocs, Inc.’s Registration Statement on Form S-1/A, filed on January 19, 2006).
+10.1
+Consulting Agreement dated February 27, 2017, between Crocs, Inc. and Gregg Ribatt (incorporated herein by reference to Exhibit 10.1 to Crocs, Inc.’s Current Report on Form 8-K, filed on March 3, 2017).
+10.2
+Supplement to Offer Letter dated February 23, 2017, between Crocs, Inc. and Andrew Rees (incorporated herein by reference to Exhibit 10.1 to Crocs, Inc.’s Current Report on Form 8-K, filed on March 3, 2017).
+31.1†
+Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act.
+31.2†
+Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934 as adopted pursuant to Section 302 of the Sarbanes- Oxley Act.
+32†
+Certification of the Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act.
+101.INS†
+XBRL Instance Document.
+101.SCH†
+XBRL Taxonomy Extension Schema Document.
+101.CAL†
+XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF†
+XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB†
+XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE†
+XBRL Taxonomy Extension Presentation Linkbase Document.
+_________________________________________________________________
+† Filed herewith.
+
+
+
+
+34
+* * *
+Table of Contents
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+CROCS, INC.
+Date: May 10, 2017
+By:
+/s/ Carrie Teffner
+Name:
+Carrie Teffner
+Title:
+Principal Financial and Accounting
+Officer
+
+
+
+
+35

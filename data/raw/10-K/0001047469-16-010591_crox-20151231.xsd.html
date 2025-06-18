@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--XBRL document created with Certent Inc. Powered by Crossfire 5.17.1.24 -->
+<!--Based on XBRL 2.1-->
+<!--Created on: 2/29/2016 1:30:09 PM-->
+<!--Modified on: 2/29/2016 1:30:09 PM-->
+<xsd:schema targetNamespace="http://www.crocs.com/20151231" elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:num="http://www.xbrl.org/dtr/type/numeric" xmlns:nonnum="http://www.xbrl.org/dtr/type/non-numeric" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dei="http://xbrl.sec.gov/dei/2014-01-31" xmlns:us-roles="http://fasb.org/us-roles/2015-01-31" xmlns:us-gaap="http://fasb.org/us-gaap/2015-01-31" xmlns:us-types="http://fasb.org/us-types/2015-01-31" xmlns:negated="http://www.xbrl.org/2009/role/negated" xmlns:crox="http://www.crocs.com/20151231">
+  <xsd:annotation>
+    <xsd:appinfo>
+      <link:roleType roleURI="http://www.crocs.com/role/StatementConsolidatedStatementsOfOperations" id="StatementConsolidatedStatementsOfOperations">
+        <link:definition>00100 - Statement - Consolidated Statements Of Operations</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/StatementConsolidatedStatementsOfComprehensiveIncomeLoss" id="StatementConsolidatedStatementsOfComprehensiveIncomeLoss">
+        <link:definition>00200 - Statement - Consolidated Statements Of Comprehensive Income (Loss)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/StatementConsolidatedBalanceSheets" id="StatementConsolidatedBalanceSheets">
+        <link:definition>00300 - Statement - Consolidated Balance Sheets</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/StatementConsolidatedStatementsOfCashFlows" id="StatementConsolidatedStatementsOfCashFlows">
+        <link:definition>00500 - Statement - Consolidated Statements of Cash Flows</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureInventoriesScheduleOfInventoriesDetails" id="DisclosureInventoriesScheduleOfInventoriesDetails">
+        <link:definition>40402 - Disclosure - Inventories (Schedule Of Inventories) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosurePropertyAndEquipmentSummaryOfPropertyEquipmentDetails" id="DisclosurePropertyAndEquipmentSummaryOfPropertyEquipmentDetails">
+        <link:definition>40501 - Disclosure - Property And Equipment (Summary Of Property &amp; Equipment) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureGoodwillIntangibleAssetsSummaryOfGoodwillIntangibleAssetsDetails" id="DisclosureGoodwillIntangibleAssetsSummaryOfGoodwillIntangibleAssetsDetails">
+        <link:definition>40602 - Disclosure - Goodwill &amp; Intangible Assets (Summary Of Goodwill &amp; Intangible Assets) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureGoodwillIntangibleAssetsScheduleOfFutureAmortizationOfIntangibleAssetsDetails" id="DisclosureGoodwillIntangibleAssetsScheduleOfFutureAmortizationOfIntangibleAssetsDetails">
+        <link:definition>40604 - Disclosure - Goodwill &amp; Intangible Assets (Schedule Of Future Amortization Of Intangible Assets) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureAccruedExpensesAndOtherCurrentLiabilitiesScheduleOfAccruedExpensesOtherCurrentLiabilitiesDetails" id="DisclosureAccruedExpensesAndOtherCurrentLiabilitiesScheduleOfAccruedExpensesOtherCurrentLiabilitiesDetails">
+        <link:definition>40701 - Disclosure - Accrued Expenses And Other Current Liabilities (Schedule Of Accrued Expenses &amp; Other Current Liabilities) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRestructuringActivitiesScheduleOfRestructuringCostsByTypeDetails" id="DisclosureRestructuringActivitiesScheduleOfRestructuringCostsByTypeDetails">
+        <link:definition>40802 - Disclosure - Restructuring Activities (Schedule Of Restructuring Costs By Type) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureDerivativeFinancialInstrumentsSummaryOfGainLossOnDerivativeInstrumentsDetails" id="DisclosureDerivativeFinancialInstrumentsSummaryOfGainLossOnDerivativeInstrumentsDetails">
+        <link:definition>41002 - Disclosure - Derivative Financial Instruments (Summary Of Gain/Loss On Derivative Instruments) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRevolvingCreditFacilityBankBorrowingsMaturitiesOfDebtObligationsDetails" id="DisclosureRevolvingCreditFacilityBankBorrowingsMaturitiesOfDebtObligationsDetails">
+        <link:definition>41104 - Disclosure - Revolving Credit Facility &amp; Bank Borrowings (Maturities Of Debt Obligations) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureIncomeTaxesScheduleOfIncomeTaxExpenseBenefitDetails" id="DisclosureIncomeTaxesScheduleOfIncomeTaxExpenseBenefitDetails">
+        <link:definition>41401 - Disclosure - Income Taxes (Schedule Of Income Tax Expense/Benefit) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureIncomeTaxesEffectiveTaxRateReconciliationDetails" id="DisclosureIncomeTaxesEffectiveTaxRateReconciliationDetails">
+        <link:definition>41402 - Disclosure - Income Taxes (Effective Tax Rate Reconciliation) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureIncomeTaxesDeferredIncomeTaxAssetsAndLiabilitiesDetails" id="DisclosureIncomeTaxesDeferredIncomeTaxAssetsAndLiabilitiesDetails">
+        <link:definition>41403 - Disclosure - Income Taxes (Deferred Income Tax Assets and Liabilities) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEarningsPerShareSummaryOfBasicAndDilutedEarningsPerShareDetails" id="DisclosureEarningsPerShareSummaryOfBasicAndDilutedEarningsPerShareDetails">
+        <link:definition>41501 - Disclosure - Earnings Per Share (Summary Of Basic And Diluted Earnings Per Share) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureCommitmentsAndContingenciesFutureMinimumAnnualRentalCommitmentsUnderNonCancelableOperatingLeasesDetails" id="DisclosureCommitmentsAndContingenciesFutureMinimumAnnualRentalCommitmentsUnderNonCancelableOperatingLeasesDetails">
+        <link:definition>41701 - Disclosure - Commitments And Contingencies (Future Minimum Annual Rental Commitments Under Non-Cancelable Operating Leases) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureCommitmentsAndContingenciesOperatingLeaseRentalExpenseDetails" id="DisclosureCommitmentsAndContingenciesOperatingLeaseRentalExpenseDetails">
+        <link:definition>41702 - Disclosure - Commitments And Contingencies (Operating Lease Rental Expense) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DocumentDocumentAndEntityInformation" id="DocumentDocumentAndEntityInformation">
+        <link:definition>00090 - Document - Document And Entity Information</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/StatementConsolidatedStatementsOfComprehensiveIncomeParenthetical" id="StatementConsolidatedStatementsOfComprehensiveIncomeParenthetical">
+        <link:definition>00205 - Statement - Consolidated Statements of Comprehensive Income (Parenthetical)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/StatementConsolidatedBalanceSheetsParenthetical" id="StatementConsolidatedBalanceSheetsParenthetical">
+        <link:definition>00305 - Statement - Consolidated Balance Sheets (Parenthetical)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/StatementConsolidatedStatementsOfStockholdersEquity" id="StatementConsolidatedStatementsOfStockholdersEquity">
+        <link:definition>00400 - Statement - Consolidated Statements of Stockholders' Equity</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/StatementConsolidatedStatementsOfCashFlowsParenthetical" id="StatementConsolidatedStatementsOfCashFlowsParenthetical">
+        <link:definition>00505 - Statement - Consolidated Statements of Cash Flows (Parenthetical)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOrganizationSummaryOfSignificantAccountingPolicies" id="DisclosureOrganizationSummaryOfSignificantAccountingPolicies">
+        <link:definition>10101 - Disclosure - Organization &amp; Summary Of Significant Accounting Policies</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRecentAccountingPronouncements" id="DisclosureRecentAccountingPronouncements">
+        <link:definition>10201 - Disclosure - Recent Accounting Pronouncements</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureSummaryOfSignificantAccountingPolicies" id="DisclosureSummaryOfSignificantAccountingPolicies">
+        <link:definition>10301 - Disclosure - Summary Of Significant Accounting Policies</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureInventories" id="DisclosureInventories">
+        <link:definition>10401 - Disclosure - Inventories</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosurePropertyAndEquipment" id="DisclosurePropertyAndEquipment">
+        <link:definition>10501 - Disclosure - Property And Equipment</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureGoodwillIntangibleAssets" id="DisclosureGoodwillIntangibleAssets">
+        <link:definition>10601 - Disclosure - Goodwill &amp; Intangible Assets</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureAccruedExpensesAndOtherCurrentLiabilities" id="DisclosureAccruedExpensesAndOtherCurrentLiabilities">
+        <link:definition>10701 - Disclosure - Accrued Expenses And Other Current Liabilities</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRestructuringActivities" id="DisclosureRestructuringActivities">
+        <link:definition>10801 - Disclosure - Restructuring Activities</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureFairValueMeasurements" id="DisclosureFairValueMeasurements">
+        <link:definition>10901 - Disclosure - Fair Value Measurements</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureDerivativeFinancialInstruments" id="DisclosureDerivativeFinancialInstruments">
+        <link:definition>11001 - Disclosure - Derivative Financial Instruments</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRevolvingCreditFacilityBankBorrowings" id="DisclosureRevolvingCreditFacilityBankBorrowings">
+        <link:definition>11101 - Disclosure - Revolving Credit Facility &amp; Bank Borrowings</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquity" id="DisclosureEquity">
+        <link:definition>11201 - Disclosure - Equity</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureAllowances" id="DisclosureAllowances">
+        <link:definition>11301 - Disclosure - Allowances</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureIncomeTaxes" id="DisclosureIncomeTaxes">
+        <link:definition>11401 - Disclosure - Income Taxes</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEarningsPerShare" id="DisclosureEarningsPerShare">
+        <link:definition>11501 - Disclosure - Earnings Per Share</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureSeriesPreferredStock" id="DisclosureSeriesPreferredStock">
+        <link:definition>11601 - Disclosure - Series A Preferred Stock</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureCommitmentsAndContingencies" id="DisclosureCommitmentsAndContingencies">
+        <link:definition>11701 - Disclosure - Commitments And Contingencies</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOperatingSegmentsGeographicInformation" id="DisclosureOperatingSegmentsGeographicInformation">
+        <link:definition>11801 - Disclosure - Operating Segments &amp; Geographic Information</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureLegalProceedings" id="DisclosureLegalProceedings">
+        <link:definition>11901 - Disclosure - Legal Proceedings</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureUnauditedQuarterlyConsolidatedFinancialInformation" id="DisclosureUnauditedQuarterlyConsolidatedFinancialInformation">
+        <link:definition>12001 - Disclosure - Unaudited Quarterly Consolidated Financial Information</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureSubsequentEvents" id="DisclosureSubsequentEvents">
+        <link:definition>12101 - Disclosure - Subsequent Events</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOrganizationSummaryOfSignificantAccountingPoliciesPolicies" id="DisclosureOrganizationSummaryOfSignificantAccountingPoliciesPolicies">
+        <link:definition>20102 - Disclosure - Organization &amp; Summary Of Significant Accounting Policies (Policies)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRecentAccountingPronouncementsPolicies" id="DisclosureRecentAccountingPronouncementsPolicies">
+        <link:definition>20202 - Disclosure - Recent Accounting Pronouncements (Policies)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureSummaryOfSignificantAccountingPoliciesPolicies" id="DisclosureSummaryOfSignificantAccountingPoliciesPolicies">
+        <link:definition>20302 - Disclosure - Summary Of Significant Accounting Policies (Policies)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureAccruedExpensesAndOtherCurrentLiabilitiesPolicies" id="DisclosureAccruedExpensesAndOtherCurrentLiabilitiesPolicies">
+        <link:definition>20702 - Disclosure - Accrued Expenses And Other Current Liabilities (Policies)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureSummaryOfSignificantAccountingPoliciesTables" id="DisclosureSummaryOfSignificantAccountingPoliciesTables">
+        <link:definition>30303 - Disclosure - Summary Of Significant Accounting Policies (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureInventoriesTables" id="DisclosureInventoriesTables">
+        <link:definition>30403 - Disclosure - Inventories (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosurePropertyAndEquipmentTables" id="DisclosurePropertyAndEquipmentTables">
+        <link:definition>30503 - Disclosure - Property And Equipment (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureGoodwillIntangibleAssetsTables" id="DisclosureGoodwillIntangibleAssetsTables">
+        <link:definition>30603 - Disclosure - Goodwill &amp; Intangible Assets (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureAccruedExpensesAndOtherCurrentLiabilitiesTables" id="DisclosureAccruedExpensesAndOtherCurrentLiabilitiesTables">
+        <link:definition>30703 - Disclosure - Accrued Expenses And Other Current Liabilities (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRestructuringActivitiesTables" id="DisclosureRestructuringActivitiesTables">
+        <link:definition>30803 - Disclosure - Restructuring Activities (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureDerivativeFinancialInstrumentsTables" id="DisclosureDerivativeFinancialInstrumentsTables">
+        <link:definition>31003 - Disclosure - Derivative Financial Instruments (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRevolvingCreditFacilityBankBorrowingsTables" id="DisclosureRevolvingCreditFacilityBankBorrowingsTables">
+        <link:definition>31103 - Disclosure - Revolving Credit Facility &amp; Bank Borrowings (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquityTables" id="DisclosureEquityTables">
+        <link:definition>31203 - Disclosure - Equity (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureAllowancesTables" id="DisclosureAllowancesTables">
+        <link:definition>31303 - Disclosure - Allowances (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureIncomeTaxesTables" id="DisclosureIncomeTaxesTables">
+        <link:definition>31403 - Disclosure - Income Taxes (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEarningsPerShareTables" id="DisclosureEarningsPerShareTables">
+        <link:definition>31503 - Disclosure - Earnings Per Share (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureCommitmentsAndContingenciesTables" id="DisclosureCommitmentsAndContingenciesTables">
+        <link:definition>31703 - Disclosure - Commitments And Contingencies (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOperatingSegmentsGeographicInformationTables" id="DisclosureOperatingSegmentsGeographicInformationTables">
+        <link:definition>31803 - Disclosure - Operating Segments &amp; Geographic Information (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureUnauditedQuarterlyConsolidatedFinancialInformationTables" id="DisclosureUnauditedQuarterlyConsolidatedFinancialInformationTables">
+        <link:definition>32003 - Disclosure - Unaudited Quarterly Consolidated Financial Information (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOrganizationAndBasisOfPresentationDetails" id="DisclosureOrganizationAndBasisOfPresentationDetails">
+        <link:definition>40101 - Disclosure - Organization And Basis Of Presentation (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureSummaryOfSignificantAccountingPoliciesNarrativeDetails" id="DisclosureSummaryOfSignificantAccountingPoliciesNarrativeDetails">
+        <link:definition>40301 - Disclosure - Summary Of Significant Accounting Policies (Narrative) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureSummaryOfSignificantAccountingPoliciesIntangibleAssetsUsefulLivesDetails" id="DisclosureSummaryOfSignificantAccountingPoliciesIntangibleAssetsUsefulLivesDetails">
+        <link:definition>40302 - Disclosure - Summary Of Significant Accounting Policies (Intangible Assets Useful Lives) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureInventoriesNarrativeDetails" id="DisclosureInventoriesNarrativeDetails">
+        <link:definition>40401 - Disclosure - Inventories (Narrative) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosurePropertyAndEquipmentSummaryOfPropertyEquipmentFootnoteDetails" id="DisclosurePropertyAndEquipmentSummaryOfPropertyEquipmentFootnoteDetails">
+        <link:definition>40502 - Disclosure - Property And Equipment (Summary Of Property &amp; Equipment Footnote) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosurePropertyAndEquipmentDepreciationExpenseDetails" id="DisclosurePropertyAndEquipmentDepreciationExpenseDetails">
+        <link:definition>40503 - Disclosure - Property And Equipment (Depreciation Expense) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosurePropertyAndEquipmentAssetImpairmentsDetails" id="DisclosurePropertyAndEquipmentAssetImpairmentsDetails">
+        <link:definition>40504 - Disclosure - Property And Equipment (Asset Impairments) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosurePropertyAndEquipmentLongLivedAssetsHeldForSaleDetails" id="DisclosurePropertyAndEquipmentLongLivedAssetsHeldForSaleDetails">
+        <link:definition>40505 - Disclosure - Property And Equipment (Long-Lived Assets Held For Sale) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureGoodwillIntangibleAssetsNarrativeDetails" id="DisclosureGoodwillIntangibleAssetsNarrativeDetails">
+        <link:definition>40601 - Disclosure - Goodwill &amp; Intangible Assets (Narrative) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureGoodwillIntangibleAssetsSummaryOfGoodwillIntangibleAssetsFootnoteDetails" id="DisclosureGoodwillIntangibleAssetsSummaryOfGoodwillIntangibleAssetsFootnoteDetails">
+        <link:definition>40603 - Disclosure - Goodwill &amp; Intangible Assets (Summary Of Goodwill &amp; Intangible Assets Footnote) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureAccruedExpensesAndOtherCurrentLiabilitiesScheduleOfAccruedExpensesOtherCurrentLiabilitiesFootnoteDetails" id="DisclosureAccruedExpensesAndOtherCurrentLiabilitiesScheduleOfAccruedExpensesOtherCurrentLiabilitiesFootnoteDetails">
+        <link:definition>40702 - Disclosure - Accrued Expenses And Other Current Liabilities (Schedule Of Accrued Expenses &amp; Other Current Liabilities Footnote) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureAccruedExpensesAndOtherCurrentLiabilitiesAssetRetirementObligationsDetails" id="DisclosureAccruedExpensesAndOtherCurrentLiabilitiesAssetRetirementObligationsDetails">
+        <link:definition>40703 - Disclosure - Accrued Expenses And Other Current Liabilities (Asset Retirement Obligations) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRestructuringActivitiesNarrativeDetails" id="DisclosureRestructuringActivitiesNarrativeDetails">
+        <link:definition>40801 - Disclosure - Restructuring Activities (Narrative) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRestructuringActivitiesScheduleOfRestructuringCostsBySegmentDetails" id="DisclosureRestructuringActivitiesScheduleOfRestructuringCostsBySegmentDetails">
+        <link:definition>40803 - Disclosure - Restructuring Activities (Schedule Of Restructuring Costs By Segment) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRestructuringActivitiesScheduleOfRestructuringReserveByTypeDetails" id="DisclosureRestructuringActivitiesScheduleOfRestructuringReserveByTypeDetails">
+        <link:definition>40804 - Disclosure - Restructuring Activities (Schedule Of Restructuring Reserve By Type) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureFairValueMeasurementsDetails" id="DisclosureFairValueMeasurementsDetails">
+        <link:definition>40901 - Disclosure - Fair Value Measurements (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureDerivativeFinancialInstrumentsSummaryOfDerivativeFinancialInstrumentsNotionalAmountsOnOutstandingPositionsDetails" id="DisclosureDerivativeFinancialInstrumentsSummaryOfDerivativeFinancialInstrumentsNotionalAmountsOnOutstandingPositionsDetails">
+        <link:definition>41001 - Disclosure - Derivative Financial Instruments (Summary Of Derivative Financial Instruments Notional Amounts On Outstanding Positions) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRevolvingCreditFacilityBankBorrowingsRevolvingCreditFacilityDetails" id="DisclosureRevolvingCreditFacilityBankBorrowingsRevolvingCreditFacilityDetails">
+        <link:definition>41101 - Disclosure - Revolving Credit Facility &amp; Bank Borrowings (Revolving Credit Facility) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRevolvingCreditFacilityBankBorrowingsLongTermBankBorrowingsDetails" id="DisclosureRevolvingCreditFacilityBankBorrowingsLongTermBankBorrowingsDetails">
+        <link:definition>41102 - Disclosure - Revolving Credit Facility &amp; Bank Borrowings (Long-Term Bank Borrowings) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureRevolvingCreditFacilityBankBorrowingsComponentsOfOurConsolidatedDebtAndCapitalLeaseObligationsDetails" id="DisclosureRevolvingCreditFacilityBankBorrowingsComponentsOfOurConsolidatedDebtAndCapitalLeaseObligationsDetails">
+        <link:definition>41103 - Disclosure - Revolving Credit Facility &amp; Bank Borrowings (Components Of Our Consolidated Debt And Capital Lease Obligations) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquityEquityIncentivePlansDetails" id="DisclosureEquityEquityIncentivePlansDetails">
+        <link:definition>41201 - Disclosure - Equity (Equity Incentive Plans) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquityStockOptionActivityDetails" id="DisclosureEquityStockOptionActivityDetails">
+        <link:definition>41202 - Disclosure - Equity (Stock Option Activity) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquityScheduleOfOptionPricingModelAssumptionsDetails" id="DisclosureEquityScheduleOfOptionPricingModelAssumptionsDetails">
+        <link:definition>41203 - Disclosure - Equity (Schedule Of Option Pricing Model Assumptions) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquityScheduleOfPreformanceBasedRsuVestingScheduleDetails" id="DisclosureEquityScheduleOfPreformanceBasedRsuVestingScheduleDetails">
+        <link:definition>41204 - Disclosure - Equity (Schedule Of Preformance Based RSU Vesting Schedule) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquityStockOptionActivityNarrativeDetails" id="DisclosureEquityStockOptionActivityNarrativeDetails">
+        <link:definition>41205 - Disclosure - Equity (Stock Option Activity Narrative) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquityScheduleOfRestrictedStockAwardAndRestrictedStockUnitActivityDetails" id="DisclosureEquityScheduleOfRestrictedStockAwardAndRestrictedStockUnitActivityDetails">
+        <link:definition>41206 - Disclosure - Equity (Schedule Of Restricted Stock Award And Restricted Stock Unit Activity) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquityScheduleOfRestrictedStockAwardAndRestrictedStockUnitActivityFootnoteDetails" id="DisclosureEquityScheduleOfRestrictedStockAwardAndRestrictedStockUnitActivityFootnoteDetails">
+        <link:definition>41207 - Disclosure - Equity (Schedule Of Restricted Stock Award And Restricted Stock Unit Activity Footnote) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquityRestrictedStockAwardsAndRestrictedStockUnitsActivityShareBasedCompensationDetails" id="DisclosureEquityRestrictedStockAwardsAndRestrictedStockUnitsActivityShareBasedCompensationDetails">
+        <link:definition>41208 - Disclosure - Equity (Restricted Stock Awards And Restricted Stock Units Activity, Share-based Compensation) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEquityAppointmentOfPresidentAndCeoDetails" id="DisclosureEquityAppointmentOfPresidentAndCeoDetails">
+        <link:definition>41209 - Disclosure - Equity (Appointment Of President And CEO) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureAllowancesNarrativeDetails" id="DisclosureAllowancesNarrativeDetails">
+        <link:definition>41301 - Disclosure - Allowances (Narrative) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureAllowancesScheduleOfAccountsReceivableReservesDetails" id="DisclosureAllowancesScheduleOfAccountsReceivableReservesDetails">
+        <link:definition>41302 - Disclosure - Allowances (Schedule Of Accounts Receivable Reserves) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureIncomeTaxesDeferredTaxNarrativeDetails" id="DisclosureIncomeTaxesDeferredTaxNarrativeDetails">
+        <link:definition>41404 - Disclosure - Income Taxes (Deferred Tax Narrative) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureIncomeTaxesUnrecognizedTaxBenefitsReconciliationDetails" id="DisclosureIncomeTaxesUnrecognizedTaxBenefitsReconciliationDetails">
+        <link:definition>41405 - Disclosure - Income Taxes (Unrecognized Tax Benefits Reconciliation) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureIncomeTaxesUnrecognizedTaxBenefitsReconciliationNarrativeDetails" id="DisclosureIncomeTaxesUnrecognizedTaxBenefitsReconciliationNarrativeDetails">
+        <link:definition>41406 - Disclosure - Income Taxes (Unrecognized Tax Benefits Reconciliation Narrative) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureIncomeTaxesIncomeTaxExaminationsDetails" id="DisclosureIncomeTaxesIncomeTaxExaminationsDetails">
+        <link:definition>41407 - Disclosure - Income Taxes (Income Tax Examinations) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureIncomeTaxesExaminationPeriodsNarrativeDetails" id="DisclosureIncomeTaxesExaminationPeriodsNarrativeDetails">
+        <link:definition>41408 - Disclosure - Income Taxes (Examination Periods Narrative) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureEarningsPerShareStockRepurchasePlanAuthorizationsDetails" id="DisclosureEarningsPerShareStockRepurchasePlanAuthorizationsDetails">
+        <link:definition>41502 - Disclosure - Earnings Per Share (Stock Repurchase Plan Authorizations) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureSeriesPreferredStockDetails" id="DisclosureSeriesPreferredStockDetails">
+        <link:definition>41601 - Disclosure - Series A Preferred Stock (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureCommitmentsAndContingenciesPurchaseCommitmentsDetails" id="DisclosureCommitmentsAndContingenciesPurchaseCommitmentsDetails">
+        <link:definition>41703 - Disclosure - Commitments And Contingencies (Purchase Commitments) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureCommitmentsAndContingenciesGovernmentTaxAuditsDetails" id="DisclosureCommitmentsAndContingenciesGovernmentTaxAuditsDetails">
+        <link:definition>41704 - Disclosure - Commitments And Contingencies (Government Tax Audits) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOperatingSegmentsAndGeographicInformationNarrativeDetails" id="DisclosureOperatingSegmentsAndGeographicInformationNarrativeDetails">
+        <link:definition>41801 - Disclosure - Operating Segments And Geographic Information (Narrative) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOperatingSegmentsAndGeographicInformationInformationRelatedToReportableOperatingBusinessSegmentsDetails" id="DisclosureOperatingSegmentsAndGeographicInformationInformationRelatedToReportableOperatingBusinessSegmentsDetails">
+        <link:definition>41802 - Disclosure - Operating Segments And Geographic Information (Information Related To Reportable Operating Business Segments) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOperatingSegmentsAndGeographicInformationScheduleOfSegmentIncomeStatementFootnoteDetails" id="DisclosureOperatingSegmentsAndGeographicInformationScheduleOfSegmentIncomeStatementFootnoteDetails">
+        <link:definition>41803 - Disclosure - Operating Segments And Geographic Information (Schedule Of Segment Income Statement Footnote) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOperatingSegmentsAndGeographicInformationScheduleOfSegmentBalanceSheetDetails" id="DisclosureOperatingSegmentsAndGeographicInformationScheduleOfSegmentBalanceSheetDetails">
+        <link:definition>41804 - Disclosure - Operating Segments And Geographic Information (Schedule Of Segment Balance Sheet) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOperatingSegmentsAndGeographicInformationScheduleOfGeographicalRevenueDetails" id="DisclosureOperatingSegmentsAndGeographicInformationScheduleOfGeographicalRevenueDetails">
+        <link:definition>41805 - Disclosure - Operating Segments And Geographic Information (Schedule Of Geographical Revenue) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureOperatingSegmentsAndGeographicInformationScheduleOfGeographicalLongLivedAssetsDetails" id="DisclosureOperatingSegmentsAndGeographicInformationScheduleOfGeographicalLongLivedAssetsDetails">
+        <link:definition>41806 - Disclosure - Operating Segments And Geographic Information (Schedule Of Geographical Long-Lived Assets) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureLegalProceedingsLegalTaxProceedingsDetails" id="DisclosureLegalProceedingsLegalTaxProceedingsDetails">
+        <link:definition>41901 - Disclosure - Legal Proceedings (Legal Tax Proceedings) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureLegalProceedingsLitigationMattersAndOtherDisputesDetails" id="DisclosureLegalProceedingsLitigationMattersAndOtherDisputesDetails">
+        <link:definition>41902 - Disclosure - Legal Proceedings (Litigation Matters And Other Disputes) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureUnauditedQuarterlyConsolidatedFinancialInformationScheduleOfUnauditedQuarterlyConsolidatedFinancialInformationDetails" id="DisclosureUnauditedQuarterlyConsolidatedFinancialInformationScheduleOfUnauditedQuarterlyConsolidatedFinancialInformationDetails">
+        <link:definition>42001 - Disclosure - Unaudited Quarterly Consolidated Financial Information (Schedule Of Unaudited Quarterly Consolidated Financial Information) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.crocs.com/role/DisclosureUnauditedQuarterlyConsolidatedFinancialInformationAdditionalInformationDetails" id="DisclosureUnauditedQuarterlyConsolidatedFinancialInformationAdditionalInformationDetails">
+        <link:definition>42002 - Disclosure - Unaudited Quarterly Consolidated Financial Information (Additional Information) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:linkbaseRef xlink:type="simple" xlink:href="crox-20151231_pre.xml" xlink:title="Presentation Linkbase" xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" />
+      <link:linkbaseRef xlink:type="simple" xlink:href="crox-20151231_cal.xml" xlink:title="Calculation Linkbase" xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" />
+      <link:linkbaseRef xlink:type="simple" xlink:href="crox-20151231_lab.xml" xlink:title="Label Linkbase" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" />
+      <link:linkbaseRef xlink:type="simple" xlink:href="crox-20151231_def.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:title="Definition Links, all" />
+    </xsd:appinfo>
+  </xsd:annotation>
+  <xsd:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd" />
+  <xsd:import namespace="http://xbrl.sec.gov/dei/2014-01-31" schemaLocation="http://xbrl.sec.gov/dei/2014/dei-2014-01-31.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/2009/role/negated" schemaLocation="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/dtr/type/non-numeric" schemaLocation="http://www.xbrl.org/dtr/type/nonNumeric-2009-12-16.xsd" />
+  <xsd:import namespace="http://xbrl.org/2005/xbrldt" schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd" />
+  <import namespace="http://www.xbrl.org/dtr/type/numeric" schemaLocation="http://www.xbrl.org/dtr/type/numeric-2009-12-16.xsd" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <import namespace="http://fasb.org/us-gaap/2015-01-31" schemaLocation="http://xbrl.fasb.org/us-gaap/2015/elts/us-gaap-2015-01-31.xsd" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <import namespace="http://xbrl.sec.gov/currency/2014-01-31" schemaLocation="http://xbrl.sec.gov/currency/2014/currency-2014-01-31.xsd" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <import namespace="http://xbrl.sec.gov/country/2013-01-31" schemaLocation="http://xbrl.sec.gov/country/2013/country-2013-01-31.xsd" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AssetsAcquiredThroughCapitalLeases" name="AssetsAcquiredThroughCapitalLeases" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <xsd:element name="NonCashAccruedPurchasesOfIntangibles" id="crox_NonCashAccruedPurchasesOfIntangibles" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:balance="credit" xbrli:periodType="duration" />
+  <element id="crox_RepaymentOfLineOfCreditAndCapitalLeaseObligations" name="RepaymentOfLineOfCreditAndCapitalLeaseObligations" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <xsd:element name="LegalProceedingsTextBlock" id="crox_LegalProceedingsTextBlock" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="duration" />
+  <xsd:element name="DocumentAndEntityInformationAbstract" id="crox_DocumentAndEntityInformationAbstract" type="xbrli:stringItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true" xbrli:periodType="duration" />
+  <element id="crox_DirectRestructuringCharges" name="DirectRestructuringCharges" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_LegalProceedingsAbstract" name="LegalProceedingsAbstract" nillable="true" type="xbrli:stringItemType" substitutionGroup="xbrli:item" abstract="true" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NumeratorForNetIncomeLossAttributableToCommonStockholdersBasicAndDiluted" name="NumeratorForNetIncomeLossAttributableToCommonStockholdersBasicAndDiluted" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_CoreTechnologyMember" name="CoreTechnologyMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PatentsCopyrightsAndTrademarksMember" name="PatentsCopyrightsAndTrademarksMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_CashEquivalents" name="CashEquivalents" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_IndividualItemsAccountingForMoreThanFivePercentOfBalanceOfAccruedExpenses" name="IndividualItemsAccountingForMoreThanFivePercentOfBalanceOfAccruedExpenses" nillable="true" type="xbrli:integerItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PercentOfDecisionPointOnReportingIndividualItemsInAccruedExpenses" name="PercentOfDecisionPointOnReportingIndividualItemsInAccruedExpenses" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_IntangibleAssetsGrossIncludingGoodwill" name="IntangibleAssetsGrossIncludingGoodwill" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ScheduleOfSegmentReportingAssetInformationBySegment1TableTextBlock" name="ScheduleOfSegmentReportingAssetInformationBySegment1TableTextBlock" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ForfeituresShares" name="ForfeituresShares" nillable="true" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ExercisesOfStockOptionsAndIssuanceOfRestrictedStockAwards" name="ExercisesOfStockOptionsAndIssuanceOfRestrictedStockAwards" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ExercisesOfStockOptionsAndIssuanceOfRestrictedStockAwardsShares" name="ExercisesOfStockOptionsAndIssuanceOfRestrictedStockAwardsShares" nillable="true" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_RepurchaseOfCommonStockForTaxWithholdingShares" name="RepurchaseOfCommonStockForTaxWithholdingShares" nillable="true" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_TaxesAssessedByGovernmentAuthorities" name="TaxesAssessedByGovernmentAuthorities" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_UncertainTaxPositions" name="UncertainTaxPositions" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_CurrentDeferredTaxLiabilities" name="CurrentDeferredTaxLiabilities" nillable="true" type="xbrli:stringItemType" substitutionGroup="xbrli:item" abstract="true" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_LongTermAccruedExpenses" name="LongTermAccruedExpenses" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_FutureUncertainTaxPositionOffset" name="FutureUncertainTaxPositionOffset" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NonCurrentDeferredTaxLiabilities" name="NonCurrentDeferredTaxLiabilities" nillable="true" type="xbrli:stringItemType" substitutionGroup="xbrli:item" abstract="true" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_FulfillmentFreightAndDuties" name="FulfillmentFreightAndDuties" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_Allowancestabletextblock" name="Allowancestabletextblock" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_CapitalLeaseDepreciationForPpE" name="CapitalLeaseDepreciationForPpE" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_GrossCapitalizedSoftwareHeldUnderCapitalLease" name="GrossCapitalizedSoftwareHeldUnderCapitalLease" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AmortizationOfCapitalizedSoftwareHeldUnderCapitalLease" name="AmortizationOfCapitalizedSoftwareHeldUnderCapitalLease" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AllowancesForDoubtfulAccountsAndSaleReturns" name="AllowancesForDoubtfulAccountsAndSaleReturns" nillable="true" type="xbrli:stringItemType" substitutionGroup="xbrli:item" abstract="true" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_OtherComprehensiveIncomeLoss" name="OtherComprehensiveIncomeLoss" nillable="true" type="xbrli:stringItemType" substitutionGroup="xbrli:item" abstract="true" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EquityIncentivePlan2007Member" name="EquityIncentivePlan2007Member" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_OptionsRsasAndRsusOutstandingUnderPlan" name="OptionsRsasAndRsusOutstandingUnderPlan" nillable="true" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EquityIncentivePlan2005Member" name="EquityIncentivePlan2005Member" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_MaximumPotentialRawMaterialsForPurchaseUnderSupplyAgreement" name="MaximumPotentialRawMaterialsForPurchaseUnderSupplyAgreement" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_InternationalMember" name="InternationalMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NoncurrentDeferredTaxAssetsOther" name="NoncurrentDeferredTaxAssetsOther" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_CurrentGrossDeferredTaxAssets" name="CurrentGrossDeferredTaxAssets" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_CurrentGrossDeferredTaxLiabilities" name="CurrentGrossDeferredTaxLiabilities" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NoncurrentGrossDeferredTaxAssets" name="NoncurrentGrossDeferredTaxAssets" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NoncurrentGrossDeferredTaxLiabilities" name="NoncurrentGrossDeferredTaxLiabilities" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_UnremittedEarningsOfForeignSubsidiariesRelatedToNonPaymentOfWithholdingTaxes" name="UnremittedEarningsOfForeignSubsidiariesRelatedToNonPaymentOfWithholdingTaxes" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EquityIncreaseIfDeferredTaxAssetsAreRealized" name="EquityIncreaseIfDeferredTaxAssetsAreRealized" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_UnrealizedLossOnForeignCurrencyCurrent" name="UnrealizedLossOnForeignCurrencyCurrent" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_OptionsOutstandingUnderPlan" name="OptionsOutstandingUnderPlan" nillable="true" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_WeightedAveragePriceOfSharesRepurchased" name="WeightedAveragePriceOfSharesRepurchased" nillable="true" type="num:perShareItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ForeignCurrencyTransactionGainsLossesGross" name="ForeignCurrencyTransactionGainsLossesGross" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_USCustomsAndBorderProtectionMember" name="USCustomsAndBorderProtectionMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AccretionOfDividendEquivalents" name="AccretionOfDividendEquivalents" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AccruedLegal" name="AccruedLegal" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_TimeBasedRestrictedStockUnitsMember" name="TimeBasedRestrictedStockUnitsMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PerformanceBasedRestrictedStockUnitsMember" name="PerformanceBasedRestrictedStockUnitsMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AntiDilutiveSeriesPreferredSharesNotIncludedInCalculationOfEps" name="AntiDilutiveSeriesPreferredSharesNotIncludedInCalculationOfEps" nillable="true" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PercentageOfCommonStockIfConvertedSeriesPreferredStock" name="PercentageOfCommonStockIfConvertedSeriesPreferredStock" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_Aggregatepurchasepriceofpreferredsharessold" name="Aggregatepurchasepriceofpreferredsharessold" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_Aggregatepurchasepricepershareofpreferredsharessold" name="Aggregatepurchasepricepershareofpreferredsharessold" nillable="true" type="num:perShareItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_IssuanceDiscount" name="IssuanceDiscount" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_DirectIssuanceExpenses" name="DirectIssuanceExpenses" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_StatedValueOfPreferredSharesPerShare" name="StatedValueOfPreferredSharesPerShare" nillable="true" type="num:perShareItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_DividendRate" name="DividendRate" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PenaltyDividendRate" name="PenaltyDividendRate" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ConversionPricePerShareAtOptionOfHolder" name="ConversionPricePerShareAtOptionOfHolder" nillable="true" type="num:perShareItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ConversionPricePerShareAtOptionOfCompany" name="ConversionPricePerShareAtOptionOfCompany" nillable="true" type="num:perShareItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NetProceedsFromSaleOfSeriesPreferredStock" name="NetProceedsFromSaleOfSeriesPreferredStock" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_TemporaryEquity" name="TemporaryEquity" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AccruedLiabilityRelatedToStoreClosures" name="AccruedLiabilityRelatedToStoreClosures" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NumberOfRetailStoresImpaired" name="NumberOfRetailStoresImpaired" nillable="true" type="xbrli:integerItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ScheduleOfAssetImpairments" name="ScheduleOfAssetImpairments" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ScheduleOfRestructuringCostsBySegment" name="ScheduleOfRestructuringCostsBySegment" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_RestructuringChargesTotal" name="RestructuringChargesTotal" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_DeferredOfferingCost" name="DeferredOfferingCost" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PreferredStockAccretionPeriod" name="PreferredStockAccretionPeriod" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AccumulatedOtherComprehensiveIncomePolicyPolicyTextBlock" name="AccumulatedOtherComprehensiveIncomePolicyPolicyTextBlock" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NoncontrollingInterestsPolicyPolicyTextBlock" name="NoncontrollingInterestsPolicyPolicyTextBlock" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_BeneficialConversionFeaturePolicyPolicyTextBlock" name="BeneficialConversionFeaturePolicyPolicyTextBlock" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ScheduleOfPreformanceBasedRsuVestingScheduleTableTextBlock" name="ScheduleOfPreformanceBasedRsuVestingScheduleTableTextBlock" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_WeightedAverageStockPricePeriod" name="WeightedAverageStockPricePeriod" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EffectiveIncomeTaxRateReconciliationNonDeductibleNonTaxableItems" name="EffectiveIncomeTaxRateReconciliationNonDeductibleNonTaxableItems" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EffectiveIncomeTaxRateReconciliationNonDeductibleWriteOffOfIntercompanyDebt" name="EffectiveIncomeTaxRateReconciliationNonDeductibleWriteOffOfIntercompanyDebt" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NumberOfConsecutiveTradingDays" name="NumberOfConsecutiveTradingDays" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_CommonAreaMaintenanceParkingAndStorageFees" name="CommonAreaMaintenanceParkingAndStorageFees" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PaidDuties" name="PaidDuties" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NumberOfRetailStoresWithAssetImpairmentCharges" name="NumberOfRetailStoresWithAssetImpairmentCharges" nillable="true" type="xbrli:integerItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AdjustmentForBeneficialConversionFeatureOfPreferredStock" name="AdjustmentForBeneficialConversionFeatureOfPreferredStock" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_MinimumFixedChargeCoverageRatio" name="MinimumFixedChargeCoverageRatio" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ExpectedMinimumFixedChargeCoverageRatioForFirstHalfOfNextYear" name="ExpectedMinimumFixedChargeCoverageRatioForFirstHalfOfNextYear" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ExpectedMinimumFixedChargeCoverageRatioAfterFirstHalfOfNextYear" name="ExpectedMinimumFixedChargeCoverageRatioAfterFirstHalfOfNextYear" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_CertainConditionsMember" name="CertainConditionsMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_RestrictedStockAndRestrictedUnitsMember" name="RestrictedStockAndRestrictedUnitsMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PreferredStockRedemptionPeriod" name="PreferredStockRedemptionPeriod" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PreferredStockRedemptionPercentOfStatedValue" name="PreferredStockRedemptionPercentOfStatedValue" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PreferredStockRedemptionMaximumPercentOfStatedValue" name="PreferredStockRedemptionMaximumPercentOfStatedValue" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_RepurchaseOfCommonStockForTaxWithholding" name="RepurchaseOfCommonStockForTaxWithholding" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_StateIncomeTaxReturnsExaminationPeriodAfterFiling" name="StateIncomeTaxReturnsExaminationPeriodAfterFiling" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ExaminationPeriodOfStateImpactOfAnyFederalChangesAfterFormalNotification" name="ExaminationPeriodOfStateImpactOfAnyFederalChangesAfterFormalNotification" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_BrazilianFederalTaxAuthoritiesMember" name="BrazilianFederalTaxAuthoritiesMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EffectiveIncomeTaxRateReconciliationWriteOffOfIncomeTaxReceivable" name="EffectiveIncomeTaxRateReconciliationWriteOffOfIncomeTaxReceivable" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_IncomeTaxExaminationInterestReleased" name="IncomeTaxExaminationInterestReleased" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NumberOfNotesPayableOutstanding" name="NumberOfNotesPayableOutstanding" nillable="true" type="xbrli:integerItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_FirstYearVestingCliffMember" name="FirstYearVestingCliffMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_RemainingYearsMonthlyVestingMember" name="RemainingYearsMonthlyVestingMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NumberOfAnnualInstallmentsVesting" name="NumberOfAnnualInstallmentsVesting" nillable="true" type="xbrli:integerItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ShareBasedCompensationPerformanceGoalsPercentage" name="ShareBasedCompensationPerformanceGoalsPercentage" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ShareBasedCompensationPotentialAwardPercentage" name="ShareBasedCompensationPotentialAwardPercentage" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ShareBasedCompensationBeginningPeriodOfVesting" name="ShareBasedCompensationBeginningPeriodOfVesting" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_VestingScenarioOneMember" name="VestingScenarioOneMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_VestingScenarioTwoMember" name="VestingScenarioTwoMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ShareBasedCompensationPercentageEarnedFromPerformanceGoalAndVestingPeriod" name="ShareBasedCompensationPercentageEarnedFromPerformanceGoalAndVestingPeriod" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ShareBasedCompensationFurtherTimeVestingAnniversaryPeriod" name="ShareBasedCompensationFurtherTimeVestingAnniversaryPeriod" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ShareBasedCompensationPerformanceGoalsPeriod" name="ShareBasedCompensationPerformanceGoalsPeriod" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_DeferredRevenueAndRoyaltiesPayable" name="DeferredRevenueAndRoyaltiesPayable" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ExpectedLeverageRatioAfterOneYearPeriod" name="ExpectedLeverageRatioAfterOneYearPeriod" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_GlobalCashRequirementUnderCreditFacility" name="GlobalCashRequirementUnderCreditFacility" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_SummaryOfSignificantAccountingPoliciesTable" name="SummaryOfSignificantAccountingPoliciesTable" nillable="true" type="xbrli:stringItemType" substitutionGroup="xbrldt:hypercubeItem" abstract="true" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_SummaryOfSignificantAccountingPoliciesLineItems" name="SummaryOfSignificantAccountingPoliciesLineItems" nillable="true" type="xbrli:stringItemType" substitutionGroup="xbrli:item" abstract="true" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_LongTermDebtAndCapitalLeaseObligationsMaturitiesRepaymentsOfPrincipalAfterYearThree" name="LongTermDebtAndCapitalLeaseObligationsMaturitiesRepaymentsOfPrincipalAfterYearThree" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_SeniorRevolvingCreditFacilityMember" name="SeniorRevolvingCreditFacilityMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AsiaPacificRevolvingCreditFacilityMember" name="AsiaPacificRevolvingCreditFacilityMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_IncreaseToCashAndNonCashCharges" name="IncreaseToCashAndNonCashCharges" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_MaximumAmountOfCashCharges" name="MaximumAmountOfCashCharges" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ImportFacilitiesMember" name="ImportFacilitiesMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_MarkUpPercentage" name="MarkUpPercentage" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ReserveForUnappliedRebatesMember" name="ReserveForUnappliedRebatesMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AllowanceForDoubtfulAccountsReceivableRecoveriesAppliedAmountsAndWriteOff" name="AllowanceForDoubtfulAccountsReceivableRecoveriesAppliedAmountsAndWriteOff" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AllowanceForDoubtfulAccountsReceivableReductionInRevenue" name="AllowanceForDoubtfulAccountsReceivableReductionInRevenue" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NumberOfInstallmentsVestingForUnitsGranted" name="NumberOfInstallmentsVestingForUnitsGranted" nillable="true" type="xbrli:integerItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ProvisionForGrossDoubtfulAccounts" name="ProvisionForGrossDoubtfulAccounts" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_TimeVestingMember" name="TimeVestingMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PerformanceVestingMember" name="PerformanceVestingMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_DaysWithinPaymentExpectedToBeReceivedByCreditCardCompaniesToBeConsideredCashEquivalents" name="DaysWithinPaymentExpectedToBeReceivedByCreditCardCompaniesToBeConsideredCashEquivalents" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PermittedAmountOfBadDebtWriteDownsAddedBackToEbitdar" name="PermittedAmountOfBadDebtWriteDownsAddedBackToEbitdar" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_OtherEbitdar" name="OtherEbitdar" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PeriodOfLendingRateBenchmark" name="PeriodOfLendingRateBenchmark" nillable="true" type="xbrli:durationItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EquityIncentivePlan2015Member" name="EquityIncentivePlan2015Member" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_VestingScenarioThreeMember" name="VestingScenarioThreeMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PercentOfVestingUponCertificationOfAchievement" name="PercentOfVestingUponCertificationOfAchievement" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PercentOfVestingUponAfterFirstTwoYearsOfAnniversary" name="PercentOfVestingUponAfterFirstTwoYearsOfAnniversary" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PastDueMember" name="PastDueMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_DeferredTaxAssetsOperatingLossAndCharitableContributionsCarryforwards" name="DeferredTaxAssetsOperatingLossAndCharitableContributionsCarryforwards" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_SupplyChainMember" name="SupplyChainMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_TravelAndEntertainmentLiabilities" name="TravelAndEntertainmentLiabilities" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_NumberOfCustomersWhoRepresentAboveThresholdPercentage" name="NumberOfCustomersWhoRepresentAboveThresholdPercentage" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AssetsAndLiabilitiesHeldForSalePolicyPolicyTextBlock" name="AssetsAndLiabilitiesHeldForSalePolicyPolicyTextBlock" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AssetsHeldForSaleGross" name="AssetsHeldForSaleGross" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AccruedLossOnDisposalAssociatedWithForeignCurrencyTranslationAdjustments" name="AccruedLossOnDisposalAssociatedWithForeignCurrencyTranslationAdjustments" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ExcludingSouthAfricaMember" name="ExcludingSouthAfricaMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AccruedLossOnDisposalGroup" name="AccruedLossOnDisposalGroup" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_MinimumFixedChargeCoverageRatioAfterFirstHalfOfYear" name="MinimumFixedChargeCoverageRatioAfterFirstHalfOfYear" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ExpectedLeverageRatioAfterFirstHalfOfYear" name="ExpectedLeverageRatioAfterFirstHalfOfYear" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_MaximumCapitalExpendituresAndCommitments" name="MaximumCapitalExpendituresAndCommitments" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_LoanFacilityMember" name="LoanFacilityMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PncMember" name="PncMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EffectiveIncomeTaxRateReconciliationNonDeductibleNonTaxable" name="EffectiveIncomeTaxRateReconciliationNonDeductibleNonTaxable" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EffectiveIncomeTaxRateReconciliationUncertainTaxPositions" name="EffectiveIncomeTaxRateReconciliationUncertainTaxPositions" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EffectiveIncomeTaxRateReconciliationNonDeductibleWriteOffOfIntercompanyDebtAmount" name="EffectiveIncomeTaxRateReconciliationNonDeductibleWriteOffOfIntercompanyDebtAmount" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_EffectiveIncomeTaxRateReconciliationWriteOffOfIncomeTaxReceivableAmount" name="EffectiveIncomeTaxRateReconciliationWriteOffOfIncomeTaxReceivableAmount" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_DeferredTaxLiabilitiesUndistributedForeignEarningsCurrent" name="DeferredTaxLiabilitiesUndistributedForeignEarningsCurrent" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_AssessmentsOfUnpaidDuties" name="AssessmentsOfUnpaidDuties" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_CrocsRetailLlcMember" name="CrocsRetailLlcMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_ObsoleteInventoryMember" name="ObsoleteInventoryMember" nillable="true" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_TransactionsWithAffiliatesPolicyPolicyTextBlock" name="TransactionsWithAffiliatesPolicyPolicyTextBlock" nillable="true" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_PercentOfCommonStockOnceConvertiblePreferredStockAreConverted" name="PercentOfCommonStockOnceConvertiblePreferredStockAreConverted" nillable="true" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_DeferredDebtIssuanceCosts" name="DeferredDebtIssuanceCosts" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  <element id="crox_IncreaseDecreaseInAssetsHeldForSaleNoncashInvestingAndFinancingItems" name="IncreaseDecreaseInAssetsHeldForSaleNoncashInvestingAndFinancingItems" nillable="true" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="credit" xmlns="http://www.w3.org/2001/XMLSchema" />
+</xsd:schema>

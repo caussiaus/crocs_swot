@@ -1,0 +1,306 @@
+EX-10.12 2 crox123123ex1012-2024refin.htm EX-10.12  Document
+Exhibit 10.12
+Execution Version
+2024 REFINANCING AMENDMENT
+
+
+This REFINANCING AMENDMENT (this “Amendment”), dated as of February 13, 2024, is made by and among Crocs, Inc., a Delaware corporation (the “Borrower”), the Subsidiary Guarantors party hereto, Citibank, N.A., as Administrative Agent under the Existing Credit Agreement (as defined below) (the “Administrative Agent”) and each of the Lenders party hereto.
+PRELIMINARY STATEMENTS:
+(1) The Borrower, the Lenders party thereto from time to time and the Administrative Agent are party to that certain Term Loan Credit Agreement, dated as of February 17, 2022 (as amended by the Refinancing Amendment, dated as of August 8, 2023, and as further amended, restated, supplemented, waived or otherwise modified from time to time prior to the date hereof, the “Existing Credit Agreement” and, the Existing Credit Agreement as amended by this Amendment, the “Amended Credit Agreement”).
+(2) The Borrower has requested that the 2024 Refinancing Term Lenders (as defined below) provide 2024 Refinancing Term Loans (as defined below) in an aggregate principal amount of $820,000,000.00, as Refinancing Term Loans (as defined in the Existing Credit Agreement) pursuant to Section 2.22(a) of the Existing Credit Agreement.
+(3) On the Refinancing Effective Date (as defined below), each Existing Term Lender (as defined below) that shall have executed and delivered a consent to this Amendment substantially in the form of the “Consent to Refinancing Amendment” posted to the Lenders on or about January 16, 2024 (a “2024 Refinancing Term Loan Consent”) indicating the “Cashless Settlement Option” (each such Existing Term Lender, a “2024 Refinancing Term Cashless Settlement Option Lender”) shall be deemed to have exchanged all of its Existing Term Loans (as defined below) (or such lesser amount as allocated to such 2024 Refinancing Term Cashless Settlement Option Lender on or prior to the Refinancing Effective Date) for an equal aggregate principal amount of 2024 Refinancing Term Loans and such Lender shall thereafter become a 2024 Refinancing Term Lender (as defined below).
+(4) On the Refinancing Effective Date, each person that executes and delivers this Amendment as a 2024 Refinancing Term Lender will make 2024 Refinancing Term Loans to the Borrower in an aggregate principal amount equal to its 2024 Refinancing Term Loan Commitment (as defined below), the proceeds of which will be used by the Borrower to repay in full the outstanding principal amount of Existing Term Loans that are not exchanged for 2024 Refinancing Term Loans (including Loans from Existing Term Lenders that execute and deliver a 2024 Refinancing Term Loan Consent indicating the “Post-Closing Settlement Option” (each such Existing Term Lender, a “2024 Refinancing Term Post-Closing Option Lender”)).
+(5) With respect to the 2024 Refinancing Term Loan Commitments (as defined below), Citibank, N.A., Morgan Stanley Senior Funding, Inc., PNC Capital Markets, LLC and HSBC Securities (USA) Inc. will act as joint lead arrangers (in such capacity, the “2024 Refinancing Arrangers”).
+NOW, THEREFORE, in consideration of the mutual agreements herein contained and other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, and subject to the conditions set forth herein, the parties hereto hereby agree as follows:
+section 1.Defined Terms. Capitalized terms used but not defined herein shall have the meanings assigned to such terms in the Amended Credit Agreement. In addition, as used in this Amendment, the following terms have the meanings specified:
+“2024 Refinancing Term Lender” shall mean a person with a 2024 Refinancing Term Loan Commitment on the Refinancing Effective Date. For the avoidance of doubt, an Existing Term Lender immediately prior to the Refinancing Effective Date may also be a 2024 Refinancing Term Lender.
+1
+* * *
+
+
+
+
+“2024 Refinancing Term Loan Commitment” shall mean, with respect to each 2024 Refinancing Term Lender, the commitment of such 2024 Refinancing Term Lender to make 2024 Refinancing Term Loans to the Borrower on the Refinancing Effective Date. The amount of each 2024 Refinancing Term Lender’s 2024 Refinancing Term Loan Commitment as of the Refinancing Effective Date is set forth on Schedule 1 hereto.
+“2024 Refinancing Term Loan Exchange Commitment” shall mean the agreement of a 2024 Refinancing Term Cashless Settlement Option Lender to exchange all of its Existing Term Loans (or such lesser amount as allocated to such 2024 Refinancing Term Cashless Settlement Option Lender by the 2024 Refinancing Arrangers on or prior to the Refinancing Effective Date) for an equal aggregate principal amount of 2024 Refinancing Term Loans on the Refinancing Effective Date.
+“2024 Refinancing Term Loans” shall mean Term Loans that are made pursuant to Section 3 of this Amendment.
+“2024 Refinancing Term Non-Exchanging Lender” shall mean each Existing Term Lender that (i) did not execute and deliver a 2024 Refinancing Term Loan Consent on or prior to the Refinancing Effective Date or (ii) is a 2024 Refinancing Term Post-Closing Option Lender.
+“Existing Term Lender” shall mean a Lender with Existing Term Loans outstanding immediately prior to the Refinancing Effective Date.
+“Existing Term Loans” shall mean Term Loans outstanding under the Existing Credit Agreement immediately prior to the Refinancing Effective Date.
+section 2.Amendments to Credit Agreement. Effective as of the Refinancing Effective Date (as defined below) the Existing Credit Agreement is hereby amended as follows:
+(a)Section 1.01 of the Existing Credit Agreement is hereby amended by adding the following definitions in appropriate alphabetical order:
+“2024 Refinancing Amendment” shall mean the Refinancing Amendment dated as of the 2024 Refinancing Amendment Effective Date among the Borrower, the Subsidiary Guarantors party thereto, the Lenders party thereto and the Administrative Agent.
+“2024 Refinancing Amendment Effective Date” means February 13, 2024.
+“2024 Refinancing Term Lenders” shall mean any “2024 Refinancing Term Lender” as defined in the 2024 Refinancing Amendment.
+“2024 Refinancing Term Loan Commitment” shall mean the “2024 Refinancing Term Loan Commitment” as defined in the 2024 Refinancing Amendment.
+“2024 Refinancing Term Loans” shall mean the “2024 Refinancing Term Loans” as defined in the 2024 Refinancing Amendment.
+(b)The definition of “Advance” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entity as follows:
+“Advance” means a borrowing hereunder consisting of the aggregate amount of the several Loans made by the Lenders to the Borrower of the same Class and Type and, in the case of SOFR Loans, for the same Interest Period. For the avoidance of doubt, the definition of “Advance” shall include a borrowing consisting of (i) 2023 Refinancing Term Loans made by the 2023 Refinancing
+
+
+2
+* * *
+
+
+
+
+Term Lenders to the Borrower and (ii) 2024 Refinancing Term Loans made by the 2024 Refinancing Term Lenders to the Borrower.
+(c)The definition of “Applicable Margin” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entity as follows:
+“Applicable Margin” means, as at any date of determination, (a) 1.25%, in the case of ABR Loans and (b) 2.25% in the case of SOFR Loans.
+(d)The definition of “Lenders” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entity as follows:
+“Lenders” means the lending institutions listed on the signature pages of this Agreement, the 2023 Refinancing Amendment, the 2024 Refinancing Amendment or any Increasing Lender Supplement or Augmenting Lender Supplement, and their respective successors and assigns.
+(e)The definition of “Loans” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entity as follows:
+“Loan(s)” means, with respect to a Lender, such Lender’s portion of any Advance made pursuant to Section 2.01 hereof, and including all Term Loans, whether made or continued as or converted to ABR Loans or SOFR Loans. For the avoidance of doubt, the definition of “Loans” shall include the 2023 Refinancing Term Loans and the 2024 Refinancing Term Loans.
+(f)The definition of “Loan Documents” in Section 1.01 of the Existing Credit Agreement is hereby amended by adding the words “the 2024 Refinancing Amendment,” after the words “the 2023 Refinancing Amendment,” and before the words “any Assignment and Assumption”.
+(g)The definition of “Term Lender” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entity as follows:
+“Term Lender” means at any time, a Lender with an outstanding Term Loan or Term Loan Commitment, 2023 Refinancing Term Loan or 2023 Refinancing Term Loan Commitment or 2024 Refinancing Term Loan or 2024 Refinancing Term Loan Commitment at such time.
+(h)The definition of “Term Loan” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entity as follows:
+“Term Loan” means an Advance made by any Term Lender under the Term Facility. For the avoidance of doubt, the definition of “Term Loan” shall include the 2023 Refinancing Term Loans and the 2024 Refinancing Term Loans.
+(i)The definition of “Term Loan Commitment” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entity as follows:
+“Term Loan Commitment” means for each Term Lender, the obligation of such Term Lender to make Term Loans not exceeding the amount set forth (w) on Schedule 2.01 to this Agreement opposite its name thereon under the heading “Term Loan Commitment”, (x) on Schedule 1 to the 2023 Refinancing Amendment, (y) on Schedule 1 to the 2024 Refinancing Amendment or (z) in the Assignment and Assumption or Incremental Term Loan Amendment by which it became a Term Lender, in each case, as such amount may be modified from time
+
+
+3
+* * *
+
+
+
+
+to time pursuant to the terms of this Agreement or to give effect to any applicable Assignment and Assumption or Incremental Term Loan Amendment.
+(j)The definition of “Term SOFR Adjustment” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entity as follows:
+“Term SOFR Adjustment” means 0.0%.
+(k)Section 2.04(a)(ii) of the Existing Credit Agreement is hereby amended and restated in its entirety as follows:
+“(ii) In the event any Term Loans (including, for the avoidance of doubt, any 2024 Refinancing Term Loans) are subject to a Repricing Event prior to the six (6) month anniversary of the 2024 Refinancing Amendment Effective Date, a Term Lender whose Term Loans are prepaid or repaid in whole or in part, or which is required to assign any of its Term Loans pursuant to Section 2.19, in connection with such Repricing Event or which holds a Term Loan the All-in Yield of which is reduced as a result of a Repricing Event shall be paid an amount equal to 1.00% of the aggregate principal amount of such Lender’s Term Loans so prepaid, repaid, assigned or repriced.”
+(l)Schedules 6.08 and 7.03(b) to the Existing Credit Agreement are hereby amended and restated in their entirety as set forth in Exhibit A hereto.
+section 3.Existing Term Loan Refinancing. (a) Subject to the terms and conditions set forth herein, each of the 2024 Refinancing Term Lenders agrees to make 2024 Refinancing Term Loans to the Borrower on the Refinancing Effective Date in a principal amount not to exceed its 2024 Refinancing Term Loan Commitment. The Borrower shall prepay in full all Existing Term Loans of each 2024 Refinancing Term Non-Exchanging Lender (and, to the extent the aggregate principal amount of Existing Term Loans of any 2024 Refinancing Term Cashless Settlement Option Lender exceeds the 2024 Refinancing Term Loan Exchange Commitment of such 2024 Refinancing Term Cashless Settlement Option Lender, Existing Term Loans of such 2024 Refinancing Term Cashless Settlement Option Lender in an aggregate principal amount equal to such excess amount) with the gross proceeds of the 2024 Refinancing Term Loans and other funds available to the Borrower. Unless previously terminated, the 2024 Refinancing Term Loan Commitments shall terminate upon the funding of the 2024 Refinancing Term Loans.
+(b) Subject to the terms and conditions set forth herein, each 2024 Refinancing Term Cashless Settlement Option Lender hereby agrees that all of its Existing Term Loans (or a lesser amount allocated to such 2024 Refinancing Term Cashless Settlement Option Lender by the 2024 Refinancing Arrangers on or prior to the Refinancing Effective Date) will be automatically exchanged for a like principal amount of 2024 Refinancing Term Loans on the Refinancing Effective Date.
+section 4.Representations of the Loan Parties. Each Loan Party hereby represents and warrants to the other parties hereto as of the Refinancing Effective Date that:
+(a) this Amendment has been duly executed by such party and constitutes its legal, valid and binding obligation, enforceable against it in accordance with its terms (except as enforceability may be limited by bankruptcy, insolvency, or similar laws affecting the enforcement of creditors’ rights generally and by general equitable principles, including concepts of reasonableness, materiality, good faith and fair dealing and the possible unavailability of specific performance, injunctive relief or other equitable remedies (whether enforcement is sought by proceedings in equity or at law));
+(b) the representations in the Credit Agreement and each other Loan Document are true and correct in all material respects (except that any representation and warranty that is qualified as to “materiality” or “Material Adverse Effect” shall be true and correct in all respects) on and as the Refinancing Effective Date, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct in all material respects (except that any
+
+
+4
+* * *
+
+
+
+
+representation and warranty that is qualified as to “materiality” or “Material Adverse Effect” shall be true and correct in all respects) as of such earlier date;
+(c) after giving effect to this Amendment, the execution, delivery and performance by each Loan Party of this Amendment (i) have been duly approved by the respective boards of directors and, if necessary, the shareholders thereof, and such approvals have not been rescinded, (ii) do not require any consent or approval of, registration or filing with, or any other action by, any Governmental Authority, except such as have been obtained or made and are (or will so be) in full force and effect and except for filings necessary to perfect Liens created under the Loan Documents, (iii) will not violate any applicable law, including any order of any Governmental Authority, (iv) will not violate the charter, by-laws or other organizational documents of the Borrower or any Loan Party, (v) will not violate or result in an event of default under any indenture or agreement or give rise to a right thereunder to require any payment to be made by the Borrower or any Loan Party, and (vi) will not result in the creation or imposition of any Lien on any asset of the Borrower or any Restricted Subsidiary, except Liens created pursuant to the Loan Documents, except in the case of clauses (ii) and (v) above, for a violation or creation, as applicable, which would not reasonably be expected to result in a Material Adverse Effect; and
+(d) at the time of and immediately after giving effect to this Amendment, no Default or Event of Default exists or shall result from this Amendment in respect of the 2024 Refinancing Term Loans or from the application of the proceeds therefrom.
+section 5.Conditions to Effectiveness. The obligations of the 2024 Refinancing Term Lenders to make 2024 Refinancing Term Loans on the Refinancing Effective Date are subject (at the time of or substantially concurrently with the making of such 2024 Refinancing Term Loans) to the satisfaction (or waiver in accordance with Section 9.03 of the Existing Credit Agreement) of the following conditions (the date of such satisfaction or waiver of all such conditions, the “Refinancing Effective Date”):
+(a)The Administrative Agent (or its counsel) shall have received (i) from each 2024 Refinancing Term Cashless Settlement Option Lender, each 2024 Refinancing Term Post-Closing Option Lender and each 2024 Refinancing Term Lender and (ii) from the Borrower and the Subsidiary Guarantors, either (x) a counterpart of this Amendment signed on behalf of such party (or a 2024 Refinancing Term Loan Consent) or (y) written evidence reasonably satisfactory to the Administrative Agent (which may include delivery of a signed signature page of this Amendment by facsimile or other means of electronic transmission (e.g., “pdf”)) that such party has signed a counterpart of this Amendment (or a 2024 Refinancing Term Loan Consent).
+(b)The Borrower shall have paid to the Administrative Agent, for the ratable account of each Existing Term Lender immediately prior to the Refinancing Effective Date, or simultaneously with the making of the 2024 Refinancing Term Loans, all accrued and unpaid interest on its Existing Term Loans to, but not including, the Refinancing Effective Date.
+(c)The Borrower shall have delivered to the Administrative Agent (or its counsel) a Borrowing/Election Notice with respect to the 2024 Refinancing Term Loans to be provided to the Borrower by the 2024 Refinancing Term Lenders.
+(d)The Administrative Agent (or its counsel) shall have received, with respect to each Loan Party that is a Domestic Subsidiary, (i) a certificate of each such Loan Party, dated the Refinancing Effective Date and executed by a secretary, assistant secretary or other Authorized Officer thereof, which shall (A) certify that (x) either attached thereto is a true and complete copy of the articles of organization or equivalent organizational document of such Loan Party that are in full force and effect as of the Refinancing Effective Date or that there have been no changes thereto since they were last delivered to the Administrative Agent since the 2023 Refinancing Amendment Effective Date, (y) either attached thereto is a true and complete copy of the bylaws or operating agreement of such Loan Party that are in full force and effect as of the Refinancing Effective Date or that there have been no changes thereto since they were last delivered to the Administrative Agent since the 2023 Refinancing Amendment Effective Date and (z) attached
+
+
+5
+* * *
+
+
+
+
+thereto is a true and complete copy of the resolutions of the board of directors (or similar governing body) of such Loan Party approving this Amendment and the transactions contemplated hereby, and (B) identify by name and title and bear the signatures of the officers, managers, directors or other authorized signatories of such Loan Party who are authorized to sign this Amendment and (ii) a good standing (or equivalent) certificate for each such Loan Party from the relevant authority of its jurisdiction of organization, dated as of a recent date;
+(e)The Administrative Agent (or its counsel) shall have received, on behalf of itself and the Lenders on the Refinancing Effective Date, a customary written opinion of Perkins Coie LLP, with respect to each Loan Party that is a Domestic Subsidiary, in its capacity as special counsel for the Loan Parties.
+(f)The Administrative Agent shall have received all fees payable thereto or to any 2024 Refinancing Arrangers and any 2024 Refinancing Term Lender, on or prior to the Refinancing Effective Date and, to the extent invoiced at least one Business Day prior to the Refinancing Effective Date, reimbursement or payment of all reasonable and documented out-of-pocket expenses (including reasonable fees, charges and disbursements of Davis Polk & Wardwell LLP) required to be reimbursed or paid by the Loan Parties hereunder or under any Loan Document on or prior to the Refinancing Effective Date (which amounts may be offset against the proceeds of the Loans made hereunder).
+(g)The Administrative Agent shall have received a customary officer’s certificate from an Authorized Officer of the Borrower certifying the accuracy of the representations and warranties set forth in Section 4 hereto.
+(h)The Administrative Agent (or its counsel) shall have received a solvency certificate in substantially the form of Exhibit M to the Amended Credit Agreement from the chief financial officer (or other Authorized Officer with similar responsibilities) of the Borrower dated as of the Refinancing Effective Date and certifying as to the matters set forth therein.
+(i)No later than three Business Days in advance of the Refinancing Effective Date, the Administrative Agent shall have received (i) all documentation and other information reasonably requested with respect to the Borrower or any Loan Party in writing by any Lender at least ten Business Days in advance of the Refinancing Effective Date, which documentation or other information is required by regulatory authorities under the PATRIOT Act, Sanctions Laws and Anti-Corruption Laws and (ii) if the Borrower qualifies as a “legal entity customer” under the Beneficial Ownership Regulation, a Beneficial Ownership Certification in relation to the Borrower, in each case of clauses (i) and (ii), to the extent reasonably requested by the Administrative Agent (on behalf of itself or any Lender) in writing reasonable in advance of the Refinancing Effective Date.
+section 6.Consent and Affirmation of the Subsidiary Loan Parties. Each of the Borrower and Subsidiary Guarantors hereby (i) agrees that each of the Guarantee Agreement and the other Collateral Documents is, and shall continue to be, in full force and effect and is hereby in all respects ratified and confirmed on the Refinancing Effective Date, except that, on and after the Refinancing Effective Date, each reference to “Credit Agreement”, “thereunder”, “thereof” or words of like import shall, unless the context otherwise requires, mean and be a reference to the Amended Credit Agreement and (ii) confirms that the Collateral Documents to which each of the Borrower and the Subsidiary Guarantors is a party and all of the Collateral described therein do, and shall continue to, secure the payment of all of the Obligations (including, for the avoidance of doubt, Obligations in respect of the 2024 Refinancing Term Loans).
+section 7.Reference to and Effect on the Loan Documents. (a) On and after the Refinancing Effective Date, immediately following the effectiveness of the 2024 Refinancing Term Loans, each reference in the Amended Credit Agreement to “hereunder”, “hereof”, “Agreement”, “this Agreement” or words of like import and each reference in the other Loan Documents to “Credit Agreement”, “thereunder”, “thereof” or words of like import shall, unless the context otherwise requires, mean and be a reference to the Amended Credit Agreement. From and after the Refinancing Effective
+
+
+6
+* * *
+
+
+
+
+Date, immediately following the effectiveness of the 2024 Refinancing Term Loans, this Amendment shall be a Loan Document under the Amended Credit Agreement.
+(j)The Collateral Documents and each other Loan Document, as specifically amended by this Amendment, are and shall continue to be in full force and effect and are hereby in all respects ratified and confirmed, and the respective guarantees, pledges, grants of security interests and other agreements, as applicable, under each of the Collateral Documents, notwithstanding the consummation of the transactions contemplated hereby, shall continue to be in full force and effect and shall accrue to the benefit of the Secured Parties under the Existing Credit Agreement and the Amended Credit Agreement. Without limiting the generality of the foregoing, the Collateral Documents and all of the Collateral described therein do and shall continue to secure the payment of all Obligations (including, for the avoidance of doubt, Obligations in respect of the 2024 Refinancing Term Loans) of the Loan Parties under the Loan Documents, in each case, as amended by this Amendment.
+(k)The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of any Lender or the Administrative Agent under any of the Loan Documents, nor constitute a waiver of any provision of any of the Loan Documents.
+(l)The 2024 Refinancing Term Lenders shall constitute “Lenders”, the 2024 Refinancing Term Loans shall constitute “Refinancing Term Loans”, “Term Loans” and “Loans”, the 2024 Refinancing Term Loan Commitments shall constitute “Refinancing Term Loan Commitments”, Commitments”, in each case, for all purposes of the Amended Credit Agreement and the other Loan Documents. The 2024 Refinancing Term Loans made pursuant to this Amendment shall constitute one Class of “Term Loans” for all purposes of the Amended Credit Agreement and the other Loan Documents and shall otherwise be subject to the provisions of the Amended Credit Agreement and the other Loan Documents.
+(m)This Amendment shall constitute the (i) notice to the Lenders required under Section 2.22(c) of the Existing Credit Agreement and each Lender party hereto hereby waives any prior notice requirement under the Existing Credit Agreement, including Section 2.22(c) thereof and (ii) three (3) Business Day’s prior written notice to the Administrative Agent required under Section 2.04(a)(i) of the Existing Credit Agreement of the prepayment of Existing Term Loans in an aggregate principal amount of $133,241,216.75.
+section 8.Execution in Counterparts; Electronic Signature. This Amendment may be executed in any number of counterparts, all of which taken together shall constitute one agreement, and any of the parties hereto may execute this Amendment by signing any such counterpart. The words “execution,” “execute”, “signed,” “signature,” and words of like import in or related to any document to be signed in connection with this Amendment and the transactions contemplated hereby shall be deemed to include electronic signatures, the electronic matching of assignment terms and contract formations on electronic platforms approved by the Administrative Agent, or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act; provided that notwithstanding anything contained herein to the contrary the Administrative Agent is under no obligation to agree to accept electronic signatures in any form or in any format unless expressly agreed to by the Administrative Agent pursuant to procedures approved by it.
+section 9.Amendments; Headings; Severability. This Amendment may not be amended nor may any provision hereof be waived except pursuant to a writing signed by the Borrower, the Administrative Agent and the Lenders party hereto. The Section headings used herein are for convenience of reference only, are not part of this Amendment and are not to affect the construction of, or to be taken into consideration in interpreting this Amendment. Any provision of this Amendment held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and
+
+
+7
+* * *
+
+
+
+
+enforceability of the remaining provisions hereof, and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction. The parties shall endeavor in good-faith negotiations to replace the invalid, illegal or unenforceable provisions with valid provisions, the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+section 10.Governing Law; Etc. THIS AMENDMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAW OF THE STATE OF NEW YORK WITHOUT REGARD TO PRINCIPLES OF CONFLICTS OF LAWS THAT WOULD OTHERWISE DIRECT THE APPLICATION OF THE LAWS OF ANY OTHER JURISDICTION.
+section 11.No Novation. This Amendment shall not extinguish the obligations for the payment of money outstanding under the Existing Credit Agreement or discharge or release the Lien or priority of any Collateral Document or any other security therefor. Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Existing Credit Agreement or instruments securing the same, which shall remain in full force and effect, except to any extent modified hereby or by instruments executed concurrently herewith and except to the extent repaid as provided herein. Nothing implied in this Amendment or in any other document contemplated hereby shall be construed as a release or other discharge of any of the Loan Parties under any Loan Document from any of its obligations and liabilities as a borrower, guarantor or pledgor under any of the Loan Documents.
+section 12.Notices. All notices hereunder shall be given in accordance with the Credit Agreement.
+[Signature Pages Follow]
+
+
+8
+* * *
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their respective officers thereunto duly authorized, as of the date first above written.
+BORROWER:
+CROCS, INC.,
+a Delaware corporation
+By: /s/ Josef Fonseca
+Name: Josef Fonseca
+Title: VP, Global Treasurer
+SUBSIDIARY GUARANTORS:
+CROCS RETAIL, LLC
+By: /s/ Josef Fonseca
+Name: Josef Fonseca
+Title: Treasurer
+JIBBITZ, INC.
+By: /s/ Josef Fonseca
+Name: Josef Fonseca
+Title: Assistant Treasurer
+COLORADO FOOTWEAR C.V.
+By: /s/ Jeffrey Michael Timmers
+Name: Jeffrey Michael Timmers
+Title: Member of Management Committee
+WESTERN BRANDS HOLDING COMPANY, LLC
+By: /s/ Josef Fonseca
+Name: Josef Fonseca
+Title: Treasurer
+WESTERN BRANDS NETHERLANDS HOLDING C.V.
+By: /s/ Jeffrey Michael Timmers
+Name: Jeffrey Michael Timmers
+Title: Member of Management Committee
+CROCS GENERAL PARTNER, LLC
+By: Western Brands Netherlands Holding C.V.
+Its: Sole Member
+
+
+By: /s/ Jeffrey Michael Timmers
+Name: Jeffrey Michael Timmers
+Title: Member of Management Committee
+
+
+
+
+[Signature Page to 2024 Refinancing Amendment]
+
+
+* * *
+
+
+
+
+CROCS MALTA LTD.
+By: /s/ Jeffrey Michael Timmers
+Name: Jeffrey Michael Timmers
+Title: Company Secretary
+CROCS MALTA HOLDINGS LTD.
+By: /s/ Jeffrey Michael Timmers
+Name: Jeffrey Michael Timmers
+Title: Company Secretary
+HEY DUDE (US) LLC
+By: /s/ Josef Fonseca
+Name: Josef Fonseca
+Title: Assistant Treasurer
+
+HEY DUDE INC.
+By: /s/ Josef Fonseca
+Name: Josef Fonseca
+Title: Assistant Treasurer
+CROCS UK HOLDINGS LIMITED
+By: /s/ Jeffrey Michael Timmers
+Name: Jeffrey Michael Timmers
+Title: Director
+CROCS UK FIN CO LIMITED
+By: /s/ Jeffrey Michael Timmers
+Name: Jeffrey Michael Timmers
+Title: Director
+CROCS FINANCE UK LIMITED
+By: /s/ Jeffrey Michael Timmers
+Name: Jeffrey Michael Timmers
+Title: Director
+CROCS SG FIN CO PTE. LTD.
+By: /s/ Jeffrey Michael Timmers
+Name: Jeffrey Michael Timmers
+Title: Director
+[Signature Page to 2024 Refinancing Amendment]
+
+
+
+
+* * *
+
+
+
+
+CROCS MALTA GLOBAL LTD.
+By: /s/ Jeffrey Michael Timmers
+Name: Jeffrey Michael Timmers
+Title: Director
+CROCS EUROPE B.V.
+By: /s/ Adrian Holloway
+Name: Adrian Holloway
+Title: Director
+[Signature Page to 2024 Refinancing Amendment]
+
+
+
+
+* * *
+
+
+
+
+CITIBANK, N.A.,
+as Administrative Agent
+
+
+
+
+By: /s/ Akshay Kulkarni
+Name: Akshay Kulkarni
+Title: Vice President
+
+
+
+
+[Signature Page to 2024 Refinancing Amendment]
+
+
+
+
+* * *
+
+
+CITIBANK, N.A.,
+as a 2024 Refinancing Term Lender
+
+
+
+
+By: /s/ Akshay Kulkarni
+Name: Akshay Kulkarni
+Title: Vice President
+
+
+
+
+
+
+[Signature Page to 2024 Refinancing Amendment]
+
+
+* * *
+
+
+
+
+
+
+
+
+
+
+
+
+[Lender signature pages on file with the Administrative Agent]

@@ -1,0 +1,405 @@
+EX-10.7 2 exhibit107-debtamendment3.htm EX-10.7  Document
+
+
+Exhibit 10.7
+THIRD AMENDMENT TO SECOND AMENDED AND RESTATED  CREDIT AGREEMENT
+
+
+This Third Amendment to Second Amended and Restated Credit Agreement (the “Amendment”), is made this 23 day of July 2021 among CROCS, INC., a Delaware corporation (“Crocs”), CROCS RETAIL, LLC, a Colorado limited liability company (“Crocs Retail”), JIBBITZ, LLC, a Colorado limited liability company (“Jibbitz”), COLORADO FOOTWEAR C.V., a limited partnership (commanditaire vennootschap) established under the laws of the Netherlands and registered with the Dutch trade register under number 27302818 (“Colorado Footwear”), CROCS EUROPE B.V., a private limited company (besloten vennootschap met beperkte aansprakelijkheid) incorporated under the laws of the Netherlands and registered with the Dutch trade register under number 27276812 (“Crocs Europe”, together with Crocs, Crocs Retail, Jibbitz, Colorado Footwear and each Person joined to the Credit Agreement (as hereinafter defined) as a borrower from time to time, collectively referred to herein as, the “Borrowers” or “Borrower”), CROCS MALTA HOLDINGS LTD, a limited liability company organized under the laws of the Republic of Malta (“Crocs Malta Holdings”), CROCS MALTA LTD, a limited liability company organized under the laws of the Republic of Malta (“Crocs Malta”, together with Crocs Malta Holdings and each Person joined to the Credit Agreement as a guarantor from time to time, collectively referred to herein as, the “Guarantors” or “Guarantor”), the Lenders (as hereinafter defined), and PNC BANK, NATIONAL ASSOCIATION, in its capacity as administrative agent for the Lenders under this Agreement (hereinafter referred to in such capacity as the “Administrative Agent”), Swing Loan Lender and Issuing Lender.
+BACKGROUND
+
+
+A. On July 26, 2019, Borrowers, Lenders, Joint Lead Arrangers (as defined in the Credit Agreement) and Administrative Agent entered into, inter alia, that certain Second Amended and Restated Credit Agreement (as same has been or may hereafter be amended, modified, renewed, extended, restated or supplemented from time to time, the “Credit Agreement”) to reflect certain financing arrangements among the parties thereto. The Credit Agreement and all other documents executed in connection therewith to the date hereof (including all of the Loan Documents) are collectively referred to as the “Existing Financing Agreements”. All capitalized terms used and not otherwise defined herein shall have the meaning ascribed thereto in the Credit Agreement, as amended hereby.
+
+
+B. Borrowers have requested, and Administrative Agent and Lenders have agreed, to modify certain terms and provisions of the Credit Agreement, in each case, on the terms and subject to the conditions contained in this Amendment.
+
+
+NOW, THEREFORE, in consideration of the mutual promises contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+
+Section 1. Amendments.
+
+
+(a) Definitions – New Definitions. Upon the Effective Date (as defined below), Section 1.1 of the Credit Agreement is amended to add the following definitions in the appropriate alphabetical order:
+
+
+“Erroneous Payment” has the meaning assigned to it in Section 10.14(a).
+
+
+“Erroneous Payment Deficiency Assignment” has the meaning assigned to it in Section 10.14(d).
+
+
+* * *
+
+
+
+
+
+
+“Erroneous Payment Impacted Class” has the meaning assigned to it in Section 10.14(d).
+
+
+“Erroneous Payment Return Deficiency” has the meaning assigned to it in Section 10.14(d).
+
+
+“Erroneous Payment Subrogation Rights” has the meaning assigned to it in Section 10.14(d).
+
+
+“Third Amendment” shall mean the Third Amendment to Second Amended and Restated Credit Agreement among Administrative Agent, the Lenders and the Loan Parties dated as of the Third Amendment Date.
+
+
+“Third Amendment Date” shall mean July 23, 2021.
+
+
+(b) Amended and Restated Definition. Upon the Effective Date, the last sentence of the first paragraph of the definition of “LIBOR Rate” in Section 1.1 of the Credit Agreement shall be amended and restated as follows:
+
+
+Notwithstanding the foregoing, if the LIBOR Rate as determined under any method above would be less than zero percent (0.00%), such rate shall be deemed to be zero percent (0.00%) for purposes of this Agreement.
+
+
+(c) Permitted Indebtedness. Upon the Effective Date, Section 8.2.1(xxi) shall be amended and restated in its entirety as follows:
+
+
+(xxi) Indebtedness pursuant to unsecured notes, bonds or other similar instruments issued by Crocs in an amount not to exceed $1,000,000,000 in the aggregate so long as at the time of issuance of such Indebtedness and after giving pro forma effect to the issuance thereof: (A) no Event of Default is continuing or would occur, (B) the Loan Parties would be in compliance with the Leverage Ratio set forth in Section 8.2.15 hereof as of the last day of the most recently ended fiscal quarter as if such Indebtedness were issued on the last day of such fiscal quarter, and (C) the Loan Parties would be in compliance with the Interest Coverage Ratio set forth in Section 8.2.14 hereof as of the last day of the most recently ended fiscal quarter as if such Indebtedness were issued on the first day of the trailing twelve month period ending on the last day of the most recently ended fiscal quarter.
+
+
+(d) Erroneous Payments. The following Section 10.14 shall be added to Article X:
+
+
+Section 10.14 Erroneous Payments.
+
+
+(a) If the Administrative Agent notifies a Lender, Issuing Lender or Secured Party, or any Person who has received funds on behalf of a Lender, Issuing Lender or Secured Party such Lender or Issuing Lender (any such Lender, Issuing Lender, Secured Party or other recipient, a “Payment Recipient”) that the Administrative Agent has determined in its sole discretion (whether or not after receipt of any notice under immediately succeeding clause (b)) that any funds received by such Payment Recipient from the Administrative Agent or any of its Affiliates were erroneously transmitted to, or otherwise erroneously or
+
+
+* * *
+
+
+
+
+mistakenly received by, such Payment Recipient (whether or not known to such Lender, Issuing Lender, Secured Party or other Payment Recipient on its behalf) (any such funds, whether received as a payment, prepayment or repayment of principal, interest, fees, distribution or otherwise, individually and collectively, an “Erroneous Payment”) and demands the return of such Erroneous Payment (or a portion thereof), such Erroneous Payment shall at all times remain the property of the Administrative Agent and shall be segregated by the Payment Recipient and held in trust for the benefit of the Administrative Agent, and such Lender, Issuing Lender or Secured Party shall (or, with respect to any Payment Recipient who received such funds on its behalf, shall cause such Payment Recipient to) promptly, but in no event later than two Business Days thereafter, return to the Administrative Agent the amount of any such Erroneous Payment (or portion thereof) as to which such a demand was made, in same day funds (in the currency so received), together with interest thereon in respect of each day from and including the date such Erroneous Payment (or portion thereof) was received by such Payment Recipient to the date such amount is repaid to the Administrative Agent in same day funds at the greater of the Effective Federal Funds Rate and a rate determined by the Administrative Agent in accordance with banking industry rules on interbank compensation from time to time in effect. A notice of the Administrative Agent to any Payment Recipient under this clause (a) shall be conclusive, absent manifest error.
+
+
+(b) Without limiting immediately preceding clause (a), each Lender, Issuing Lender or Secured Party, or any Person who has received funds on behalf of a Lender, Issuing Lender or Secured Party such Lender or Issuing Lender, hereby further agrees that if it receives a payment, prepayment or repayment (whether received as a payment, prepayment or repayment of principal, interest, fees, distribution or otherwise) from the Administrative Agent (or any of its Affiliates) (x) that is in a different amount than, or on a different date from, that specified in a notice of payment, prepayment or repayment sent by the Administrative Agent (or any of its Affiliates) with respect to such payment, prepayment or repayment, (y) that was not preceded or accompanied by a notice of payment, prepayment or repayment sent by the Administrative Agent (or any of its Affiliates), or (z) that such Lender, Issuing Lender or Secured Party, or other such recipient, otherwise becomes aware was transmitted, or received, in error or by mistake (in whole or in part) in each case:
+
+
+(i) (A) in the case of immediately preceding clauses (x) or (y), an error shall be presumed to have been made (absent written confirmation from the Administrative Agent to the contrary) or (B) an error has been made (in the case of immediately preceding clause (z)), in each case, with respect to such payment, prepayment or repayment; and
+
+
+* * *
+
+
+
+
+
+
+(ii) such Lender, Issuing Lender or Secured Party shall (and shall cause any other recipient that receives funds on its respective behalf to) promptly (and, in all events, within one Business Day of its knowledge of such error) notify the Administrative Agent of its receipt of such payment, prepayment or repayment, the details thereof (in reasonable detail) and that it is so notifying the Administrative Agent pursuant to this Section 14.14(b).
+
+
+(c) Each Lender, Issuing Lender or Secured Party hereby authorizes the Administrative Agent to set off, net and apply any and all amounts at any time owing to such Lender, Issuing Lender or Secured Party under any Loan Document, or otherwise payable or distributable by the Administrative Agent to such Lender, Issuing Lender or Secured Party from any source, against any amount due to the Administrative Agent under immediately preceding clause (a) or under the indemnification provisions of this Agreement.
+
+
+(d) In the event that an Erroneous Payment (or portion thereof) is not recovered by the Administrative Agent for any reason, after demand therefor by the Agent in accordance with immediately preceding clause (a), from any Lender or Issuing Lender that has received such Erroneous Payment (or portion thereof) (and/or from any Payment Recipient who received such Erroneous Payment (or portion thereof) on its respective behalf) (such unrecovered amount, an “Erroneous Payment Return Deficiency”), upon the Administrative Agent’s notice to such Lender or Issuing Lender at any time, (i) such Lender or Issuing Lender shall be deemed to have assigned advances (but not its Revolving Credit Commitments) to which such Erroneous Payment was made (the “Erroneous Payment Impacted Class”) in an amount equal to the Erroneous Payment Return Deficiency (or such lesser amount as the Administrative Agent may specify) (such assignment of the Loans (but not Commitments) of the Erroneous Payment Impacted Class, the “Erroneous Payment Deficiency Assignment”) at par plus any accrued and unpaid interest (with the assignment fee to be waived by the Administrative Agent in such instance), and is hereby (together with the Borrower) deemed to execute and deliver an Assignment and Assumption Agreement with respect to such Erroneous Payment Deficiency Assignment, and such Lender or Issuing Lender shall deliver any Notes evidencing such Loans to the Borrower or the Administrative Agent, (ii) the Administrative Agent as the assignee Lender shall be deemed to acquire the Erroneous Payment Deficiency Assignment, (iii) upon such deemed acquisition, the Agent as the assignee Lender shall become a Lender or Issuer, as applicable, hereunder with respect to such Erroneous Payment Deficiency Assignment and the assigning Lender or assigning Issuing Lender shall cease to be a Lender or Issuing Lender, as applicable, hereunder with respect to such
+
+
+* * *
+
+
+
+
+Erroneous Payment Deficiency Assignment, excluding, for the avoidance of doubt, its obligations under the indemnification provisions of this Agreement and its applicable Revolving Credit Commitments or Loan which shall survive as to such assigning Lender or assigning Issuing Lender and (iv) the Administrative Agent may reflect in the register its ownership interest in the advances subject to the Erroneous Payment Deficiency Assignment. The Administrative Agent may, in its discretion, sell any advances acquired pursuant to an Erroneous Payment Deficiency Assignment and upon receipt of the proceeds of such sale, the Erroneous Payment Return Deficiency owing by the applicable Lender or Issuing Lender shall be reduced by the net proceeds of the sale of such advances (or portion thereof), and the Administrative Agent shall retain all other rights, remedies and claims against such Lender or Issuing Lender (and/or against any recipient that receives funds on its respective behalf). For the avoidance of doubt, no Erroneous Payment Deficiency Assignment will reduce the Revolving Credit Commitments of any Lender or Issuing Lender and such Revolving Credit Commitments shall remain available in accordance with the terms of this Agreement. In addition, each party hereto agrees that, except to the extent that the Administrative Agent has sold advances (or portion thereof) acquired pursuant to an Erroneous Payment Deficiency Assignment, and irrespective of whether the Administrative Agent may be equitably subrogated, the Administrative Agent shall be contractually subrogated to all the rights and interests of the applicable Lender, Issuing Lender or Secured Party under the Loan Documents with respect to each Erroneous Payment Return Deficiency (the “Erroneous Payment Subrogation Rights”).
+
+
+(e) The parties hereto agree that an Erroneous Payment shall not pay, prepay, repay, discharge or otherwise satisfy any Obligations owed by the Borrower or any other Loan Party, except, in each case, to the extent such Erroneous Payment is, and solely with respect to the amount of such Erroneous Payment that is, comprised of funds received by the Administrative Agent from the Borrower or any other Loan Party for the purpose of making such Erroneous Payment.
+
+
+(f) To the extent permitted by applicable Law, no Payment Recipient shall assert any right or claim to an Erroneous Payment, and hereby waives, and is deemed to waive, any claim, counterclaim, defense or right of set-off or recoupment with respect to any demand, claim or counterclaim by the Administrative Agent for the return of any Erroneous Payment received, including without limitation waiver of any defense based on “discharge for value” or any similar doctrine. Each party’s obligations, agreements and waivers under this Section 10.14 shall survive the resignation or replacement of the Administrative Agent, the termination of the Revolving Credit
+
+
+* * *
+
+
+
+
+Commitments and/or the repayment, satisfaction or discharge of all Obligations (or any portion thereof).
+
+
+Section 2. Acknowledgment of Guarantors. With respect to the amendments to the Credit Agreement effected by this Amendment, each Guarantor signatory hereto hereby acknowledges and agrees to this Amendment and confirms and agrees that its Guaranty Agreement (as modified and supplemented in connection with this Amendment) and any other Loan Document to which it is a party is and shall continue to be, in full force and effect and is hereby ratified and confirmed in all respects except that, upon the effectiveness of, and on and after the date of this Amendment, each reference in such Guaranty or Loan Document to the Credit Agreement, “thereunder”, “thereof” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement as amended or modified by this Amendment. Although Administrative Agent and the Lenders have informed the Guarantors of the matters set forth above, and the Guarantors have acknowledged the same, each Guarantor understands and agrees that neither Administrative Agent nor any Lender has any duty under the Credit Agreement, the Guaranty Agreements or any other Loan Document to so notify any Guarantor or to seek such an acknowledgement, and nothing contained herein is intended to or shall create such a duty as to any transaction hereafter.
+
+
+Section 3. Conditions Precedent. This Amendment shall be effective upon (the “Effective Date”):
+
+
+(a) Administrative Agent’s receipt of the following:
+
+
+(i) this Amendment fully executed by the Borrowers, Guarantors, Administrative Agent and Required Lenders;
+
+
+(ii) such other documents as Administrative Agent or special counsel to Agent may reasonably request; and
+
+
+(b) No Default or Event of Default shall have occurred and be continuing.
+
+
+Section 4. Representations and Warranties. Each Borrower:
+
+
+(a) reaffirms all representations and warranties made to Administrative Agent and Lenders under the Credit Agreement and all of the other Existing Financing Agreements and confirms that all are true and correct in all material respects as of the date hereof (except to the extent any such representations and warranties specifically relate to a specific date, in which case such representations and warranties were true and correct in all material respects on and as of such other specific date);
+
+
+(b) reaffirms all of the covenants contained in the Credit Agreement, covenants to abide thereby until Payment in Full of the Obligations;
+
+
+(c) represents and warrants to the Administrative Agent and the Lenders that no Potential Default or Event of Default has occurred and is continuing under any of the Existing Financing Agreements;
+
+
+(d) represents and warrants to the Administrative Agent and the Lenders that it has the authority and legal right to execute, deliver and carry out the terms of this Amendment, that such actions were duly authorized by all necessary limited liability company or corporate action, as applicable, and that the officers executing this Amendment on its behalf were similarly
+
+
+* * *
+
+
+
+
+authorized and empowered, and that this Amendment does not contravene any provisions of its certificate of incorporation or formation, operating agreement, bylaws, or other formation documents, as applicable, or of any contract or agreement to which it is a party or by which any of its properties are bound;
+
+
+(e) represents and warrants to the Administrative Agent and the Lenders that this Amendment and all assignments, instruments, documents, and agreements executed and delivered in connection herewith, are valid, binding and enforceable in accordance with their respective terms, except as such enforceability may be limited by any applicable bankruptcy, insolvency, moratorium or similar laws affecting creditors’ rights generally; and
+
+
+(f) represents and warrants that the organizational chart attached hereto as Exhibit B is true and correct in all material respects.
+
+
+Section 5. General Provisions.
+
+
+(a) Payment of Expenses. Borrowers shall pay or reimburse Administrative Agent for its reasonable attorneys’ fees and expenses in connection with the preparation, negotiation and execution of this Amendment and the documents provided for herein or related hereto in accordance with Section 11.4.1 of the Credit Agreement.
+
+
+(b) Reaffirmation of Credit Agreement. Except as modified by the terms hereof, all of the terms and conditions of the Credit Agreement, as amended, and all of the other Existing Financing Agreements are hereby reaffirmed and shall continue in full force and effect as therein written.
+
+
+(c) Third Party Rights. No rights are intended to be created hereunder for the benefit of any third party donee, creditor, or incidental beneficiary.
+
+
+(d) Headings. The headings of any paragraph of this Amendment are for convenience only and shall not be used to interpret any provision hereof.
+
+
+(e) Modifications. No modification hereof or any agreement referred to herein shall be binding or enforceable unless in writing and signed on behalf of the party against whom enforcement is sought.
+
+
+(f) Governing Law. This Amendment shall be governed by and construed in accordance with the laws of the State of New York applied to contracts to be performed wholly within the State of New York.
+
+
+(g) Loan Documents. This Amendment is a “Loan Document” as defined in and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.
+
+
+(h) Counterparts. This Amendment may be executed in any number of and by different parties hereto on separate counterparts, all of which, when so executed, shall be deemed an original, but all such counterparts shall constitute one and the same agreement. Any signature delivered by a party by facsimile transmission or PDF shall be deemed to be an original signature hereto.
+
+
+(Signature Pages Follow)
+
+
+* * *
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their respective officers thereunto duly authorized as of the day and year first above written.
+
+
+BORROWERS:
+
+
+CROCS, INC.
+
+
+By: /s/ Anne Mehlman
+Name: Anne Mehlman
+Title: Executive Vice President and Chief Financial Officer
+
+
+
+
+CROCS RETAIL, LLC
+
+
+By: /s/ Anne Mehlman
+Name: Anne Mehlman
+Title: Chief Financial Officer
+
+
+
+
+JIBBITZ, LLC
+
+
+By: /s/ Anne Mehlman
+Name: Anne Mehlman
+Title: Manager
+
+
+
+
+COLORADO FOOTWEAR C.V.
+
+
+By: Crocs General Partner, LLC, as General Partner of Colorado Footwear C.V.
+
+
+By: /s/ Anne Mehlman
+Name: Anne Mehlman
+Title: Chief Financial Officer
+
+
+CROCS EUROPE B.V.
+
+
+By: /s/ Trevin Abraham David
+Name: Trevin Abraham David
+Title: Authorized Signatory
+
+
+
+
+* * *
+
+
+
+
+GUARANTORS:
+
+
+WESTERN BRANDS HOLDING COMPANY, LLC
+
+
+By: /s/ Anne Mehlman
+Name: Anne Mehlman
+Title: Chief Financial Officer
+
+
+
+
+WESTERN BRANDS NETHERLANDS HOLDING C.V.
+
+
+By: Western Brands Holding Company, LLC, as General Partner of Western Brands Netherlands Holding C.V.
+
+
+By: /s/ Anne Mehlman
+Name: Anne Mehlman
+Title: Chief Financial Officer
+
+
+
+
+CROCS GENERAL PARTNER, LLC
+
+
+By: /s/ Anne Mehlman
+Name: Anne Mehlman
+Title: Chief Financial Officer
+
+
+
+
+CROCS MALTA HOLDINGS LTD
+
+
+By: /s/ Jeffrey Timmers
+Name: Jeffrey Timmers
+Title: Director
+
+
+
+
+CROCS MALTA LTD
+
+
+By: /s/ Anne Mehlman
+Name: Anne Mehlman
+Title: Director
+
+
+
+
+
+
+* * *
+
+
+
+
+ADMINISTRATIVE AGENT AND LENDERS:
+
+
+PNC BANK, NATIONAL ASSOCIATION, as
+Lender and as Administrative Agent
+
+
+By: /s/ Steve C. Roberts
+Name: Steve C. Roberts
+Title: Senior Vice President
+
+
+
+
+HSBC BANK USA, N.A., as Lender
+
+
+By: /s/ Jamie Mariano
+Name: Jamie Mariano
+Title: Senior Vice President
+
+
+
+
+KEYBANK NATIONAL ASSOCIATION, as
+Lender
+
+
+By: /s/ Marianne T. Meil
+Name: Marianne T. Meil
+Title: Senior Vice President
+
+
+
+
+CITIBANK, N.A., as Lender
+
+
+By: /s/ Jonathan C Eng
+Name: Jonathan C Eng
+Title: Vice President
+
+
+
+
+BANK OF AMERICA, N.A., as Lender
+
+
+By: /s/ John Sletten
+Name: John Sletten
+Title: Senior Vice President
+
+
+
+
+U.S. BANK NATIONAL ASSOCIATION, as Lender
+
+
+By: /s/ Courtney A. Boltz
+Name: Courtney A. Boltz
+Title: Senior Vice President
+
+
+
+
+MORGAN STANLEY BANK, N.A., as Lender
+
+
+By: /s/ Jonathan Kerner
+Name: Jonathan Kerner
+Title: Authorized Signatory
