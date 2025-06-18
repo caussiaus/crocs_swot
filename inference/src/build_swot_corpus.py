@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# DEPRECATED: Use B_yearly_swot_with_mistral.py for all SWOT corpus building logic.
 """yearly_swot_with_mistral.py – LOCAL‑ONLY v2
 
 * Loads local **Mistral‑7B‑Instruct‑v0.3** once for BOTH embeddings
