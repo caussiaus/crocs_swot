@@ -1,1 +1,11 @@
 .env
+
+# Ignore all data files in inference/data but keep folders and .gitkeep
+/data/**
+!/data/.gitkeep
+!/data/raw/
+!/data/raw/.gitkeep
+!/data/processed/
+!/data/processed/.gitkeep
+!/data/features/
+!/data/features/.gitkeep
