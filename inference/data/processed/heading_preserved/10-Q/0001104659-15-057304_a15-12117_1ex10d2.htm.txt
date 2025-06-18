@@ -1,0 +1,203 @@
+EX-10.2 3 a15-12117_1ex10d2.htm EX-10.2
+**Exhibit 10.2**
+**_SEVENTH AMENDMENT TO_**
+****
+**_AMENDED AND RESTATED CREDIT AGREEMENT_**
+This Seventh Amendment to Amended and Restated Credit Agreement (the  _Amendment_ ), is made this 21st day of April, 2015 among **CROCS, INC.** , a corporation organized under the laws of the State of Delaware ( _Crocs_ ), **CROCS RETAIL, LLC** , a limited liability company organized under the laws of the State of Colorado ( _Retail_ ), **OCEAN MINDED, INC.** , a corporation organized under the laws of the State of Colorado ( _Ocean_ ), **JIBBITZ, LLC,** a limited liability company organized under the laws of the State of Colorado ( _Jibbitz_ ), **BITE, INC.** , a corporation organized under the laws of the State of Colorado ( _Bite_ , together with Crocs, Retail, Ocean, Jibbitz and each other Person joined as a borrower from time to time to the Credit Agreement (as defined below), collectively  _Borrowers_  and each a  _Borrower_ ), the Lenders who have executed this Amendment and constitute Required Lenders (collectively, the  _Consenting Lenders_  and each individually a  _Consenting Lender_ ) and **PNC BANK, NATIONAL ASSOCIATION**( _PNC_ ), as agent for Lenders (PNC, in such capacity, the  _Administrative Agent_ ). All capitalized terms used and not otherwise defined herein shall have the meaning ascribed thereto in the below-defined Credit Agreement, as amended hereby.
+**_BACKGROUND_**
+A. On December 16, 2011, Borrowers, Lenders and Administrative Agent entered into, _inter alia_ , that certain Amended and Restated Credit Agreement (as same has been or may hereafter be amended, modified, renewed, extended, restated or supplemented from time to time, including without limitation as amended by that certain First Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of December 10, 2012, that certain Second Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of June 12, 2013, that certain Third Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of December 27, 2013, that certain Fourth Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of March 27, 2014, that certain Fifth Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of September 26, 2014, and that certain Sixth Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of April 2, 2015 the  _Credit Agreement_ ) to reflect certain financing arrangements among the parties thereto.
+B. Borrowers have requested and Administrative Agent and Consenting Lenders have agreed to modify certain terms and provisions of the Credit Agreement on the terms and subject to the conditions contained in this Amendment.
+**NOW, THEREFORE** , in consideration of the mutual promises contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+* * *
+
+
+**_Section 1._** **_Amendments to Credit Agreement_**. Upon the Effective Date (as defined below):
+(a) _New Defined Terms_. The following defined terms are added to Section 1.1 of the Credit Agreement in the appropriate alphabetical order:
+_IP Transfer Agreement_ shall mean that certain IP Transfer Agreement attached as Exhibit A to the Seventh Amendment, as amended, amended and restated, supplemented or otherwise modified from time to time upon the consent of Administrative Agent.
+_Panama IP_ shall mean the intellectual property listed on Schedule A to the Seventh Amendment.
+_Seventh Amendment_ shall mean that certain Seventh Amendment to Amended and Restated Credit Agreement dated as of April 21, 2015 by and among Borrowers, the Lenders party thereto, and Administrative Agent.
+(b) _Dispositions of Assets or Subsidiaries_. Section 8.2.7 of the Credit Agreement is hereby amended by deleting the word or at the end of clause (vi) thereof, changing the period at the end of clause (vii) thereof to ; or, and adding the following as clause (viii) thereof: (viii) a transfer of the Panama IP by Crocs to Colorado Footwear C.V., a company organized under the laws of The Netherlands; located at Cumberland House, 1 Victoria Street, 9FL, Hamilton HM 11, Bermuda, so long as Administrative Agent receives, concurrent with such transfer, a fully executed copy of the IP Transfer Agreement.
+(c) _Events of Default_. Section 9.1 of the Credit Agreement is hereby amended by changing the period at the end of Section 9.1.10 thereof to ;, changing the period at the end of Section 9.1.11 thereof to ; or, and adding the following as Section 9.1.12 thereof: 9.1.12 _IP Transfer Agreement_. Any breach of the IP Transfer Agreement, or if any Person attempts to terminate, or challenges the validity of or its liability under, the IP Transfer Agreement.
+**_Section 2._** **_Acknowledgment of Guarantors_.** With respect to the amendments to the Credit Agreement effected by this Amendment, each Guarantor signatory hereto hereby acknowledges and agrees to this Amendment and confirms and agrees that its Guaranty Agreement (as modified and supplemented in connection with this Amendment) and any other Loan Document to which it is a party is and shall continue to be, in full force and effect and is hereby ratified and confirmed in all respects except that, upon the effectiveness of, and on and after the date of this Amendment, each reference in such Guaranty or Loan Document to the Credit Agreement, thereunder, thereof or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement as amended or modified by this Amendment. Although Administrative Agent and the Consenting Lenders have informed the Guarantors of the matters set forth above, and the Guarantors have acknowledged the same, each Guarantor understands and agrees that neither Administrative Agent nor any Lender has
+2
+* * *
+
+
+any duty under the Credit Agreement, the Guaranty Agreements or any other Loan Document to so notify any Guarantor or to seek such an acknowledgement, and nothing contained herein is intended to or shall create such a duty as to any transaction hereafter.
+**_Section 3._** **_Condition Precedent_.** This Amendment shall be effective upon Administrative Agents receipt of this Amendment fully executed by the Borrowers, the Guarantors, Administrative Agent and Consenting Lenders (the  _Effective Date_ ).
+**_Section 4._** **_Representations and Warranties_.** Each Loan Party:
+(a) reaffirms all representations and warranties made to Administrative Agent and Lenders under the Credit Agreement and all of the other Loan Documents and confirms that all are true and correct in all material respects as of the date hereof (except (i) to the extent any such representations and warranties specifically relate to a specific date, in which case such representations and warranties were true and correct in all material respects on and as of such other specific date, and (ii) to the extent any such representations and warranties are qualified by materiality, in which case such representations and warranties were true and correct in all respects);
+(b) reaffirms all of the covenants contained in the Credit Agreement, covenants to abide thereby until satisfaction in full of the Obligations and termination of the Credit Agreement and the other Loan Documents;
+(c) represents and warrants to the Administrative Agent and the Lenders that no Potential Default or Event of Default has occurred and is continuing under any of the Loan Documents or will result from this Amendment;
+(d) represents and warrants to the Administrative Agent and the Lenders that it has the authority and legal right to execute, deliver and carry out the terms of this Amendment, that such actions were duly authorized by all necessary limited liability company or corporate action, as applicable, and that the officers executing this Amendment on its behalf were similarly authorized and empowered, and that this Amendment does not contravene any provisions of its certificate of incorporation or formation, operating agreement, bylaws, or other formation documents, as applicable, or of any contract or agreement to which it is a party or by which any of its properties are bound; and
+(e) represents and warrants to the Administrative Agent and the Lenders that this Amendment and all assignments, instruments, documents, and agreements executed and delivered in connection herewith, are valid, binding and enforceable in accordance with their respective terms, except as such enforceability may be limited by any applicable bankruptcy, insolvency, moratorium or similar laws affecting creditors rights generally.
+**_Section 5._** **_General Provisions_**.
+(a) _Payment of Expenses_. Borrowers shall pay or reimburse Administrative Agent and Lenders for their reasonable attorneys fees and
+3
+* * *
+
+
+expenses in connection with the preparation, negotiation and execution of this Amendment and the documents provided for herein or related hereto.
+(b) _Reaffirmation_. Except as modified by the terms hereof, all of the terms and conditions of the Credit Agreement, as amended, and all of the other Loan Documents are hereby reaffirmed by each Loan Party and shall continue in full force and effect as therein written.
+(c) _Third Party Rights_. No rights are intended to be created hereunder for the benefit of any third party donee, creditor, or incidental beneficiary.
+(d) _Headings_. The headings of any paragraph of this Amendment are for convenience only and shall not be used to interpret any provision hereof.
+(e) _Modifications_. No modification hereof or any agreement referred to herein shall be binding or enforceable unless in writing and signed on behalf of the party against whom enforcement is sought.
+(f) _Governing Law_. This Amendment shall be governed by and construed in accordance with the laws of the State of New York applied to contracts to be performed wholly within the State of New York.
+(g) _Counterparts_. This Amendment may be executed in any number of and by different parties hereto on separate counterparts, all of which, when so executed, shall be deemed an original, but all such counterparts shall constitute one and the same agreement. Any signature delivered by a party by facsimile transmission or PDF shall be deemed to be an original signature hereto.
+(_Signature Pages Follow_)
+4
+* * *
+
+
+**IN WITNESS WHEREOF,** the parties hereto have caused this Amendment to be duly executed by their respective officers thereunto duly authorized as of the day and year first above written.
+**_BORROWERS_ :**
+**CROCS, INC.**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+****
+****
+**CROCS RETAIL, LLC**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+****
+****
+**OCEAN MINDED, INC.**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lather
+Title: Chief Financial Officer
+****
+****
+**JIBBITZ, LLC**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Manager
+****
+****
+**BITE, INC.**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+[Signature Page to Seventh Amendment (Crocs)]
+* * *
+
+
+**_GUARANTORS_ :**
+****
+**WESTERN BRANDS HOLDING COMPANY, LLC**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+[Signature Page to Seventh Amendment (Crocs)]
+* * *
+
+
+**PNC BANK, NATIONAL ASSOCIATION,**
+as a Lender and as Administrative Agent
+By:
+/s/ Steve C. Roberts
+Name:
+Steve C. Roberts
+Title:
+Vice President
+[Signature Page to Seventh Amendment (Crocs)]
+* * *
+
+
+**JPMORGAN CHASE BANK, N.A.,**
+as a Lender
+By:
+/s/ Monica Popowczak
+Name:
+Monica Popowczak
+Title:
+Authorized Officer
+[Signature Page to Seventh Amendment (Crocs)]
+* * *
+
+
+**HSBC BANK USA, N.A.,**
+as a Lender
+By:
+/s/ Ilene Hernandez
+Name:
+Ilene Hernandez
+Title:
+Assistant Vice President
+[Signature Page to Seventh Amendment (Crocs)]
+* * *
+
+
+Exhibit A
+IP Transfer Agreement
+(see attached)
+[Seventh Amendment (Crocs)]
+* * *
+
+
+**_IP TRANSFER AGREEMENT_**
+This IP Transfer Agreement (this  _Agreement_ ), is made as of this 21st day of April, 2015 among **CROCS, INC.** , a corporation organized under the laws of the State of Delaware ( _Crocs_ ), **COLORADO FOOTWEAR C.V.** , a company organized under the laws of The Netherlands ( _Colorado_ ), and **PNC BANK, NATIONAL ASSOCIATION**( _PNC_ ), as agent for the Lenders defined below (PNC, in such capacity, the  _Administrative Agent_ ). All capitalized terms used and not otherwise defined herein shall have the meaning ascribed thereto in the below-defined Credit Agreement.
+**_BACKGROUND_**
+A. Reference is hereby made to (1) that certain Seventh Amendment (the  _Seventh Amendment_ ) to Amended and Restated Credit Agreement dated as of the date hereof by and among Crocs, CROCS RETAIL, LLC ( _Retail_ ), OCEAN MINDED, INC. ( _Ocean_ ), JIBBITZ, LLC ( _Jibbitz_ ), BITE, INC. ( _Bite_ , together with Crocs, Retail, Ocean, Jibbitz and each other Person joined as a borrower from time to time to the Credit Agreement (as defined below), collectively  _Borrowers_  and each a  _Borrower_ ), the Lenders party thereto, and Administrative Agent, and (2) that certain Amended and Restated Credit Agreement dated as of December 16, 2011 (as same has been or may hereafter be amended, modified, renewed, extended, restated or supplemented from time to time, the  _Credit Agreement_ ) by and among the Borrowers, the financial institutions party thereto as lenders from time to time (the  _Lenders_ ) and PNC BANK, NATIONAL ASSOCIATION ( _PNC_ ), as agent for the Lenders (PNC, in such capacity, the  _Administrative Agent_ ).
+B. Crocs owns the intellectual property listed on _Schedule A_ to the Seventh Amendment (the  _Specified IP_ ) and wishes to transfer the Specified IP to Colorado (the  _Specified IP Transfer_ ) pursuant to that certain Deed of Assignment dated on or about the date hereof (the  _Transfer Agreement_ ).
+C. As set forth in the Seventh Amendment, the Lenders are willing to consent to the Specified IP Transfer, with such transfer being conditioned upon Administrative Agents receipt of this Agreement duly executed by all parties hereto.
+**NOW, THEREFORE** , in consideration of the mutual promises contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+**1.** **_Agreements of Crocs and Colorado._**
+1.1 Notwithstanding anything to the contrary in the Transfer Agreement or the Credit Agreement, Colorado shall not, and Crocs shall not permit Colorado to:
+(a) Grant a Lien on any Specified IP to any Person other than Administrative Agent;
+* * *
+
+
+(b) Sell, give, convey, or otherwise transfer any Specified IP or interest in any Specified IP to any Person other than Administrative Agent or Crocs;
+(c) Take any action to cause title to any Specified IP to be held in the name of any Person other than Crocs or Colorado; or
+(d) Prevent, impair, or impede in any manner any action taken or proposed to be taken by Administrative Agent in connection with any rights or remedies exercised by Administrative Agent with respect to any intellectual property of Crocs which is subject to Administrative Agents Lien or any other Collateral upon which Administrative Agent has been granted a Lien, whether or not related in any way to the Specified IP.
+1.2 If Administrative Agent exercises any of its rights or remedies under the Credit Agreement, Crocs and Colorado shall, immediately upon written notice from Administrative Agent, take all such actions as Administrative Agent may require in connection therewith, at the sole cost and expense of Crocs, including without limitation transferring title to the Specified IP to Crocs and filing such documents, instruments and notices with any Official Body as may be necessary to evidence such transfer of title.
+1.3 Notices to Colorado shall be given in the manner specified in the Credit Agreement and may be sent by Administrative Agent to Colorado care of Crocs to the address of Crocs set forth in the Credit Agreement.
+**2.** **_Governing Law._**
+2.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New York applied to contracts to be performed wholly within the State of New York.
+**3.** **_Payment of Expenses._**
+3.1 Crocs shall pay or reimburse Administrative Agent and Lenders for their reasonable attorneys fees and expenses in connection with the preparation, negotiation and execution of this Agreement and the documents provided for herein or related hereto.
+**4.** **_JURY TRIAL WAIVER._**
+4.1 EACH PARTY HERETO HEREBY EXPRESSLY WAIVES ANY RIGHT TO A TRIAL BY JURY IN ANY ACTION OR PROCEEDING TO ENFORCE OR DEFEND ANY RIGHTS UNDER THIS AGREEMENT OR UNDER ANY AMENDMENT, INSTRUMENT, DOCUMENT OR AGREEMENT DELIVERED OR WHICH MAY IN THE FUTURE BE DELIVERED IN CONNECTION HEREWITH OR ARISING FROM ANY RELATIONSHIP EXISTING IN CONNECTION WITH THIS AGREEMENT, AND AGREES THAT ANY SUCH ACTION OR PROCEEDING SHALL BE TRIED BEFORE A COURT AND NOT BEFORE A JURY.
+* * *
+
+
+**5.** **_Miscellaneous._**
+5.1 This Agreement may be executed (including a signature by facsimile or PDF) in one or more counterparts, each of which shall be deemed to be an original, but all of which taken together shall be one and the same instrument. Signature by facsimile or PDF shall bind the parties hereto.
+5.2 This Agreement shall only be amended by a writing executed by all parties hereto.
+_[signature pages follow]_
+* * *
+
+
+**IN WITNESS WHEREOF,** the parties hereto have caused this Agreement to be duly executed by their respective officers thereunto duly authorized as of the day and year first above written.
+**CROCS, INC.**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+****
+****
+**COLORADO FOOTWEAR C.V.**
+By:
+/s/ Jeffrey Timmers
+Name: Jeffrey Timmers
+Title: Management Committee Member
+[IP Transfer Agreement (Crocs)]
+* * *
+
+
+**PNC BANK, NATIONAL ASSOCIATION,**
+as a Lender and as Administrative Agent
+By:
+/s/ Steve C. Roberts
+Name: Steve C. Roberts
+Title: Vice President
+[IP Transfer Agreement (Crocs)]
+* * *

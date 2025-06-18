@@ -1,0 +1,92 @@
+EX-97 8 crox123123ex97-incentiveco.htm EX-97  Document
+Exhibit 97
+CROCS, INC.
+Incentive Compensation Recovery Policy
+1.Purpose
+The purpose of the Crocs, Inc. Incentive Compensation Recovery Policy (this “Policy”) is to provide for the recovery of certain Incentive-Based Compensation in the event of an Accounting Restatement. This Policy is intended to comply with, and to be administered and interpreted consistent with, Section 10D of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), Rule 10D-1 promulgated under the Exchange Act (“Rule 10D-1”) and Listing Rule 5608 adopted by the Nasdaq Stock Market LLC (“Nasdaq”) (the “Listing Standards”). Unless otherwise defined in this Policy, capitalized terms shall have the meanings set forth in Section 10 below.
+2.Policy for Recovery of Erroneously Awarded Compensation
+In the event of an Accounting Restatement, the Company will recover reasonably promptly the amount of any Erroneously Awarded Compensation Received by an Executive Officer during the Recovery Period.
+3.Administration
+3.a.This Policy shall be administered by the Compensation Committee of the Crocs, Inc. Board of Directors (the “Board”), except that the Board may determine to act as the administrator or designate another committee of the Board to act as the administrator with respect to any portion of this Policy other than Section 3.3 (the “Administrator”). The Administrator is authorized to interpret and construe this Policy and to make all determinations necessary, appropriate, or advisable for the administration of this Policy.
+3.b.The Administrator is authorized to take appropriate steps to implement this Policy and may affect recovery hereunder by: (i) requiring payment to the Company, (ii) set-off, (iii) reducing compensation, or (iv) such other means or combination of means as the Administrator determines to be appropriate.
+3.c.The Company need not recover Erroneously Awarded Compensation if and to the extent that the Compensation Committee determines that such recovery is impracticable and not required under Rule 10D-1 and the Listing Standards because: (i) the direct expense paid to a third party to assist in enforcing this Policy would exceed the amount to be recovered after making a reasonable attempt to recover, (ii) recovery would violate home country law adopted prior to November 28, 2022, after obtaining the opinion of home country counsel acceptable to Nasdaq, or (iii) recovery would likely cause an otherwise tax-qualified broad-based retirement plan to fail the requirements of Section 401(a)(13) or Section 411(a) of the Internal Revenue Code of 1986, as amended, and regulations thereunder.
+3.d.Any determinations made by the Administrator under this Policy shall be final and binding on all affected individuals and need not be uniform with respect to each individual covered by this Policy.
+4.Other Recovery Rights; Company Claims
+\- 1 -
+
+
+* * *
+
+
+Any right of recovery pursuant to this Policy is in addition to, and not in lieu of, any other remedies or rights of recovery that may be available to the Company under applicable law or pursuant to the terms of any other compensation recovery policy of the Company that may be in effect from time to time, including in any employment agreement, plan or award agreement, or similar agreement and any other legal remedies available to the Company. Nothing contained in this Policy and no recovery hereunder shall limit any claims, damages, or other legal remedies the Company may have against an individual arising out of or resulting from any actions or omissions by such individual.
+5.Reporting and Disclosure
+The Company shall file all disclosures with respect to this Policy in accordance with the requirements of federal securities laws.
+6.Indemnification Prohibition
+Notwithstanding the terms of any indemnification or insurance policy or any contractual arrangement that may be interpreted to the contrary, the Company shall not indemnify any individual with respect to amount(s) recovered under this Policy or claims relating to the enforcement of this Policy, including any payment or reimbursement for the cost of third-party insurance purchased by such individual to fund potential clawback obligations hereunder.
+7.Amendment; Termination
+The Board or the Compensation Committee may amend or terminate this Policy from time to time in its discretion as it deems appropriate and shall amend this policy as it deems necessary to comply with applicable law or any rules or standards adopted by a national securities exchange or association on which the Company’s securities are listed; provided, however, that no amendment or termination of this Policy shall be effective to the extent it would cause the Company to violate any federal securities laws, Securities and Exchange Commission rule or the rules or standards of any national securities exchange or association on which the Company’s securities are listed.
+8.Successors
+This Policy shall be binding and enforceable against all individuals who are or were Executive Officers and their beneficiaries, heirs, executors, administrators, or other legal representatives.
+9.Effective Date
+This Policy is effective only for Incentive-Based Compensation Received by an Executive Officer on or after the Effective Date.
+10.Definitions. For purposes of this Policy, the following terms shall have the meanings set forth below:
+10.a.“Accounting Restatement” means an accounting restatement of the Company’s financial statements due to the Company’s material noncompliance with any financial reporting requirement under the securities laws, including any accounting restatement required to correct an error in previously issued financial statements that is material to the previously issued financial statements, or that would result in a material misstatement if the error were corrected in the current period or left uncorrected in the current period.
+\- 2 -
+
+
+* * *
+
+
+10.b.“Administrator” has the meaning set forth in Section 3.1 hereof.
+10.c.“Board” means the Company’s Board of Directors.
+10.d.“Company” means Crocs, Inc., a Delaware corporation, and its affiliates.
+10.e.“Committee” means the Compensation Committee of the Board.
+10.f.“Effective Date” means October 2, 2023.
+10.g.“Erroneously Awarded Compensation” means the amount, as determined by the Administrator, of Incentive-Based Compensation received by an Executive Officer that exceeds the amount of Incentive-Based Compensation that would have been received by the Executive Officer had it been determined based on the restated amounts. For Incentive-Based Compensation based on stock price or total shareholder return (“TSR”) the Administrator will determine the amount based on a reasonable estimate of the effect of the Accounting Restatement on the stock price or TSR upon which the Incentive-Based Compensation was received, and the Company will maintain documentation of the determination of that reasonable estimate and provide the documentation to Nasdaq. In all cases, the amount to be recovered will be calculated without regard to any taxes paid by the Executive Officer with respect of the Erroneously Awarded Compensation.
+10.h.“Executive Officers” means the Company’s current and former executive officers as determined by the Administrator in accordance with Rule 10D-1 and the Listing Standards. Generally, Executive Officers include any executive officer designated by the Board as an “officer” under Rule 16a-1(f) under the Exchange Act.
+10.i.“Financial Reporting Measure” means (i) any measure that is determined and presented in accordance with the accounting principles used in preparing the Company’s financial statements and any measure derived wholly or in part from such a measure, and (ii) any measure based wholly or in part on the Company’s stock price or total shareholder return. A Financial Reporting Measure need not be presented within the Company’s financial statements or included in a filing with the Securities and Exchange Commission.
+10.j.“Incentive-Based Compensation” means any compensation granted, earned, or vested based in whole or in part on the Company’s attainment of a Financial Reporting Measure that was Received by an individual (i) on or after the Effective Date and after such individual began service as an Executive Officer, (ii) who served as an Executive Officer at any time during the performance period for the Incentive-Based Compensation and (iii) while the Company had a listed class of securities on a national securities exchange or association.
+10.k. Incentive-Based Compensation is deemed to be “Received” in the Company’s fiscal period during which the Financial Reporting Measure specified in the Incentive-Based Compensation award is attained, even if the payment or grant of such Incentive-Based Compensation occurs after the end of that period.
+10.l.“Recovery Period” means the three completed fiscal years immediately preceding the date that the Company is required to prepare the applicable Accounting Restatement and any “transition period” as described under Rule 10D-1 and the Listing Standards. For purposes of this Policy, the “date that the Company is required to prepare the applicable Accounting Restatement” is the earlier to occur of (i) the date the Board,
+\- 3 -
+
+
+* * *
+
+
+a committee of the Board, or the officer or officers of the Company authorized to take such action if Board action is not required, concludes, or reasonably should have concluded, that the Company is required to prepare an Accounting Restatement, or (ii) the date a court, regulator, or other legally authorized body directs the Company to prepare an Accounting Restatement.
+11.Acknowledgement by Executive Officer
+The Administrator may require Executive Officers to sign and return to the Company an Acknowledgment Form substantially the form attached to this Policy as Exhibit A or in such other form determined by the Administrator, pursuant to which the Executive Officer agrees to be bound by, and comply with, the terms of this Policy.
+
+
+
+
+\- 4 -
+
+
+* * *
+
+
+Exhibit A
+CROCS, INC.
+Incentive Compensation Recovery Policy
+ACKNOWLEDGEMENT FORM
+I, the undersigned, acknowledge and affirm that I have received and reviewed a copy of the Crocs, Inc. Incentive Compensation Recovery Policy, and agree that: (i) I am and will continue to be subject to the Crocs, Inc. Incentive Compensation Recovery Policy, as amended from time to time (the “Policy”), (ii) the Policy will apply to me both during and after my employment with the Company, and (iii) I will abide by the terms of the Policy, including, without limitation, by promptly returning any Erroneously Awarded Compensation to the Company to the extent required by, and in a manner determined by the Administrator and permitted by, the Policy. In the event of any inconsistency between the Policy and the terms of any employment agreement or offer letter to which I am a party, or the terms of any compensation plan, program, or agreement under which any compensation has been granted, awarded, earned or paid, the terms of the Policy shall govern.
+Capitalized terms used but not otherwise defined in this Acknowledgement Form shall have the meanings ascribed to such terms in the Policy.
+________________________________
+Signature
+
+
+________________________________
+Print Name
+
+
+________________________________
+Date
+
+
+
+
+
+
+\- 5 -

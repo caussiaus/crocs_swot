@@ -1,7 +1,7 @@
 """
 Phase 4: Insider Trading Anomaly Detection (Form 4)
-- Input: data/raw/*_4.jsonl
-- Output: data/features/*_insider_activity.parquet
+- Input: inference/data/raw/*_4.jsonl
+- Output: inference/data/features/*_insider_activity.parquet
 
 Steps:
   1. Parse Form 4 transactions (A vs D)
@@ -14,5 +14,5 @@ Steps:
 def analyze_form4():
     pass
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     analyze_form4()

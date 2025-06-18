@@ -1,0 +1,191 @@
+EX-10.2 2 a13-17436_1ex10d2.htm EX-10.2
+**Exhibit 10.2**
+EXECUTION VERSION
+**_SECOND AMENDMENT TO AMENDED AND RESTATED
+CREDIT AGREEMENT_**
+This Second Amendment to Amended and Restated Credit Agreement (the  _Amendment_ ), is made this 12th day of June, 2013 among **CROCS, INC.,** a corporation organized under the laws of the State of Delaware ( _Crocs_ ), **CROCS RETAIL, INC.,** a corporation organized under the laws of the State of Colorado ( _Retail_ ), **OCEAN MINDED, INC.,** a corporation organized under the laws of the State of Colorado ( _Ocean_ ), **JIBBITZ, LLC,** a limited liability company organized under the laws of the State of Colorado ( _Jibbitz_ ),**BITE, INC.,** a corporation organized under the laws of the State of Colorado ( _Bite_ , together with Crocs, Retail, Ocean, Jibbitz and each other Person joined as a borrower from time to time to the Credit Agreement (as defined below), collectively  _Borrowers_  and each a  _Borrower_ ), the financial institutions which are now or which hereafter become a party to the Credit Agreement (collectively, the  _Lenders_  and each individually a  _Lender_ ) and **PNC BANK, NATIONAL ASSOCIATION**( _PNC_ ), as agent for Lenders (PNC, in such capacity, the  _Administrative Agent_ ).
+**_BACKGROUND_**
+A. On December 16, 2011, Borrowers, Lenders and Administrative Agent entered into, _inter_ _alia_ , that certain Amended and Restated Credit Agreement (as same has been or may hereafter be amended, modified, renewed, extended, restated or supplemented from time to time, including without limitation as amended by that certain First Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of December 10, 2012, the  _Credit Agreement_ ) to reflect certain financing arrangements among the parties thereto. The Credit Agreement and all other documents executed in connection therewith to the date hereof are collectively referred to as the  _Existing Financing Agreements_ . All capitalized terms used and not otherwise defined herein shall have the meaning ascribed thereto in the Credit Agreement, as amended hereby.
+B. Borrowers have requested and Administrative Agent and Lenders have agreed to modify certain terms and provisions of the Credit Agreement on the terms and subject to the conditions contained in this Amendment.
+**NOW, THEREFORE,** in consideration of the mutual promises contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+**_Section 1._********_Amendments to Credit Agreement_****.**
+(a) _Definitions_. Upon the Effective Date, clause (vi) of the definition of Consolidated EBITDAR in Section 1.1 of the Credit Agreement shall be amended and restated in its entirety as follows:
+(vi) Borrowers aggregate Rental Expenses for such period.
+(b) _Definitions_. Upon the Effective Date, the definition of Fixed Charges in Section 1.1 of the Credit Agreement shall be amended and restated in its entirety as follows:
+* * *
+
+
+_Fixed Charges_ shall mean for any period of determination the sum of cash interest expense, cash income taxes, scheduled principal installments on Indebtedness (as adjusted for prepayments), Capital Expenditures and payments under Capitalized Leases, Rental Expenses and dividends and distributions (including tax distributions), in each case, of the Borrowers on a Consolidated Basis.
+(c) _Definitions_. Upon the Effective Date, the definition of Global Cash in Section 1.1 of the Credit Agreement shall be amended and restated in its entirety as follows:
+_Global Cash_ means unrestricted cash of the Borrowers on a Consolidated Basis maintained in deposit accounts, as evidenced by the Borrowers most recent financial statements, and as confirmed on a Compliance Certificate.
+(d) _Definitions_. Upon the Effective Date, the definition of Leverage Ratio in Section 1.1 of the Credit Agreement shall be amended and restated in its entirety as follows:
+_Leverage Ratio_ shall mean, as of any date of determination, the ratio of (A) consolidated Indebtedness of Borrowers and its Subsidiaries on such date _plus_ the product of Borrowers Rental Expenses for the four (4) most recently ended fiscal quarters (or the four fiscal quarters ending on the date of determination if such date is the last day of a fiscal quarter) multiplied by eight (8), to (B) Consolidated EBITDAR of the Borrowers and its Subsidiaries for the four (4) most recently ended fiscal quarters (or the four fiscal quarters ending on the date of determination if such date is the last day of a fiscal quarter).
+(e) _Definitions_. Upon the Effective Date, the following definition of Percent Rent is hereby added to Section 1.1 of the Credit Agreement in the appropriate alphabetical sequence:
+_Percent Rent_ shall mean such portion of rent paid by any Borrower for any leased real property that is determined by reference to, and is comprised of a portion of, the revenue for such leased property.
+(f) _Definitions_. Upon the Effective Date, clauses (a) and (g) of the definition of Permitted Acquisitions in Section 1.1 of the Credit Agreement shall be amended and restated in their entirety as follows:
+(a) after giving effect to such Acquisition, Borrowers have Availability of not less than $25,000,000;
+(g) the Borrowers shall have delivered to Agent (i) a pro forma balance sheet and pro forma financial statements and a Compliance Certificate demonstrating that upon giving effect to such acquisition, Borrower is in compliance, on a Pro Forma Basis, with the financial covenants set forth in Section 8.2.14 [Minimum Fixed Charge Coverage Ratio] and 8.2.15 [Maximum Leverage Ratio] and 8.2.16 [Global Cash] as of the most recent fiscal quarter end and (ii) audited (to the extent audited exist)
+2
+* * *
+
+
+financial statements of the acquired entity for the two most recent fiscal years then ended, in form and substance reasonably acceptable to Administrative Agent, audited in accordance with GAAP;
+(g) _Definitions_. Upon the Effective Date, the following definition of Rental Expenses is hereby added to Section 1.1 of the Credit Agreement in the appropriate alphabetical sequence:
+_Rental Expenses_ shall mean rental expenses for all leased real property (excluding Percent Rent).
+(h) _Section 8.2.1_  _Indebtedness_. Upon the Effective Date, Section 8.2.1(vi) of the Credit Agreement shall be amended and restated in its entirety as follows:
+(vi) Guaranties of Indebtedness of Foreign Subsidiaries as permitted by Section 8.2.3(iii) and (iv) [Guaranties];
+(i) _Section 8.2.3_  _Guaranties_. Upon the Effective Date, Section 8.2.3(vi) of the Credit Agreement shall be amended and restated in its entirety as follows:
+(vi) guaranties of third-party loans to franchisees of retail stores and other non-Affiliate third parties, which together with any loans or advances permitted under Section 8.2.4(vi) [Loans and Investments] hereof, shall not exceed $5,000,000 in the aggregate outstanding at any time.
+(j) _Section 8.2.4_  _Loans and Investments_. Upon the Effective Date, Section 8.2.4(vi) of the Credit Agreement shall be amended and restated in its entirety as follows:
+(vi) loans, advances and other investments in franchisees of retail stores and other non-Affiliate third parties, which together with any guaranties permitted under Section 8.2.3(vi) [Guaranties] hereof, shall not exceed $5,000,000 in the aggregate outstanding at any time;
+(k) _Section 8.2.5_  _Dividends and Related Distributions_ Upon the Effective Date, Section 8.2.5(iii) of the Credit Agreement shall be amended and restated in its entirety as follows:
+(iii) any purchase, redemption or retirement of equity interests of any Borrower so long as (A) the amount of such purchases, redemptions or retirements does not exceed $50,000,000 in any fiscal quarter or $150,000,000 in any fiscal year, and (B) at the time of and after giving Pro Forma effect to such purchase, redemption or retirement, (I) no Potential Default or Event of Default has occurred and is continuing or would occur, and (II) the difference between the Revolving Facility Usage and the aggregate Revolving Credit Commitments is not less than $25,000,000.
+3
+* * *
+
+
+(1) _Section 8.2.6_  _Liquidations, Mergers, Consolidations, Acquisitions_. Upon the Effective Date, Section 8.2.6(iv) of the Credit Agreement shall be amended and restated in its entirety as follows:
+(iv) repurchases of franchisee-owned retail stores for cash consideration not to exceed, together with outstanding loans, advances and other investments in such franchisees permitted under Section 8.2.4(vi) [Loans and Investments] and guarantees permitted under Section 8.2.3(vi) [Guaranties], $5,000,000 in the aggregate.
+(m) _Section 8.2.15_  _Maximum Leverage Ratio_. Upon the Effective Date, Section 8.2.15 of the Credit Agreement shall be amended and restated in its entirety as follows:
+8.2.15 _Maximum Leverage Ratio_. The Loan Parties shall not at any time permit the Leverage Ratio to be greater than 3.50 to 1.00.
+(n) _Section 8.2.16_  _Global Cash_. Upon the Effective Date, Section 8.2.16 of the Credit Agreement shall be amended and restated in its entirety as follows:
+8.2.16 _Global Cash_. The Loan Parties shall at all times maintain Global Cash of not less than $100,000,000, measured as of the last day of each fiscal quarter.
+(o) _Form of Quarterly Compliance Certificate_. Upon the Effective Date, _Exhibit 8.3.3_ to the Credit Agreement shall be amended and restated as set forth on _Exhibit 8.3.3_ to this Amendment.
+**_Section 2._********_Acknowledgment of Guarantors_****.** By execution of this Amendment, each Guarantor hereby covenants and agrees that each of the Amended and Restated Guaranty and Suretyship Agreements dated December 16, 2011 shall remain in full force and effect and shall continue to cover the existing and future Obligations of Borrowers to Administrative Agent and Lenders under the Credit Agreement.
+**_Section 3._********_Schedules_****.** Agent and Lenders acknowledge and agree that they accept the revisions and updates to the Schedules attached hereto as _Exhibit A_ which have been delivered in accordance with Section 6.2 of the Credit Agreement.
+**_Section 4._********_Conditions Precedent_****.** This Amendment shall be effective upon (the  _Effective Date_ ) Administrative Agents receipt of this Amendment fully executed by the Borrowers, the Guarantors, Administrative Agent and Lenders.
+**_Section 5._********_Representations and Warranties_****.** Each Borrower:
+(a) reaffirms all representations and warranties made to Administrative Agent and Lenders under the Credit Agreement and all of the other Existing Financing Agreements and confirms that all are true and correct in all material respects as of the date hereof (except to the extent any such representations and warranties specifically relate to a specific date, in which case such representations and warranties were true and correct in all material respects on and as of such other specific date);
+4
+* * *
+
+
+(b) reaffirms all of the covenants contained in the Credit Agreement, covenants to abide thereby until satisfaction in full of the Obligations and termination of the Credit Agreement;
+(c) represents and warrants to the Administrative Agent and the Lenders that no Potential Default or Event of Default has occurred and is continuing under any of the Existing Financing Agreements;
+(d) represents and warrants to the Administrative Agent and the Lenders that it has the authority and legal right to execute, deliver and carry out the terms of this Amendment, that such actions were duly authorized by all necessary limited liability company or corporate action, as applicable, and that the officers executing this Amendment on its behalf were similarly authorized and empowered, and that this Amendment does not contravene any provisions of its certificate of incorporation or formation, operating agreement, bylaws, or other formation documents, as applicable, or of any contract or agreement to which it is a party or by which any of its properties are bound; and
+(e) represents and warrants to the Administrative Agent and the Lenders that this Amendment and all assignments, instruments, documents, and agreements executed and delivered in connection herewith, are valid, binding and enforceable in accordance with their respective terms, except as such enforceability may be limited by any applicable bankruptcy, insolvency, moratorium or similar laws affecting creditors rights generally.
+**_Section 6._** General Provisions.
+(a) _Payment of Expenses_. Borrowers shall pay or reimburse Administrative Agent and Lenders for its reasonable attorneys fees and expenses in connection with the preparation, negotiation and execution of this Amendment and the documents provided for herein or related hereto.
+(b) _Reaffirmation of Credit Agreement_. Except as modified by the terms hereof, all of the terms and conditions of the Credit Agreement, as amended, and all of the other Existing Financing Agreements are hereby reaffirmed and shall continue in full force and effect as therein written.
+(c) _Third Party Rights_. No rights are intended to be created hereunder for the benefit of any third party donee, creditor, or incidental beneficiary.
+(d) _Headings_. The headings of any paragraph of this Amendment are for convenience only and shall not be used to interpret any provision hereof.
+(e) _Modifications_. No modification hereof or any agreement referred to herein shall be binding or enforceable unless in writing and signed on behalf of the party against whom enforcement is sought.
+(f) _Governing Law_. This Amendment shall be governed by and construed in accordance with the laws of the State of New York applied to contracts to be performed wholly within the State of New York.
+5
+* * *
+
+
+(g) _Counterparts_. This Amendment may be executed in any number of and by different parties hereto on separate counterparts, all of which, when so executed, shall be deemed an original, but all such counterparts shall constitute one and the same agreement. Any signature delivered by a party by facsimile transmission or PDF shall be deemed to be an original signature hereto.
+_(Signature Pages Follow)_
+6
+* * *
+
+
+**IN WITNESS WHEREOF,** the parties hereto have caused this Amendment to be duly executed by their respective officers thereunto duly authorized as of the day and year first above written.
+**_BORROWERS_****:**
+**CROCS, INC.**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+**CROCS RETAIL, INC.**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+**OCEAN MINDED, INC.**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+**JIBBITZ, LLC**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Manager
+**BITE, INC.**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+[Signature Page to Second Amendment]
+S-1
+* * *
+
+
+**_GUARANTORS_****:**
+****
+**WESTERN BRANDS HOLDING COMPANY**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+**RA FOOTWEAR, LLC**
+By:
+/s/ John P. McCarvel
+Name: John P. McCarvel
+Title: Manager
+****
+****
+**FURY, INC.**
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+[Signature Page to Second Amendment]
+S-2
+* * *
+
+
+**_ADMINISTRATIVE AGENT AND LENDERS_****:**
+**PNC BANK, NATIONAL ASSOCIATION,** As Lender and as Administrative Agent
+By:
+/s/ Steve C. Roberts
+Name: Steve C. Roberts
+Title: Vice President
+**JPMORGAN CHASE BANK,** as Lender
+By:
+/s/ Donatella Scanniello
+Name: Donatella Scanniello
+Title: SVP
+**WELLS FARGO BANK, N.A.,** as Lender
+By:
+/s/ Ariana Fahrney
+Name: Ariana Fahrney
+Title: Vice President
+[Signature Page to Second Amendment]
+S-3
+* * *
+
+
+**EXHIBIT 8.3.3
+
+**
+**COMPLIANCE CERTIFICATE**
+PNC Bank, National Association
+2 North Lake Avenue, Suite 440
+Pasadena, CA 91101
+Attention: Steve Roberts
+The undersigned, the [Chief Executive Officer / President / Chief Financial Officer / Treasurer / Director of Treasury] of **CROCS, INC.,** a Delaware corporation ( _Crocs_ ), delivers this certificate to **PNC BANK, NATIONAL ASSOCIATION**( _Administrative Agent_ ), in accordance with the requirements of Section 8.3.3 of that certain Amended and Restated Credit Agreement dated December 16, 2011 (as may be supplemented, restated, superseded, amended or replaced from time to time, the  _Credit Agreement_ ) among Crocs, **CROCS RETAIL, INC.,** a corporation organized under the laws of the State of Colorado ( _Retail_ ), **OCEAN MINDED, INC.,** a corporation organized under the laws of the State of Colorado ( _Ocean_ ), **JIBBITZ, LLC,** a limited liability company organized under the laws of the State of Colorado ( _Jibbitz_ ), and **BITE, INC.,** a corporation organized under the laws of the State of Colorado ( _Bite_ , together with Crocs, Retail, Ocean, Jibbitz and each other Person joined as a borrower from time to time to the Credit Agreement, collectively the  _Borrowers_  and each a  _Borrower_ ), Administrative Agent and certain financial institutions party thereto as lenders from time to time (the  _Lenders_ ). Capitalized terms used in this Compliance Certificate, unless otherwise defined herein, shall have the meanings ascribed to them in the Credit Agreement.
+1. Based upon my review of the consolidated balance sheets and statements of income of Borrowers for the fiscal period ending , 201 , copies of which are attached hereto, I hereby certify, in my capacity as an officer of Crocs and not in my individual capacity, that:
+(a) the Fixed Charge Coverage Ratio was to 1.0 (minimum required  1.25 to 1.0);
+(b) Borrowers Leverage Ratio was to 1.0 (maximum permitted  3.50 to 1.00);
+(c) Borrowers had Global Cash of $ (minimum required $100,000,000); and
+(d) Borrower was in compliance with the requirements of Sections 8.2.1, 8.2.3, 8.2.4 and 8.2.5 of the Credit Agreement;
+Attached as Schedule A are the details underlying such financial covenant calculations.
+* * *
+
+
+2. No Potential Default exists on the date hereof, other than: [if none, so state, if a Potential Default exists, state steps being taken with respect to such Potential Default]; and
+3. No Event of Default exists on the date hereof, other than: [if none, so state, if an Event of Default exists, state steps being taken with respect to such Event of Default].
+Very truly yours,
+By:
+, as
+of Crocs
+* * *
+
+
+**EXHIBIT A**
+****
+**SCHEDULES**
+* * *

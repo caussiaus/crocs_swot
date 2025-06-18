@@ -1,0 +1,2734 @@
+10-Q 1 a15-7898_110q.htm 10-Q
+Table of Contents
+**UNITED STATES**
+**SECURITIES AND EXCHANGE COMMISSION**
+**Washington, D.C. 20549**
+* * *
+**FORM 10-Q**
+**x**** QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934**
+****
+**For the quarterly period ended March 31, 2015**
+****
+**or**
+****
+**o**** TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934**
+****
+**For the transition period from to**
+****
+**Commission File No. 000-51754**
+* * *
+**CROCS, INC.**
+(Exact name of registrant as specified in its charter)
+**Delaware**
+(State or other jurisdiction of
+incorporation or organization)
+****
+**20-2164234**
+(I.R.S. Employer
+Identification No.)
+**7477 East Dry Creek Parkway, Niwot, Colorado 80503**
+(Address, including zip code, of registrants principal executive offices)
+**(303) 848-7000**
+(Registrants telephone number, including area code)
+* * *
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No o
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes x No o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act. (Check one):
+Large accelerated filer x
+Accelerated filer o
+Non-accelerated filer o (do not check if a
+smaller reporting company)
+Smaller reporting company o
+Indicate by check mark whether the registrant is shell company (as defined in Rule 12b-2 of the Act). Yes o No x
+As of April 30, 2015, Crocs, Inc. had 76,982,807 shares of its $0.001 par value common stock outstanding.
+* * *
+
+
+Table of Contents
+**Special Note Regarding Forward-Looking Statements**
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. In addition, we may make other written and oral communications from time to time that contain such statements. Forward-looking statements include statements as to industry trends, our future expectations and other matters that do not relate strictly to historical facts and are based on certain assumptions of our management. These statements, which express managements current views concerning future events or results, use words like anticipate, assume,  believe, continue, estimate, expect, future, intend, plan, project, strive, and future or conditional tense verbs like could, may, might, should, will, would and similar expressions or variations. Forward-looking statements are subject to risks, uncertainties and other factors which may cause actual results to differ materially from future results expressed or implied by such forward-looking statements. Important factors that could cause actual results to differ materially from the forward-looking statements include, without limitation, those described in the section entitled Risk Factors under Item 1A in our Annual Report on Form 10-K for the year ended December 31, 2014 and subsequent filings with the Securities and Exchange Commission. Moreover, such forward-looking statements speak only as of the date of this report. We undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements.
+i
+* * *
+
+
+Table of Contents
+**Crocs, Inc.**
+**Form 10-Q**
+**For the Quarterly Period Ended March 31, 2015**
+**Table of Contents**
+**PART I  Financial Information**
+****
+## Item 1.
+Financial Statements (Unaudited)
+1
+Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2015 and 2014
+1
+Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three Months Ended March 31, 2015 and 2014
+2
+Condensed Consolidated Balance Sheets as of March 31, 2015 and December 31, 2014
+3
+Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2015 and 2014
+4
+Notes to Condensed Consolidated Financial Statements
+5
+## Item 2.
+Managements Discussion and Analysis of Financial Condition and Results of Operations
+18
+## Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+31
+## Item 4.
+Controls and Procedures
+32
+**PART II  Other Information**
+****
+## Item 1.
+Legal Proceedings
+33
+## Item 1A.
+Risk Factors
+34
+## Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+34
+## Item 6.
+Exhibits
+35
+Signatures
+36
+ii
+* * *
+
+
+Table of Contents
+**PART I  Financial Information**
+**
+## ITEM 1. Financial Statements
+**
+**CROCS, INC. AND SUBSIDIARIES**
+**CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS**
+**(Unaudited)**
+**($ thousands, except per share data)**
+****
+****
+**Three Months Ended**
+****
+****
+****
+**March 31,**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+Revenues
+$
+262,193
+$
+312,429
+Cost of sales
+134,823
+156,202
+Gross profit
+127,370
+156,227
+Selling, general and administrative expenses
+126,069
+137,155
+Restructuring charges (Note 5)
+3,663
+2,250
+Income (loss) from operations
+(2,362
+)
+16,822
+Foreign currency transaction gain (loss), net
+494
+(2,768
+)
+Interest income
+288
+477
+Interest expense
+(219
+)
+(191
+)
+Other income (expense), net
+(331
+)
+141
+Income (loss) before income taxes
+(2,130
+)
+14,481
+Income tax expense
+(295
+)
+(5,357
+)
+Net income (loss)
+(2,425
+)
+9,124
+Dividends on Series A convertible preferred shares (Note 12)
+(2,833
+)
+(2,133
+)
+Dividend equivalents on Series A convertible preferred shares related to redemption value accretion and beneficial conversion feature (Note 12)
+(721
+)
+(618
+)
+Net income (loss) attributable to common stockholders
+$
+(5,979
+)
+$
+6,373
+Net income (loss) per common share (Note 11):
+Basic
+$
+(0.08
+)
+$
+0.06
+Diluted
+$
+(0.08
+)
+$
+0.06
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+1
+* * *
+
+
+Table of Contents
+**CROCS, INC. AND SUBSIDIARIES**
+**CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)**
+**(Unaudited)**
+**($ thousands)**
+****
+****
+****
+**Three Months Ended****
+****March 31,**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+Net income (loss)
+$
+(2,425
+)
+$
+9,124
+Other comprehensive income (loss):
+Loss on foreign currency translation
+(23,864
+)
+(980
+)
+Total comprehensive income (loss)
+$
+(26,289
+)
+$
+8,144
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+2
+* * *
+
+
+Table of Contents
+**CROCS, INC. AND SUBSIDIARIES**
+**CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)**
+**($ thousands, except number of shares)**
+****
+****
+**As of****
+****March 31,****
+****2015**
+****
+**As of
+December
+31, 2014**
+****
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+180,698
+$
+267,512
+Accounts receivable, net of allowances of $33,745 and $32,392, respectively
+174,099
+101,217
+Inventories
+184,720
+171,012
+Deferred tax assets, net
+3,971
+4,190
+Income tax receivable
+11,833
+9,332
+Other receivables
+11,775
+11,989
+Prepaid expenses and other current assets
+27,056
+30,156
+Total current assets
+594,152
+595,408
+Property and equipment, net
+68,277
+68,288
+Intangible assets, net
+89,384
+97,337
+Goodwill
+2,227
+2,044
+Deferred tax assets, net
+17,536
+17,886
+Other assets
+23,640
+25,968
+Total assets
+$
+795,216
+$
+806,931
+LIABILITIES AND STOCKHOLDERS EQUITY
+Current liabilities:
+Accounts payable
+$
+81,455
+$
+42,923
+Accrued expenses and other current liabilities
+83,887
+80,216
+Deferred tax liabilities, net
+11,853
+11,869
+Accrued restructuring
+4,708
+4,511
+Income taxes payable
+6,186
+9,078
+Current portion of long-term borrowings and capital lease obligations
+5,284
+5,288
+Total current liabilities
+193,373
+153,885
+Long-term income tax payable
+7,832
+8,843
+Long-term borrowings and capital lease obligations
+5,074
+6,381
+Long-term accrued restructuring
+244
+348
+Other liabilities
+9,753
+12,277
+Total liabilities
+216,276
+181,734
+Commitments and contingencies (Note 13)
+Series A convertible preferred stock, par value $0.001 per share, 1,000,000 shares authorized, 200,000 shares issued and outstanding, redemption amount and liquidation preference of $202,833 and $203,067 as of March 31, 2015 and December 31, 2014, respectively (Note 12)
+173,400
+172,679
+Stockholders equity:
+Preferred stock, par value $0.001 per share, 4,000,000 shares authorized, none outstanding
+
+
+Common stock, par value $0.001 per share, 250,000,000 shares authorized, 92,771,653 and 77,222,053 shares issued and outstanding, respectively, as of March 31, 2015 and 92,325,201 and 78,516,566 shares issued and outstanding, respectively, as of December 31, 2014
+93
+92
+Treasury stock, at cost, 15,549,600 and 13,808,635 shares as of March 31, 2015 and December 31, 2014, respectively
+(220,635
+)
+(200,424
+)
+Additional paid-in capital
+348,807
+345,732
+Retained earnings
+319,491
+325,470
+Accumulated other comprehensive loss
+(42,216
+)
+(18,352
+)
+Total stockholders equity
+405,540
+452,518
+Total liabilities, commitments and contingencies and stockholders equity
+$
+795,216
+$
+806,931
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+3
+* * *
+
+
+Table of Contents
+**CROCS, INC. AND SUBSIDIARIES**
+**CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS**
+**(Unaudited)****($ thousands)**
+****
+****
+**Three Months Ended March 31,**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+Cash flows from operating activities:
+Net income (loss)
+$
+(2,425
+)
+$
+9,124
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+9,719
+9,373
+Unrealized gain on foreign exchange, net
+(1,751
+)
+(5,708
+)
+Provision for doubtful accounts, net
+1,272
+768
+Share-based compensation
+2,949
+4,621
+Other non-cash items
+219
+49
+Changes in operating assets and liabilities:
+Accounts receivable
+(78,436
+)
+(103,188
+)
+Inventories
+(18,955
+)
+(30,484
+)
+Prepaid expenses and other assets
+2,541
+2,514
+Accounts payable
+42,783
+31,675
+Accrued expenses and other liabilities
+2,322
+18,693
+Accrued restructuring
+306
+2,250
+Income taxes
+(7,256
+)
+(2,425
+)
+Cash used in operating activities
+(46,712
+)
+(62,738
+)
+Cash flows from investing activities:
+Cash paid for purchases of property and equipment
+(1,340
+)
+(5,089
+)
+Cash paid for intangible assets
+(5,145
+)
+(10,247
+)
+Change in restricted cash
+272
+(583
+)
+Cash used in investing activities
+(6,213
+)
+(15,919
+)
+Cash flows from financing activities:
+Proceeds from preferred stock offering, net of issuance costs of $0.0 million and $15.8 million, respectively
+
+182,220
+Dividends - Series A preferred stock
+(3,067
+)
+
+Repayment of bank borrowings and capital lease obligations
+(1,309
+)
+(1,295
+)
+Issuances of common stock
+174
+518
+Purchase of treasury stock
+(19,997
+)
+(13,031
+)
+Repurchase of common stock for tax withholding
+(261
+)
+(669
+)
+Cash provided by (used in) financing activities
+(24,460
+)
+167,743
+Effect of exchange rate changes on cash
+(9,429
+)
+5,576
+Net increase (decrease) in cash and cash equivalents
+(86,814
+)
+94,662
+Cash and cash equivalentsbeginning of period
+267,512
+317,144
+Cash and cash equivalentsend of period
+$
+180,698
+$
+411,806
+Supplemental disclosure of cash flow informationcash paid during the period for:
+Interest, net of capitalized interest
+$
+616
+$
+152
+Income taxes
+$
+7,101
+$
+7,213
+Supplemental disclosure of non-cash investing and financing activities:
+Accrued purchases of property and equipment
+$
+363
+$
+1,612
+Accrued purchases of intangibles
+$
+68
+$
+5,088
+Accrued dividends
+$
+2,833
+$
+2,133
+Accretion of dividend equivalents
+$
+721
+$
+618
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+4
+* * *
+
+
+Table of Contents
+**CROCS, INC. AND SUBSIDIARIES**
+**NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS**
+**(Unaudited)**
+**1.********ORGANIZATION & SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES**
+**_Organization_** Crocs, Inc. and its subsidiaries (collectively the Company, we, our or us) are engaged in the design, development, manufacturing, marketing and distribution of footwear, apparel and accessories for men, women and children.
+**_Basis of Presentation_**
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (GAAP) for interim financial information and with the rules and regulations of the Securities and Exchange Commission (SEC) for reporting on Form 10-Q. The condensed consolidated balance sheet as of December 31, 2014 was derived from the Companys Annual Report on Form 10-K for the year ended December 31, 2014 (the 2014 Form 10-K) but does not include all disclosures required by GAAP. The accompanying unaudited condensed consolidated financial statements and these notes thereto should be read in conjunction with the 2014 Form 10-K. In the opinion of management, these financial statements reflect all adjustments (consisting solely of normal recurring matters) considered necessary for a fair statement of the results for the interim periods presented. The results of operations for any interim period are not necessarily indicative of results for the full year.
+**_Reclassifications_**
+Certain prior year amounts on the condensed consolidated financial statements have been reclassified to conform to current period presentation. We segregated certain restructuring charges recorded to selling, general and administrative expenses on the condensed consolidated statement of operations for the three months ended March 31, 2014 to the restructuring charges line item on the condensed consolidated statement of operations. In addition, we segregated certain accrued restructuring liabilities on the condensed consolidated statement of cash flows for the three months ended March 31, 2014 to the accrued restructuring line on the condensed consolidated statements of cash flows for the three months ended March 31, 2014. These reclassifications had no effect on income from operations, current liabilities or cash provided by (used in) operating activities.
+**_Summary of Significant Accounting Policies_**
+Earnings per Share
+Basic and diluted earnings per common share (EPS) is presented using the two-class method, which is an earnings allocation formula that determines earnings per share for common stock and any participating securities according to dividend rights and participation rights in undistributed earnings. Under the two-class method, EPS is computed by dividing the sum of distributed and undistributed earnings attributable to common stockholders by the weighted-average number of shares of common stock outstanding during the period. A participating security is a security that may participate in undistributed earnings with common stock had those earnings been distributed in any form. Our recently issued Series A convertible preferred stock (Series A preferred stock) represents participating securities as holders of the Series A preferred stock are entitled to receive any and all dividends declared or paid on common stock on an as-converted basis. In addition, shares of our non-vested restricted stock awards are considered participating securities as they represent unvested share-based payment awards containing non-forfeitable rights to dividends. As such, these participating securities must be included in the computation of EPS pursuant to the two-class method on a pro-rata, as-converted basis. Diluted EPS reflects the potential dilution from securities that could share in our earnings. In addition, the dilutive effect of each participating security is calculated using the more dilutive of the two-class method described above, which assumes that the securities remain in their current form, or the if-converted method, which assumes conversion to common stock as of the beginning of the reporting date. Anti-dilutive securities are excluded from diluted EPS. See Note 11Earnings Per Share for further discussion.
+Depreciation and Amortization
+During the three months ended March 31, 2015 and 2014, we recorded $4.7 million and $5.4 million, respectively, in depreciation expense of which $0.6 million and $0.5 million, respectively, was recorded in Cost of sales, with the remaining amounts recorded in Selling, general and administrative expenses on the condensed consolidated statements of operations. As of March 31, 2015 and December 31, 2014, accumulated depreciation was $106.1 million and $99.8 million, respectively.
+5
+* * *
+
+
+Table of Contents
+**Recently Issued Accounting Pronouncements**
+__Debt Issuance Costs__
+In April 2015, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2015-03  Simplifying the Presentation of Debt Issuance Costs, which requires that debt issuance costs related to a recognized debt liability be presented in the balance sheet as a direct deduction from the carrying amount of that debt liability, consistent with debt discounts. This ASU requires retrospective adoption and will be effective for us beginning in our first quarter of 2016. Early adoption is permitted. We do not expect that this pronouncement will have a material impact on our consolidated financial statements.
+__Going Concern__
+On August 27, 2014, the FASB issued ASU 2014-15, which provides guidance on determining when and how reporting entities must disclose going concern uncertainties in their financial statements. The new standard requires management to perform interim and annual assessments of an entitys ability to continue as a going concern within one year of the date of issuance of the entitys financial statements (or within one year after the date on which the financial statements are available to be issued, when applicable). Further, an entity must provide certain disclosures if there is substantial doubt about the entitys ability to continue as a going concern. This ASU is effective for annual periods ending after December 16, 2016, and interim periods thereafter. Early adoption is permitted. We do not expect that this pronouncement will have a material impact on our financial statement disclosures.
+__Share-Based Payment__
+On June 19, 2014, the FASB issued ASU 2014-12 in response to the EITF consensus on Issue 13-D. The ASU clarifies that entities should treat performance targets that can be met after the requisite service period of a share-based payment award as performance conditions that affect vesting. Therefore, an entity would not record compensation expense related to an award for which transfer to the employee is contingent on the entitys satisfaction of a performance target until it becomes probable that the performance target will be met. The ASU does not contain any new disclosure requirements. This ASU is effective for all entities for reporting periods (including interim periods) beginning after December 15, 2015. We do not expect that this pronouncement will have a material impact on our consolidated financial statements.
+__Revenue Recognition__
+In May 2014, the FASB issued their final standard on revenue from contracts with customers. The standard, issued as ASU No. 2014-09: _Revenue from Contracts with Customers (Topic 606)_ by the FASB, outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers and supersedes most current revenue recognition guidance, including industry-specific guidance. The core principle of the revenue model is that an entity recognizes revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. In applying the revenue model to contracts within its scope, an entity:
+· Identifies the contract(s) with a customer (Step 1)
+· Identifies the performance obligations in the contract (Step 2)
+· Determines the transaction price (Step 3)
+· Allocates the transaction price to the performance obligations in the contract (Step 4)
+· Recognizes revenue when (or as) the entity satisfies a performance obligation (Step 5)
+The ASU applies to all contracts with customers except those that are within the scope of other topics in the FASB Accounting Standards Codification. Certain of the ASUs provisions also apply to transfers of nonfinancial assets, including in-substance nonfinancial assets that are not an output of an entitys ordinary activities (e.g., sales of property, plant, and equipment, real estate or intangible assets). Existing accounting guidance applicable to these transfers has been amended or superseded. Compared with current GAAP, the ASU also requires significantly expanded disclosures about revenue recognition. The ASU is effective for annual reporting periods (including interim reporting periods within those periods) beginning after December 15, 2016. Early application is not permitted. We are currently evaluating the impact that this pronouncement will have on our consolidated financial statements.
+6
+* * *
+
+
+Table of Contents
+**2\. INVENTORIES**
+The following table summarizes inventories by major classification as of March 31, 2015 and December 31, 2014:
+****
+****
+**As of
+March 31, 2015**
+****
+**As of
+December 31, 2014**
+****
+****
+****
+**($ thousands)**
+****
+Finished goods
+$
+179,849
+$
+167,515
+Work-in-progress
+518
+703
+Raw materials
+4,353
+2,794
+Inventories
+$
+184,720
+$
+171,012
+**3\. GOODWILL & INTANGIBLE ASSETS**
+The following table summarizes the goodwill and identifiable intangible assets as of March 31, 2015 and December 31, 2014:
+****
+****
+**March 31, 2015**
+****
+**December 31, 2014**
+****
+**($ thousands)**
+****
+**Gross
+Carrying
+Amount**
+****
+**Accumulated
+Amortization**
+****
+**Net
+Carrying
+Amount**
+****
+**Gross
+Carrying
+Amount**
+****
+**Accumulated
+Amortization**
+****
+**Net
+Carrying
+Amount**
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+Capitalized software
+$
+159,357
+(1)
+$
+(71,815
+)(2)
+$
+87,542
+$
+157,615
+(1)
+$
+(62,591
+)(2)
+$
+95,024
+Customer relationships
+5,026
+(5,026
+)
+
+5,945
+(5,798
+)
+147
+Patents, copyrights, and trademarks
+6,114
+(4,713
+)
+1,401
+6,702
+(4,931
+)
+1,771
+Core technology
+4,170
+(4,170
+)
+
+4,170
+(4,170
+)
+
+Other
+434
+(290
+)
+144
+698
+(636
+)
+62
+Total finite lived intangible assets
+175,101
+(86,014
+)
+89,087
+175,130
+(78,126
+)
+97,004
+Indefinite lived intangible assets
+297
+
+297
+333
+
+333
+Goodwill(3)
+2,227
+
+2,227
+2,044
+
+2,044
+Goodwill and intangible assets
+$
+177,625
+$
+(86,014
+)
+$
+91,611
+$
+177,507
+$
+(78,126
+)
+$
+99,381
+* * *
+(1) Includes $4.1 million of software held under a capital lease classified as capitalized software as of each of March 31, 2015 and December 31, 2014.
+(2) Includes $2.6 million and $2.5 million of accumulated amortization of software held under a capital lease as of March 31, 2015 and December 31, 2014, respectively, which is amortized using the straight-line method over the useful life.
+(3) Change in goodwill relates entirely to foreign currency translation.
+The following table summarizes estimated future annual amortization of intangible assets as of March 31, 2015:
+****
+****
+**Amortization**
+****
+**Fiscal years ending March 31,**
+****
+**($ thousands)**
+****
+Remainder of 2015
+$
+13,925
+2016
+17,144
+2017
+15,480
+2018
+13,361
+2019
+11,324
+Thereafter
+17,853
+Total
+$
+89,087
+During the three months ended March 31, 2015 and 2014, amortization expense recorded for intangible assets with finite lives was $5.0 million and $4.0 million, respectively, of which $1.4 million and $1.3 million, respectively, was recorded in Cost of sales, with the remaining amounts recorded in Selling, general and administrative expenses on the condensed consolidated statements of operations. As of March 31, 2015 and December 31, 2014, accumulated amortization was $86.0 million and $78.1 million, respectively.
+7
+* * *
+
+
+Table of Contents
+**4\. ACCRUED EXPENSES AND OTHER CURRENT LIABILITIES**
+The following table summarizes accrued expenses and other current liabilities as of March 31, 2015 and December 31, 2014:
+****
+****
+**As of
+March 31, 2015**
+****
+**As of
+December 31, 2014**
+****
+****
+****
+**($ thousands)**
+****
+Accrued compensation and benefits
+$
+25,737
+$
+23,824
+Professional services
+13,373
+16,212
+Fulfillment, freight and duties
+15,884
+12,110
+Sales/use and VAT tax payable
+6,439
+5,897
+Accrued rent and occupancy
+7,813
+9,675
+Customer deposits
+3,545
+3,075
+Deferred revenue and royalties payable
+3,155
+2,005
+Dividend payable
+2,833
+3,067
+Accrued legal liabilities
+629
+2,150
+Other (1)
+4,479
+2,201
+Total accrued expenses and other current liabilities
+$
+83,887
+$
+80,216
+* * *
+(1) The amounts in Other consist of various accrued expenses and no individual item accounted for more than 5% of the total balance as of March 31, 2015 or December 31, 2014.
+**5\. RESTRUCTURING ACTIVITIES**
+**_Restructuring_**
+On July 21, 2014, we announced strategic plans for long-term improvement and growth of the business. These plans comprise four key initiatives including: (1) streamlining the global product and marketing portfolio, (2) reducing direct investment in smaller geographic markets, (3) creating a more efficient organizational structure including reducing duplicative and excess overhead which will also enhance the decision making process, and (4) closing or converting approximately 75 to 100 retail locations around the world. The initial effects of these plans were incurred in 2014 and are expected to continue throughout 2015. We recorded restructuring charges of $3.7 million during the three months ended March 31, 2015, and closed 9 retail locations which were identified in the initial restructuring plan. During 2015, we currently estimate additional restructuring costs related to store closures and changes in organizational structure of approximately $10 million to $20 million, but can make no assurance that actual costs will not differ, as our restructuring plans are not yet complete.
+The following table summarizes our restructuring activity during the three months ended March 31, 2015 and 2014:
+****
+****
+**Three Months Ended March 31,**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+****
+****
+**($ thousands)**
+****
+Severance costs
+$
+2,074
+$
+1,584
+Lease / contract exit and related costs
+1,399
+606
+Other (1)
+190
+60
+Total restructuring charges
+$
+3,663
+$
+2,250
+* * *
+(1) The amounts in Other consist of various asset and inventory impairment charges prompted by the aforementioned restructuring plan, legal fees and facility maintenance fees.
+8
+* * *
+
+
+Table of Contents
+The following table summarizes our restructuring activity during the three months ended March 31, 2015 and 2014 by reportable segment:
+****
+****
+**Three Months Ended March 31,**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+****
+****
+**($ thousands)**
+****
+Americas
+$
+456
+$
+
+Asia Pacific
+1,774
+
+Europe
+1,141
+675
+Corporate
+292
+1,575
+Total restructuring charges
+$
+3,663
+$
+2,250
+The following table summarizes our accrued restructuring balance and associated activity from December 31, 2014 through March 31, 2015 ($ thousands):
+****
+****
+**As of
+December 31, 2014**
+****
+**Additions**
+****
+**Cash Payments**
+****
+**Adjustments (1)**
+****
+**As of
+March 31, 2015**
+****
+Severance
+$
+3,154
+$
+2,074
+$
+(1,904
+)
+$
+
+$
+3,324
+Lease / contract exit and related costs
+1,401
+1,399
+(1,590
+)
+
+1,210
+Other
+304
+190
+(75
+)
+(1
+)
+418
+Total accrued restructuring
+$
+4,859
+$
+3,663
+$
+(3,569
+)
+$
+(1
+)
+$
+4,952
+* * *
+(1) Adjustments relate to a reversal of accrued expenses, differences resulting from the translation of the liability balance as of the balance sheet rate and restructuring expense translated at the weighted-average rate of exchange for the applicable period.
+**_Retail Store Closings_**
+As mentioned above, the Company plans to close additional retail locations around the globe. As such, we expect to incur certain exit costs specific to store closures including operating lease termination costs, rent obligations for leased facilities, net of expected sublease income, and other expenses in association with this plan, such as severance for retail and non-retail related positions. During the three months ended March 31, 2015, we closed 9 company-operated retail locations which were identified in the initial restructuring plan, and were selected for closure by management based on historical and projected profitability levels, relocation plans, and other factors. As of March 31, 2015 and December 31, 2014, we had a liability of approximately $5.0 million and $4.9 million, respectively, related to locations to be closed and other reductions in workforce in accrued restructuring on the condensed consolidated balance sheet. The calculation of accrued store closing reserves primarily includes future minimum lease payments from the date of closure to the end of the remaining lease term, net of contractual or estimated sublease income. We record the liability at fair value in the period in which the store is closed.
+**6\. FAIR VALUE MEASUREMENTS**
+**_Recurring Fair Value Measurements_**
+As of March 31, 2015 and December 31, 2014, our assets subject to fair value measurements consisted solely of cash equivalents of $13.0 million and $23.3 million, respectively.
+**_Non-Recurring Fair Value Measurements_**
+The majority of our non-financial instruments, which include inventories, property and equipment and intangible assets, are not required to be carried at fair value on a recurring basis. However, if certain triggering events occur such that a non-financial instrument is required to be evaluated for impairment and the carrying value is not recoverable, the carrying value would be adjusted to the lower of its cost or fair value and an impairment charge would be recorded. No such charges were recorded for the three months ended March 31, 2015 or 2014.
+9
+* * *
+
+
+Table of Contents
+**7\. DERIVATIVE FINANCIAL INSTRUMENTS**
+We transact business in various foreign countries and are therefore exposed to foreign currency exchange rate risk inherent in revenues, costs, and monetary assets and liabilities denominated in non-functional currencies. We have entered into foreign currency exchange forward contract and currency swap derivative instruments to selectively protect against volatility in the value of non-functional currency denominated monetary assets and liabilities, and of future cash flows caused by changes in foreign currency exchange rates. We do not designate these derivative instruments as hedging instruments under the accounting standards for derivatives and hedging. Accordingly, these instruments are recorded at fair value as a derivative asset or liability on the balance sheet with their corresponding change in fair value recognized in Foreign currency transaction gain (loss), net in our condensed consolidated statements of operations. For purposes of the cash flow statement, we classify the cash flows at settlement from undesignated instruments in the same category as the cash flows from the related hedged items, generally within Cash provided by operating activities.
+The following table summarizes the notional amounts of the outstanding foreign currency exchange contracts as of March 31, 2015 and December 31, 2014. The notional amounts of the derivative financial instruments shown below are denominated in their U.S. Dollar equivalents and represent the amount of all contracts of the foreign currency specified. These notional values do not necessarily represent amounts exchanged by the parties and, therefore, are not a direct measure of our exposure to the foreign currency exchange risks.
+****
+****
+**As of
+March 31, 2015**
+****
+**As of
+December 31, 2014**
+****
+****
+****
+**($ thousands)**
+****
+Foreign currency exchange forward contracts by currency:
+Japanese Yen
+$
+93,301
+$
+44,533
+Singapore Dollar
+59,843
+61,887
+Euro
+26,924
+134,755
+South Korean Won
+25,223
+14,590
+British Pound Sterling
+20,931
+17,230
+Mexican Peso
+12,923
+13,180
+South African Rand
+7,023
+4,355
+Australian Dollar
+5,747
+7,913
+Indian Rupee
+4,919
+3,356
+Chinese Yuan Renminbi
+4,352
+5,376
+Canadian Dollar
+3,474
+3,005
+Russian Ruble
+2,876
+1,838
+New Taiwan Dollar
+2,494
+3,229
+Hong Kong Dollar
+1,892
+814
+Swedish Krona
+1,572
+1,918
+Brazilian Real
+1,005
+
+New Zealand Dollar
+709
+743
+Norwegian Krone
+
+917
+Total notional value, net
+$
+275,208
+$
+319,639
+Latest maturity date
+April 2015
+January 2015
+10
+* * *
+
+
+Table of Contents
+The following table presents the amounts affecting the condensed consolidated statements of operations from derivative instruments for the three months ended March 31, 2015 and 2014:
+****
+****
+**Three Months Ended March 31,**
+****
+**Location of Gain (Loss) Recognized in Income on**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+**Derivatives**
+****
+****
+****
+**($ thousands)**
+****
+****
+****
+Derivatives not designated as hedging instruments:
+Foreign currency exchange forwards
+$
+5,723
+$
+1,838
+Foreign currency transaction (gains) losses, net
+The account Foreign currency transaction gain (loss), net on the condensed consolidated statements of operations includes both realized and unrealized gains/losses from underlying foreign currency activity and derivative contracts. These gains and losses are reported on a net basis. For the three months ended March 31, 2015, the net gain recognized of $0.5 million recorded on the condensed consolidated statements of operations was comprised of a $6.2 million net gain associated with exposure from day-to-day business transactions in various foreign currencies and a $5.7 million net loss associated with our derivative instruments. For the three months ended March 31, 2014, the net loss recognized of $2.8 million recorded on the condensed consolidated statements of operations was comprised of a $1.8 million net loss associated with our derivative instruments and a $1.0 million net loss associated with exposure from day-to-day business transactions in various foreign currencies.
+**8\. REVOLVING CREDIT FACILITY & BANK BORROWINGS**
+**_Revolving Credit Facility_**
+On September 25, 2009, we entered into a Revolving Credit and Security Agreement (the Credit Agreement) with the lenders named therein and PNC Bank, National Association (PNC), as a lender and administrative agent for the lenders.
+On April 2, 2015, we entered into the Sixth Amendment to Amended and Restated Credit Agreement (the Sixth Amendment), pursuant to which certain terms of the Credit Agreement were amended. The Sixth Amendment primarily amended certain definitions of the financial covenants to become more favorable to us including (i) setting the minimum fixed charge coverage ratio to 1.00 to 1.00 through December 31, 2015, 1.15 to 1.00 through March 31, 2016 and 1.25 to 1.00 for each quarter thereafter, (ii) setting the Leverage Ratio to 4.00 to 1.00 through March 31, 2016 and 3.75 to 1.00 for each quarter thereafter and (iii) reducing our global cash requirement from $100 million to $50 million.
+The Credit Agreement enables us to borrow up to $100.0 million, with the ability to increase commitments to $125.0 million subject to certain conditions, and is currently set to mature in December 2017. The Credit Agreement is available for working capital, capital expenditures, permitted acquisitions, reimbursement of drawings under letters of credit, and permitted dividends, distributions, purchases, redemptions and retirements of equity interests. Borrowings under the Credit Agreement are secured by all of our assets including all receivables, equipment, general intangibles, inventory, investment property, subsidiary stock and intellectual property. Borrowings under the Credit Agreement bear interest at a variable rate. For domestic rate loans, the interest rate is equal to the highest of (i) the daily federal funds open rate as quoted by ICAP North America, Inc. plus 0.5%, (ii) PNCs prime rate and (iii) a daily LIBOR rate plus 1.0%, in each case there is an additional margin ranging from 0.25% to 1.00% based on certain conditions. For LIBOR rate loans, the interest rate is equal to a LIBOR rate plus a margin ranging from 1.25% to 2.00% based on certain conditions. The Credit Agreement requires monthly interest payments with respect to domestic rate loans and at the end of each interest period with respect to LIBOR rate loans. The Credit Agreement further provides for a limit on the issuance of letters of credit to a maximum of $20.0 million. The Credit Agreement contains provisions requiring us to maintain compliance with certain restrictive and financial covenants.
+As of March 31, 2015 and December 31, 2014, we had no outstanding borrowings under the Credit Agreement. As of March 31, 2015 and December 31, 2014, we had issued and outstanding letters of credit of $1.7 million and $1.8 million, respectively, which were reserved against the borrowing base under the terms of the Credit Agreement. As of March 31, 2015, we were in compliance with all restrictive financial and other covenants under the Credit Agreement.
+11
+* * *
+
+
+Table of Contents
+**_Long-term Bank Borrowings_**
+On December 10, 2012, we entered into a Master Installment Payment Agreement (Master IPA) with PNC in which PNC finances our purchase of software and services, which may include but are not limited to third party costs to design, install and implement software systems, and associated hardware described in the schedules defined within the Master IPA. The Master IPA was entered into to finance our implementation of a new enterprise resource planning (ERP) system, which began in October 2012 and was substantially completed in early 2015. The terms of each note payable under the Master IPA consist of variable interest rates and payment terms based on amounts borrowed and timing of activity throughout the implementation of the ERP system.
+As of March 31, 2015 and December 31, 2014, we had $10.3 million and $11.6 million, respectively, of debt outstanding under five separate notes payable, of which $5.3 million represents current installments for both periods. As of March 31, 2015, the notes bear interest rates ranging from 2.45% to 2.79% and maturities ranging from September 2016 to September 2017. As this debt arrangement relates solely to the construction and implementation of an ERP system for use by the entity, interest expense was capitalized to the condensed consolidated balance sheets until the assets were placed into service on January 1, 2015. During the three months ended March 31, 2015, no interest was capitalized. During the three months ended March 31, 2014, we capitalized $0.1 million in interest expense related to this debt arrangement to the condensed consolidated balance sheets. Interest rates and payment terms are subject to changes as further financing occurs under the Master IPA. As of March 31, 2015 and December 31, 2014, the fair value of our debt instruments approximates their reported carrying amounts.
+**9\. STOCK-BASED COMPENSATION**
+Stock-based compensation expense is based on the grant date fair value and is recognized on a straight-line basis over the applicable vesting period. During the three months ended March 31, 2015 and 2014, we recorded $2.9 million and $4.7 million, respectively, of pre-tax stock-based compensation expense. During the three months ended March 31, 2014, $0.1 million related solely to the construction and implementation of our ERP system for use by the entity, was capitalized to the condensed consolidated balance sheets.
+**_Stock Option Activity_**
+A summary of our stock option activity as of and for the three months ended March 31, 2015 is presented below:
+****
+****
+**Stock Options**
+****
+**Weighted-Average
+Exercise Price**
+****
+Outstanding as of December 31, 2014
+1,696,130
+$
+13.52
+Granted
+
+
+Exercised
+(57,211
+)
+3.05
+Forfeited or expired
+(45,691
+)
+26.83
+Outstanding as of March 31, 2015
+1,593,228
+13.51
+As of March 31, 2015, there was $1.1 million of unrecognized compensation cost related stock options. The cost is expected to be amortized over a weighted average period of 2.35 years.
+**_Restricted Stock Awards and Units Activity_**
+****
+****
+**Restricted Stock
+Awards
+(RSAs)**
+****
+**Weighted-Average
+Grant-Date Fair
+Value**
+****
+**Restricted Stock
+Units (RSUs)**
+****
+**Weighted-Average
+Grant-Date Fair
+Value**
+****
+Unvested as of December 31, 2014
+7,488
+$
+15.61
+1,997,471
+$
+15.78
+Granted
+
+
+2,317,434
+10.99
+Vested
+(4,994
+)
+15.90
+(390,241
+)
+16.56
+Forfeited or expired
+
+
+(601,059
+)
+15.84
+Unvested as of March 31, 2015
+2,494
+15.04
+3,323,605
+10.83
+12
+* * *
+
+
+Table of Contents
+The total grant date fair value of RSAs vested during the three months ended March 31, 2015 was $0.1 million. As of March 31, 2015, we had $29.2 thousand of total unrecognized share-based compensation expense related to non-vested restricted stock awards, net of expected forfeitures, all of which was related to time-based awards. The unvested RSAs are expected to be amortized over the remaining weighted-average period of 0.19 years.
+The total grant date fair value of RSUs vested during the three months ended March 31, 2015 was $6.5 million. As of March 31, 2015, we had $20.3 million of total unrecognized share-based compensation expense related to unvested restricted stock units, net of expected forfeitures, of which $11.5 million is related to time-based awards and $8.8 million is related to performance-based awards. The unvested RSUs are expected to be amortized over the remaining weighted-average period of 2.42 years, which consists of a remaining weighted-average period of 2.47 years related to performance-based awards and a remaining weighted-average period of 2.20 years related to time-based awards.
+**_Appointment of CEO_**
+On December 12, 2014, Gregg Ribatt was appointed as our Chief Executive Officer, effective January 28, 2015. In connection with his appointment as Chief Executive Officer, Mr. Ribatt was granted a sign-on time-vesting RSU award representing the right to receive shares of our common stock equal to $2.0 million, based on a 30-day weighted-average stock price as of December 15, 2014. This time-vesting RSU award will vest in three annual installments beginning on the first anniversary of his start date, subject to his continued employment with us as of each vesting date. In addition, Mr. Ribatt was granted a sign-on performance-vesting RSU award, subject to various vesting criteria, representing the right to receive shares of our common stock equal to $6.0 million, based on a 30-day weighted-average stock price as of December 15, 2014. Based on a Monte-Carlo valuation model, the fair value of the RSU was determined to be $2.4 million, or 46.0% of the grant price, which will be expensed on a straight-line basis over a derived service period of 2.5 years, beginning in 2015.
+**10\. INCOME TAXES**
+During the three months ended March 31, 2015, we recognized an income tax expense of $0.3 million on pre-tax loss of $2.1 million, representing an effective income tax rate of 13.9% compared to an income tax expense of $5.4 million on pre-tax income of $14.5 million, representing an effective tax rate of 37.0% for the three months ended March 31, 2014.
+The decrease in effective tax rate, compared to the same period in 2014, is primarily due to the result of profits shifting from higher tax jurisdictions to lower tax jurisdictions and losses recorded in tax jurisdictions for which tax benefits are being recognized. Our effective tax rates for all periods presented also differ from the federal U.S. statutory rate due to differences between income tax rates between U.S. and foreign jurisdictions and due to tax amounts recognized discretely in the quarter. We had unrecognized tax benefits of $7.7 million as of March 31, 2015 and $8.4 million as of December 31, 2014.
+**11\. EARNINGS PER SHARE**
+The following table illustrates the basic and diluted earnings (loss) per share (EPS) computations for the three months ended March 31, 2015 and 2014.
+****
+****
+**Three Months Ended March 31,**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+****
+****
+**($ thousands, except per share data)**
+****
+**Numerator:**
+Net income (loss) attributable to common stockholders
+$
+(5,979
+)
+$
+6,373
+Less: adjustment for income allocated to participating securities
+
+(868
+)
+Net income (loss) attributable to common stockholders - basic and diluted
+$
+(5,979
+)
+$
+5,505
+**Denominator:**
+Weighted average common shares outstanding - basic
+77,825
+88,239
+Plus: dilutive effect of stock options and unvested restricted stock units
+
+1,300
+Weighted average common shares outstanding - diluted
+77,825
+89,539
+**Net income (loss) attributable per common share:**
+Basic
+$
+(0.08
+)
+$
+0.06
+Diluted
+$
+(0.08
+)
+$
+0.06
+13
+* * *
+
+
+Table of Contents
+For the three months ended March 31, 2015 and 2014, approximately 2.3 million and 1.5 million options and RSUs, respectively, were not included in the calculation of diluted EPS as their effect would have been anti-dilutive. In addition to the antidilutive effects of options and RSUs, we did not assume the conversion of the Series A preferred stock into common shares for purposes of calculating diluted EPS as the effects would have been anti-dilutive. If converted, as of March 31, 2015, the Series A preferred stock would represent approximately 15.2% of our common stock outstanding or 13.8 million additional common shares. See Note 12 for further details regarding the preferred share offering.
+**_Stock Repurchase Plan Authorizations_**
+We continue to evaluate options to maximize the returns on our cash and maintain an appropriate capital structure, including, among other alternatives, repurchases of our common stock. On December 26, 2013, our board of directors (the Board) approved the repurchase of up to $350.0 million of our common stock. The number, price, structure and timing of the repurchases will be at our sole discretion and future repurchases will be evaluated by us depending on market conditions, liquidity needs and other factors. Share repurchases may be made in the open market or in privately negotiated transactions. The repurchase authorization does not have an expiration date and does not oblige us to acquire any particular amount of our common stock. Our Board may suspend, modify or terminate the repurchase program at any time without prior notice.
+During the three months ended March 31, 2015, we repurchased approximately 1.7 million shares at a weighted-average price of $11.60 per share for an aggregate price of approximately $20.0 million excluding related commission charges under our publicly-announced repurchase plan. During the three months ended March 31, 2014, we repurchased approximately 0.9 million shares at a weighted-average price of $14.94 for an aggregate price of approximately $13.0 million excluding related commission charges, under our publicly-announced repurchase plan.
+As of March 31, 2015, subject to certain restrictions on repurchases under our revolving credit facility, we had $182.1 million of our common shares available for repurchase under previously announced repurchase authorizations.
+**12\. SERIES A PREFERRED STOCK**
+On January 27, 2014, we issued 200,000 shares of our Series A preferred stock to Blackstone Capital Partners VI L.P. (Blackstone) and certain of its permitted transferees, for an aggregate purchase price of $198.0 million, or $990 per share, pursuant to an Investment Agreement between us and Blackstone, dated December 28, 2013. In connection with the issuance of the Series A preferred stock, we received proceeds of $182.2 million after deducting the issuance discount of $2.0 million and direct and incremental expenses of $15.8 million including financial advisory fees, closing costs, legal expenses and other offering-related expenses. As of March 31, 2015 and December 31, 2014, we had accrued dividends of $2.8 million and $3.1 million, respectively, on the condensed consolidated balance sheets, which were paid in cash to holders of the Series A preferred stock on April 1, 2015 and January 2, 2015, respectively.
+**13\. COMMITMENTS AND CONTINGENCIES**
+**_Rental Commitments and Contingencies_**
+We rent space for our retail stores, offices, warehouses, vehicles, and equipment under operating leases expiring at various dates through 2033. Certain leases contain rent escalation clauses (step rents) that require additional rental amounts in the later years of the term. Rent expense for leases with step rents or rent holidays is recognized on a straight-line basis over the lease term beginning on the lease inception date. Deferred rent is included in the condensed consolidated balance sheets in Accrued expenses and other current liabilities.
+14
+* * *
+
+
+Table of Contents
+The following table summarizes the composition of rent expense under operating leases for the three months ended March 31, 2015 and 2014:
+****
+****
+**Three Months Ended March 31,**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+****
+****
+**(in thousands)**
+****
+Minimum rentals (1)
+$
+24,812
+$
+29,242
+Contingent rentals
+2,077
+2,423
+Less: Sublease rentals
+(59
+)
+(180
+)
+Total rent expense
+$
+26,830
+$
+31,485
+* * *
+(1) Minimum rentals include all lease payments as well as fixed and variable common area maintenance (CAM), parking and storage fees, which were approximately $2.3 million and $2.4 million during the three months ended March 31, 2015 and 2014, respectively.
+**_Purchase Commitments_**
+As of March 31, 2015 and December 31, 2014, we had firm purchase commitments with certain third-party manufacturers of $146.9 million and $202.3 million, respectively.
+**_Government Tax Audits_**
+We are regularly subject to, and are currently undergoing, audits by tax authorities in the United States and several foreign jurisdictions for prior tax years.
+In April 2013, Brazils State of Sao Paulo, Brazil government (Brazil) assessed sales taxes, interest and penalties for the period April 2009 to May 2011. We had previously tendered these taxes using Brazil obligations purchased at a discount from third parties. On May 22, 2013, we applied for amnesty in order to receive a significant reduction in penalties and interest, agreed to amend our 2009 through 2012 tax returns to remove the Brazil obligations, and agreed to settle the assessment in cash to Brazil. In June 2013, we made a cash payment to Brazil, in full satisfaction of the Brazil assessment and amended tax returns.
+While Brazil is currently making court-ordered payments to holders of the Brazil obligations, along with accrued interest, during the year ended December 31, 2014, we reserved the entire carrying balance of the Brazil obligation as we determined the ultimate collection of amounts due is not assured.
+See Note 15  Legal Proceedings for further details regarding potential loss contingencies related to government tax audits and other current legal proceedings.
+**14\. OPERATING SEGMENTS AND GEOGRAPHIC INFORMATION**
+During 2014, we had four reportable operating segments based on the geographic nature of our operations: Americas, Asia Pacific, Japan and Europe. We also had an Other businesses category which aggregates insignificant operating segments that do not meet the reportable segment threshold including our manufacturing operations located in Mexico, Italy and Asia. The composition of our reportable operating segments is consistent with that used by our chief operating decision maker, (CODM) to evaluate performance and allocate resources.
+Subsequent to December 31, 2014, our internal reports reviewed by the CODM began consolidating Japan into the Asia Pacific segment. This change was to align our internal reporting to our new strategic model and management structure, as Japan and Asia Pacific are now managed and analyzed as one operating segment by management and the CODM. Accordingly, we now have three reportable segments for 2015 as well as our Other Businesses category.
+Each of our reportable operating segments derives its revenues from the sale of footwear, apparel and accessories to external customers as well as intersegment sales. Revenues of the Other businesses category are primarily made up of intersegment sales. The remaining revenues for the Other businesses represent non-footwear product sales to external customers. Intersegment sales are not included in the measurement of segment operating income or regularly reviewed by the CODM and are eliminated when deriving total consolidated revenues.
+15
+* * *
+
+
+Table of Contents
+Segment performance is evaluated based on segment results without allocating corporate expenses, or indirect general, administrative and other expenses. Segment profits or losses include adjustments to eliminate intersegment sales. As such, reconciling items for segment operating income represent unallocated corporate and other expenses as well as intersegment eliminations. Our CODM evaluates the performance of our segments based on gross margin and direct operating profit excluding unallocated amounts. Our CODM is not regularly provided information on segment assets, nor is such information considered when evaluating the performance of our segments. Additionally, there was no material change in the amounts or methodology of assets allocated to segments, other than the inclusion of assets allocated to the Japan segment now included in the Asia segment.
+The following tables set forth information related to our reportable operating business segments as of and for the three months ended March 31, 2015 and 2014:
+****
+****
+**Three Months Ended March 31,**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+****
+****
+**($ thousands)**
+****
+Revenues:
+Americas
+$
+105,769
+$
+117,120
+Asia Pacific
+99,775
+130,915
+Europe
+56,424
+64,136
+Total segment revenues
+261,968
+312,171
+Other businesses
+225
+258
+Total consolidated revenues
+$
+262,193
+$
+312,429
+Operating income:
+Americas
+$
+15,378
+$
+13,437
+Asia Pacific
+17,335
+34,145
+Europe
+8,238
+7,539
+Total segment operating income
+40,951
+55,121
+Reconciliation of total segment operating income (loss) to income (loss) before income taxes:
+Other businesses
+(5,403
+)
+(3,756
+)
+Intersegment eliminations
+
+15
+Unallocated corporate and other (1)
+(37,910
+)
+(34,558
+)
+Total consolidated operating income (loss)
+(2,362
+)
+16,822
+Foreign currency transaction gain (loss), net
+494
+(2,768
+)
+Interest income
+288
+477
+Interest expense
+(219
+)
+(191
+)
+Other income (expense), net
+(331
+)
+141
+Income (loss) before income taxes
+$
+(2,130
+)
+$
+14,481
+Depreciation and amortization expense:
+Americas
+$
+1,974
+$
+2,448
+Asia Pacific
+1,213
+1,740
+Europe
+803
+902
+Total segment depreciation and amortization expense
+3,990
+5,090
+Other businesses
+1,987
+1,599
+Unallocated corporate and other (1)
+3,742
+2,684
+Total consolidated depreciation and amortization expense
+$
+9,719
+$
+9,373
+* * *
+(1) Includes a corporate component consisting primarily of corporate support and administrative functions, costs associated with share-based compensation, research and development, brand marketing, legal, restructuring, depreciation and amortization of corporate and other assets not allocated to operating segments and costs of the same nature related to certain corporate holding companies. See Note 5Restructuring for additional details.
+16
+* * *
+
+
+Table of Contents
+**15\. LEGAL PROCEEDINGS**
+We are currently subject to an audit by U.S. Customs & Border Protection (CBP) in respect of the period from 2006 to 2010. In October 2013, CBP issued the final audit report. In that report CBP projects that unpaid duties totaling approximately $12.4 million are due for the period under review and recommended collection of the duties due. We responded that these projections are erroneous and provided arguments that demonstrate the amount due in connection with this matter is considerably less than the projection. Additionally, on December 12, 2014, we made an offer to settle CBPs potential claims and tendered $3.5 million. At this time, it is not possible to determine how long it will take CBP to evaluate our offer or to predict whether our offer will be accepted. Likewise, if a settlement cannot be reached, it is not possible to predict with any certainty whether CBP will seek to assert a claim for penalties in addition to any unpaid duties, but such an assertion is a possibility.
+Mexicos Federal Tax Authority (SAT) has audited our records regarding imports and exports during the period from January 2006 to July 2011. There were two phases to the audit, the first for capital equipment and finished goods and the second for raw materials. The first phase was completed and no major discrepancies were noted by the SAT. On January 9, 2013, Crocs received a notice for the second phase in which the SAT issued a tax assessment (taxes and penalties) of roughly 280.0 million pesos (approximately $22.0 million) based on the value of all of Crocs imported raw materials during the audit period. We believe that the proposed penalty amount is unfounded and without merit. With the help of local counsel we filed an appeal by the deadline of March 15, 2013. We have argued that the amount due in connection with the matter, if any, is substantially less than that proposed by the SAT. In connection with the appeal, the SAT required us to post an appeal surety bond in the amount of roughly 321.0 million pesos (approximately $26.0 million), which amount reflects estimated additional penalties and interest if we are not successful on our appeal. This amount will be adjusted on an annual basis. On November 27, 2014, the Superior Chamber of the Federal Tax Court ruled in favor of Crocs and annulled the tax assessment and the corresponding penalty. The SAT filed its appeal of the decision in Crocs favor on February 25, 2015. The parties are currently awaiting a ruling on the appeal. It is not possible at this time to predict the outcome of this matter or reasonably estimate any potential loss.
+Crocs is currently subject to an audit by the Brazilian Federal Tax Authorities related to imports of footwear from China between 2010-2014. On January 13, 2015 Crocs was notified about the issuance of assessments totaling roughly $5.25 million for the period January 2010 through May 2011. Crocs has disputed these assessments and asserted defenses to the claims. On February 25, 2015, Crocs received additional assessments totaling roughly $11.54 million related to the remainder of the audit period. Crocs has also disputed these assessments and asserted defenses to these claims. It is not possible at this time to predict the outcome of this matter, therefore, we have no accrual for this matter as of March 31, 2015.
+On August 8, 2014, a purported class action lawsuit was filed in California state court against our subsidiary, Crocs Retail, LLC, Zaydenberg v. Crocs Retail, LLC, Case No. BC554214. The lawsuit alleges various employment law violations related to overtime, meal and break periods, minimum wage, timely payment of wages, wage statements, payroll records and business expenses. We filed an answer on February 6, 2015, denying the allegations and asserting several defenses. The parties are exchanging documents and information relevant to the issue of class certification and plan to participate in mediation in June 2015. It is not possible at this time to predict the outcome of this matter or reasonably estimate any potential loss.
+As of March 31, 2015, we have accrued a total of $4.2 million relating to these litigation matters and other disputes. We estimate that the ultimate resolution of these litigation matters and other disputes could result in a loss that is reasonably possible between $0.0 million and $9.8 million in the aggregate, in excess of the amount accrued.
+Although we are subject to other litigation from time to time in the ordinary course of business, including employment, intellectual property and product liability claims, we are not party to any other pending legal proceedings that we believe would reasonably have a material adverse impact on our business, financial position, results of operations or cash flows.
+17
+* * *
+
+
+Table of Contents
+**
+## ITEM 2. Managements Discussion and Analysis of Financial Condition and Results of Operations
+**
+**Business Overview**
+We are a designer, developer, manufacturer, worldwide marketer and distributor of casual lifestyle footwear, apparel and accessories for men, women and children. We strive to be the global leader in the sale of molded footwear featuring fun, comfort, color and functionality. Our products include footwear and accessories that utilize our proprietary closed cell-resin, called Croslite, as well as casual lifestyle footwear that use a range of materials. Our Croslite material enables us to produce innovative, lightweight, non-marking, and odor-resistant footwear. We currently sell our products in more than 90 countries through domestic and international retailers and distributors and directly to end-user consumers through our company-operated retail stores, outlets, webstores and kiosks.
+Since the initial introduction of our popular Beach and Crocs Classic designs, we have expanded our Croslite products to include a variety of new styles and products and have further extended our product reach through the acquisition of brand platforms. Going forward, we are focusing on our core molded footwear heritage, as well as developing innovative new casual lifestyle footwear. By streamlining the product portfolio, reducing non-core product development and exploring strategic alternatives for non-core products and brands, we believe that we can realize our strategy of generating a more powerful consumer connection to our brand and products.
+The broad appeal of our footwear has allowed us to market our products to a wide range of distribution channels, including family footwear stores, department stores, sporting goods and traditional footwear retailers as well as a variety of specialty and independent retail channels and via the internet. We intend to drive cohesive global brand positioning from region-to-region and year-to-year to create a more clear and consistent product portfolio and message. This strategy will be accomplished through developing powerful product stories supported with effective and consistent global marketing campaigns. Finally, we intend to increase our working market spend, which we define as funds that put marketing messages in front of consumers.
+As a global company, we have significant revenues and costs denominated in currencies other than the U.S. Dollar. Sales in international markets in foreign currencies are expected to continue to represent a substantial portion of our revenues. Likewise, we expect that our subsidiaries with functional currencies other than the U.S. Dollar will continue to represent a substantial portion of our overall gross margin and related expenses. Accordingly, changes in foreign currency exchange rates could materially affect revenues and costs or the comparability of revenues and costs from period to period as a result of the impact of foreign currency translation adjustments.
+**Use of Non-GAAP Financial Measures**
+In addition to financial measures presented on the basis of accounting principles generally accepted in the United States of America (GAAP), we present current period adjusted selling, general and administrative expenses, which is a non-GAAP financial measure, within this Managements Discussion and Analysis. Adjusted results exclude the impact of items that management believes affect the comparability or underlying business trends in our consolidated financial statements in the periods presented.
+We also present certain information related to our current period results of operations in this Item 2 through constant currency, which is a non-GAAP financial measure and which should be viewed as a supplement to our results of operations and presentation of reportable segments under GAAP. Constant currency represents current period results that have been restated using prior year average foreign exchange rates for the comparative period to enhance the visibility of the underlying business trends excluding the impact of foreign currency exchange rate fluctuations.
+Management uses adjusted results to assist in comparing business trends from period to period on a consistent non-GAAP basis in communications with the board of directors (the Board), stockholders, analysts and investors concerning our financial performance. We believe that these non-GAAP measures are used by, and are useful to, investors and other users of our financial statements as an additional tool to evaluate our performance. We believe they also provide a useful baseline for analyzing trends in our operations. We do not suggest that investors should consider these non-GAAP measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. Please refer to our Results of Operations within this section for a reconciliation of adjusted selling, general and administrative expenses to GAAP selling, general and administrative expenses.
+18
+* * *
+
+
+Table of Contents
+**Recent Events**
+Gregg Ribatt was appointed as our Chief Executive Officer, effective January 28, 2015. In connection with his appointment as Chief Executive Officer, he will also serve as our principal executive officer, succeeding our acting principal executive officer, Andrew Rees. Mr. Rees will continue in his role as President of Crocs.
+**Financial Highlights**
+During the three months ended March 31, 2015, revenue declined 16.1% compared to the same period in 2014. The decrease in revenue is due to the net impact of (i) $24.4 million, or 7.8%, decrease associated with foreign currency exchange rate adjustments associated with a strong U.S. Dollar, (ii) a $22.1 million, or 7.1% decrease associated with a decrease in the average selling price due to changes in product mix and (iii) a $3.7 million, or 1.2% decrease associated with a declining sales volume. Thus, on a constant currency basis, revenue decreased by $25.9 million, or 8.3%.
+For the three months ended March 31, 2015, we had an operating loss of $2.4 million compared to operating income of $16.8 million for the same period in 2014. The decrease in operating income is primarily attributable to the above noted decrease in revenue which was partially offset by (i) a $21.4 million, or 13.7%, decrease in cost of sales (consisting of a $12.2 million decrease due to foreign currency adjustments, a $7.3 million decrease associated with reduced purchase prices and a $1.9 million decrease associated with volume changes) and (ii) a $11.1 million, or 8.1%, decrease in selling, general and administrative (SG&A) expenses (consisting of a $5.7 million decrease related to declining administrative costs and a $5.4 million decrease related to foreign currency translation adjustments). SG&A expenses increased 418 basis points, or 9.5% as a percentage of revenue period over period. Gross margin as a percentage of revenue decreased 143 basis point, or 2.9%, period over period.
+The following are additional significant developments in our businesses during the three months ended March 31, 2015:
+· During the three months ended March 31, 2015, we sold 14.8 million pairs of shoes worldwide, which was a decrease of 1.2% compared to the same period in the prior year. For the three months ended March 31, 2015, delivery of product was negatively impacted by the partial shutdown of the shipping ports in California due to strikes, which we believe negatively impacted our revenue by approximately 3%.
+· Selling, general and administrative expenses decreased $11.1 million, or 8.1%, to $126.1 million compared to the same period in 2014.
+· We incurred $3.7 million in restructuring charges as a result of our strategic plans for long-term improvement and growth of the business. These charges primarily related to severance costs and lease termination and exit related costs.
+· Gross profit decreased $28.9 million, or 18.5%, to $127.4 million and gross margin percentage decreased 143 basis points to 48.6% compared to 50.0% for the same period in 2014. The decline in gross margin percentage is primarily driven by (i) a $24.4 million, or 7.8%, decrease in revenue due to foreign currency translation adjustments, (ii) a $21.4 million, or 13.7% decrease in cost of sales, (iii) a $22.1 million, or 7.1% decrease in revenue due to declining prices.
+· We repurchased approximately 1.7 million shares at an average price of $11.60 per share for a total value of $20.0 million, excluding related commission charges.
+19
+* * *
+
+
+Table of Contents
+**Future Outlook**
+During 2014, we announced strategic plans for long-term improvement and growth of the business. These plans comprised four key initiatives including: (1) streamlining the global product and marketing portfolio, (2) reducing direct investment in smaller geographic markets, (3) creating a more efficient organizational structure by reducing duplicative and excess overhead to reduce costs and enhance the decision making process, and (4) closing or converting approximately 75 to 100 Crocs branded retail stores around the world. As of March 31, 2015, we have closed 29 stores which were identified in the initial restructuring plan and we will continue to execute our strategy during 2015.
+Based on these changes, Crocs is better positioned to adapt to changing customer demands and global economic developments. We are focusing on our core molded footwear heritage, as well as developing innovative new casual lifestyle footwear platforms. By streamlining the product portfolio, reducing non-core product development and exploring strategic alternatives for the non-core products and brands, we will create a more powerful consumer connection to the brand.
+We are increasing our working market spend, which we define as funds that put marketing messages in front of consumers. During March 2015, we launched our global ad campaign, #FindYourFun, our largest marketing investment in our 12-year history and our first global marketing campaign. Slated to run throughout 2015, ads encourage consumers to #FindYourFun, with imagery featuring Crocs iconic clog. It will be seen by consumers in the U.S., U.K., Germany, Japan, China and South Korea. The whimsical imagery incorporates the Crocs clog into some of the worlds most notable landmarks and destinations, including Las Vegas, Times Square and Piccadilly Circus in London, as well as locations in Shanghai and Seoul.
+We are refining our business model around the world, prioritizing direct investment in larger-scale geographies to focus our resources on the biggest opportunities, moving away from direct investment in the retail and wholesale businesses in smaller markets and transferring significant commercial responsibilities to distributors and third-party agents. These re-alignments are already underway in Brazil, Taiwan and other markets around the globe. Further, we intend to expand our engagement with leading wholesale accounts in select markets to drive sales growth, optimize product placement and enhance brand reputation.
+We have reorganized key business functions to improve efficiency and have eliminated over 200 global positions, the majority of which occurred on July 21, 2014, resulting in reduced structural complexity, size and cost. In addition, we opened our Global Commercial Center in the Boston area in late 2014, which is housing key merchandising, marketing and retail executives. The Boston location was selected in order to attract experienced senior footwear and business development management talent. The Global Commercial Center in Boston will join the Product Creation and Global Shared Services Center in Niwot, Colorado, the cornerstone of support for Crocs global business. We intend to strengthen our Regional Commercial Centers in the Netherlands, Singapore and Japan with responsibility for managing Crocs global business.
+20
+* * *
+
+
+Table of Contents
+**Results of Operations**
+**Comparison of the Three Months Ended March 31, 2015 to 2014**
+****
+**($ thousands, except per share data and**
+****
+**Three Months Ended March 31,**
+****
+**Change**
+****
+**average footwear selling price)**
+****
+**2015**
+****
+**2014**
+****
+**$**
+****
+**%**
+****
+Revenues
+$
+262,193
+$
+312,429
+$
+(50,236
+)
+(16.1
+)%
+Cost of sales
+134,823
+156,202
+(21,379
+)
+(13.7
+)
+Gross profit
+127,370
+156,227
+(28,857
+)
+(18.5
+)
+Selling, general and administrative expenses
+126,069
+137,155
+(11,086
+)
+(8.1
+)
+Restructuring charges
+3,663
+2,250
+1,413
+62.8
+Income (loss) from operations
+(2,362
+)
+16,822
+(19,184
+)
+(114.0
+)
+Foreign currency transaction income (loss), net
+494
+(2,768
+)
+3,262
+(117.8
+)
+Interest income
+288
+477
+(189
+)
+(39.6
+)
+Interest expense
+(219
+)
+(191
+)
+(28
+)
+14.7
+Other income (expense), net
+(331
+)
+141
+(472
+)
+(334.8
+)
+Income (loss) before income taxes
+(2,130
+)
+14,481
+(16,611
+)
+(114.7
+)
+Income tax (expense) benefit
+(295
+)
+(5,357
+)
+5,062
+(94.5
+)
+Net income (loss)
+$
+(2,425
+)
+$
+9,124
+$
+(11,549
+)
+(126.6
+)%
+Dividends on Series A convertible preferred shares
+(2,833
+)
+(2,133
+)
+(700
+)
+32.8
+Dividend equivalents on Series A convertible preferred shares related to redemption value accretion and beneficial conversion feature
+(721
+)
+(618
+)
+(103
+)
+16.7
+Net income (loss) attributable to common stockholders
+$
+(5,979
+)
+$
+6,373
+$
+(12,352
+)
+(193.8
+)%
+Net income (loss) per common share:
+Basic
+$
+(0.08
+)
+$
+0.06
+$
+(0.14
+)
+(233.3
+)%
+Diluted
+$
+(0.08
+)
+$
+0.06
+$
+(0.14
+)
+(233.3
+)%
+Gross margin
+48.6
+%
+50.0
+%
+(143
+)bps
+(2.9
+)%
+Operating margin
+(0.9
+)%
+5.4
+%
+(629
+)bps
+(116.7
+)%
+Footwear unit sales
+14,802
+14,981
+(179
+)
+(1.2
+)%
+Average footwear selling price
+$
+17.45
+$
+20.39
+$
+(2.94
+)
+(14.4
+)%
+**_Revenues_****.** During the three months ended March 31, 2015, revenues decreased $50.2 million, or 16.1%, compared to the same period in 2014, primarily due to (i) changes in average foreign currency exchange rates used to translate revenue from our functional currencies to our reporting currency, (ii) $2.94, or 14.4%, decrease in average footwear selling price (consisting of a $1.64 decrease due to the impact of foreign currency changes and a $1.30 decrease due to changes in product mix) and (iii) a decrease of 0.2 million, or 1.2%, in global footwear unit sales. For the three months ended March 31, 2015, delivery of product was negatively impacted by the partial shutdown of the shipping ports in California, which we believe negatively impacted our revenue by approximately 3%.
+During the three months ended March 31, 2015, revenues from our wholesale channel decreased $38.7 million, or 17.8%, compared to the same period in 2014, which was driven primarily by lower unit sales in our Americas and Asia segments and lower average selling price in Europe, primarily due to of the impact of foreign currency translation. These decreases were partially offset by a 24.9% increase in unit sales in Europe primarily driven by product volume expansion through new wholesale doors and continued support from existing customers.
+During the three months ended March 31, 2015, revenues from our retail channel decreased $9.2 million, or 12.2%, compared to the same period in 2014, which was driven primarily by a 8.3% decrease in the average selling price, primarily attributable to the Europe segment because of the impact of foreign currency translation, and a 3.3% decrease in footwear unit sales, primarily attributable to the Americas segment.
+21
+* * *
+
+
+Table of Contents
+Additionally, we experienced an overall decrease of 5.3% in comparable store sales compared to the prior year period (see below for more information on the calculation of comparable store sales). During the three months ended March 31, 2015, we opened 3 and closed 30 company-operated stores.
+During the three months ended March 31, 2015, revenues from our internet channel decreased $2.3 million, or 11.9%, compared to the same period in 2014, which was primarily driven by decreased internet sales in our Europe segment and lower average selling prices in all segments due to changes in foreign currency exchange rates and product mix. Our internet sales totaled approximately 6.6% and 6.3% of our consolidated net sales during the three months ended March 31, 2015 and 2014, respectively. We continue to benefit from our online presence through webstores worldwide enabling us to have increased access to our customers in a low cost, attractive manner and providing us with an opportunity to educate them about our products and brand.
+The following table summarizes our total revenue by channel for the three months ended March 31, 2015 and 2014 ($ thousands):
+****
+****
+**Three Months Ended March 31,**
+****
+**Change**
+****
+**Constant Currency Change(1)**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+**$**
+****
+**%**
+****
+**$**
+****
+**%**
+****
+Wholesale:
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+Americas
+$
+61,176
+$
+70,175
+$
+(8,999
+)
+(12.8
+)%
+$
+(7,384
+)
+(10.5
+)%
+Asia Pacific
+72,497
+99,044
+(26,547
+)
+(26.8
+)
+(21,468
+)
+(21.7
+)
+Europe
+44,653
+47,780
+(3,127
+)
+(6.5
+)
+8,663
+18.1
+Other businesses
+225
+258
+(33
+)
+(12.8
+)
+(3
+)
+(1.2
+)
+Total Wholesale
+178,551
+217,257
+(38,706
+)
+(17.8
+)
+(20,192
+)
+(9.3
+)
+Consumer-direct:
+****
+****
+****
+****
+****
+****
+****
+****
+****
+Retail:
+****
+****
+****
+****
+****
+****
+****
+****
+****
+Americas
+34,617
+36,581
+(1,964
+)
+(5.4
+)
+(1,766
+)
+(4.8
+)
+Asia Pacific
+23,345
+28,249
+(4,904
+)
+(17.4
+)
+(3,407
+)
+(12.1
+)
+Europe
+8,411
+10,730
+(2,319
+)
+(21.6
+)
+444
+4.1
+Total Retail
+66,373
+75,560
+(9,187
+)
+(12.2
+)
+(4,729
+)
+(6.3
+)
+Internet:
+****
+****
+****
+****
+****
+****
+****
+Americas
+9,976
+10,364
+(388
+)
+(3.7
+)
+(272
+)
+(2.6
+)
+Asia Pacific
+3,933
+3,622
+311
+8.6
+665
+18.4
+Europe
+3,360
+5,626
+(2,266
+)
+(40.3
+)
+(1,353
+)
+(24.0
+)
+Total Internet
+17,269
+19,612
+(2,343
+)
+(11.9
+)
+(960
+)
+(4.9
+)
+Total revenues:
+$
+262,193
+$
+312,429
+$
+(50,236
+)
+(16.1
+)%
+$
+(25,881
+)
+(8.3
+)%
+* * *
+(1) Reflects year over year change as if the current period results were in constant currency, which is a non-GAAP financial measure. See Use of Non-GAAP Financial Measures above for more information.
+The table below illustrates the overall change in the number of our company-operated retail locations by type of store and reportable operating segment as of March 31, 2015 and December 31, 2014:
+****
+****
+**December 31,**
+****
+****
+****
+****
+****
+**March 31,**
+****
+****
+****
+**2014**
+****
+**Opened**
+****
+**Closed**
+****
+**2015**
+****
+Company-operated retail locations:
+Type:
+Kiosk/Store in Store
+100
+1
+(8
+)
+93
+Retail Stores
+311
+1
+(18
+)
+294
+Outlet Stores
+174
+1
+(4
+)
+171
+Total
+585
+3
+(30
+)
+558
+Operating segment:
+Americas
+210
+
+(9
+)
+201
+Asia Pacific
+258
+2
+(15
+)
+245
+Europe
+117
+1
+(6
+)
+112
+Total
+585
+3
+(30
+)
+558
+During the three months ended March 31, 2015, we entered into an agreement to acquire nine retail locations in Wuhan, China. These stores will be reflected in our retail location counts as of June 30, 2015.
+22
+* * *
+
+
+Table of Contents
+The table below sets forth our comparable store sales by reportable operating segment for the three months ended March 31, 2015 and 2014:
+****
+****
+**Constant Currency**
+****
+**Constant Currency**
+****
+****
+****
+**Three Months Ended**
+****
+**Three Months Ended**
+****
+****
+****
+**March 31, 2015(2)**
+****
+**March 31, 2014(2)**
+****
+Comparable store sales (1)
+Americas
+(5.8
+)%
+(5.0
+)%
+Asia Pacific
+(9.4
+)
+3.3
+Europe
+5.7
+0.6
+Global
+(5.3
+)%
+(1.5
+)%
+* * *
+(1) Comparable store status is determined on a monthly basis. Comparable store sales begin in the thirteenth month of a stores operation. Stores in which selling square footage has changed more than 15% as a result of a remodel, expansion or reduction are excluded until the thirteenth month in which they have comparable prior year sales. Temporarily closed stores are excluded from the comparable store sales calculation during the month of closure. Location closures in excess of three months are excluded until the thirteenth month post re-opening. Comparable store sales exclude the impact of our internet channel revenues and are calculated on a currency neutral basis using historical quarterly average currency rates.
+(2) Reflects quarter over quarter change as if the current period results were in constant currency, which is a non-GAAP financial measure. See Use of Non-GAAP Financial Measures above for more information.
+**_Impact on Revenues due to Foreign Exchange Rate Fluctuations._** Changes in average foreign currency exchange rates used to translate revenue from our functional currencies to our reporting currency during the three months ended March 31, 2015 resulted in a $24.4 million decrease in revenue compared to the same period in 2014.
+**_Gross profit._** During the three months ended March 31, 2015, gross profit decreased $28.9 million, or 18.5%, compared to the same period in 2014, which was primarily attributable to the 16.1% decrease in revenue. Cost of sales decreased $21.4 million, or 13.7%, excluding restructuring. Gross margin percentage decreased 143 basis points compared to the same period in 2014.
+**_Impact on Gross Profit due to Foreign Exchange Rate Fluctuations._** Changes in average foreign currency exchange rates used to translate revenue and costs of sales from our functional currencies to our reporting currency during the three months ended March 31, 2015 decreased our gross profit by $12.2 million, or 7.8%, compared to the same period in 2014.
+**_Selling, General and Administrative Expenses_****.** SG&A expenses decreased $11.1 million, or 8.1%, during the three months ended March 31, 2015 compared to the same period in 2014. This decrease was predominately due to the impact of foreign currency translation adjustments to expenses from our functional currencies to our reporting currency during the three months ended March 31, 2015. As a percentage of revenue, SG&A expenses increased 418 basis points to 48.1% from 43.9% during the three months ended March 31, 2015 compared to the same period in 2014.
+23
+* * *
+
+
+Table of Contents
+In addition to these fluctuations, we have identified certain selling, general and administrative expenses that affect the comparability or underlying business trends in our consolidated financial statements. The following table summarizes these expenses as well as details the additional drivers of the increase above by reconciling our GAAP selling, general and administrative expenses to non-GAAP selling, general and administrative expenses:
+****
+****
+**Three Months Ended March 31,**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+****
+****
+**($ thousands)**
+****
+SG&A expenses and restructuring charges reconciliation:
+GAAP SG&A and restructuring charges
+$
+129,732
+$
+139,405
+Restructuring charges (1)
+(3,663
+)
+(2,250
+)
+New ERP implementation (1)
+(5,648
+)
+(2,375
+)
+Reorganization charges (2)
+(1,399
+)
+(2,192
+)
+Legal settlement (3)
+
+(1,289
+)
+Non-GAAP selling, general and administrative expenses
+$
+119,022
+$
+131,299
+* * *
+(1) This represents operating expenses related to the implementation of our new enterprise resource planning (ERP) system and the add-back of accelerated depreciation and amortization on tangible and intangible items related to our current ERP system and supporting platforms that will no longer be utilized once the implementation of a new ERP is complete.
+(2) This relates to bonuses, consulting fees and other expenses related to recent restructuring activities and our investment agreement with Blackstone.
+(3) This represents certain legal contingency accruals and/or legal settlement expenses.
+**_Impact on Selling, General, and Administrative Expenses due to Foreign Exchange Rate Fluctuations._** Changes in average foreign currency exchange rates used to translate expenses from our functional currencies to our reporting currency during the three months ended March 31, 2015, positively impacted, or decreased, selling, general and administrative expenses by approximately $5.4 million compared to the same period in 2014.
+**_Restructuring Charges._** We recorded $3.7 million in restructuring charges during the three months ended March 31, 2015. These restructuring charges arose primarily as a result of our strategic plans for long-term improvement and growth of the business. Restructuring charges for the three months ended March 31, 2015 consisted of:
+· $2.1 million in severance costs;
+· $1.4 million in contract termination costs primarily related to the early termination of operating leases and sponsorship agreements; and
+· $0.2 million in other restructuring charges.
+**_Foreign Currency Transaction Gain (Loss), Net._** The line item entitled foreign currency transaction losses, net is comprised of foreign currency gains and losses from the re-measurement and settlement of monetary assets and liabilities denominated in non-functional currencies and the impact of certain foreign currency derivative instruments. During the three months ended March 31, 2015, net gain on foreign currency transactions was $0.5 million, compared to a $2.8 million net loss for the same period in 2014.
+**_Income tax expense_**** _._** During the three months ended March 31, 2015, we recognized income tax expense of $0.3 million compared to of $5.4 million for the same period in 2014. Our effective tax rate decreased primarily due to the release of certain unrecognized tax benefits as the result of settling our audits with the Canada Revenue Agency and the Internal Revenue Service. Our effective tax rate for the three months ended March 31, 2015 differs from the federal U.S. statutory rate primarily because of the release of certain unrecognized tax benefits as well as differences between income tax rates between U.S. and foreign jurisdictions.
+24
+* * *
+
+
+Table of Contents
+**Presentation of Reportable Segments**
+During 2014, we had four reportable operating segments based on the geographic nature of our operations: Americas, Asia Pacific, Japan and Europe. We also had an Other businesses category which aggregates insignificant operating segments that do not meet the reportable segment threshold including our manufacturing operations located in Mexico, Italy and Asia. The composition of our reportable operating segments is consistent with that used by our chief operating decision maker, (CODM) to evaluate performance and allocate resources.
+Subsequent to December 31, 2014, our internal reports reviewed by the CODM began consolidating Japan into the Asia Pacific segment. This change was to align our internal reporting to our new strategic model and management structure, as Japan and Asia Pacific are now managed and analyzed as one operating segment by management and the CODM. Accordingly, we now have three reportable segments for 2015 as well as our Other Businesses category.
+Each of our reportable operating segments derives its revenues from the sale of footwear, apparel and accessories to external customers as well as intersegment sales. Revenues of the Other businesses category are primarily made up of intersegment sales. The remaining revenues for the Other businesses represent non-footwear product sales to external customers. Intersegment sales are not included in the measurement of segment operating income or regularly reviewed by the CODM and are eliminated when deriving total consolidated revenues.
+Segment performance is evaluated based on segment results without allocating corporate expenses, or indirect general, administrative and other expenses. Segment profits or losses include adjustments to eliminate intersegment sales. As such, reconciling items for segment operating income represent unallocated corporate and other expenses as well as intersegment eliminations. Our CODM evaluates the performance of our segments based on gross margin and direct operating profit excluding unallocated amounts.
+25
+* * *
+
+
+Table of Contents
+**Comparison of the Three Months Ended March 31, 2015 and 2014 by Segment**
+The following table sets forth information related to our reportable operating business segments for the three months ended March 31, 2015 and 2014 ($ thousands):
+****
+****
+**Three Months Ended March 31,**
+****
+**Change**
+****
+**Constant Currency Change
+(4)**
+****
+****
+****
+**2015**
+****
+**2014**
+****
+**$**
+****
+**%**
+****
+**$**
+****
+**%**
+****
+Americas
+$
+105,769
+$
+117,120
+$
+(11,351
+)
+(9.7
+)%
+$
+(9,422
+)
+(8.0
+)%
+Asia Pacific
+99,775
+130,915
+(31,140
+)
+(23.8
+)
+(24,210
+)
+(18.5
+)
+Europe
+56,424
+64,136
+(7,712
+)
+(12.0
+)
+7,754
+12.1
+Total segment revenues
+261,968
+312,171
+(50,203
+)
+(16.1
+)
+(25,878
+)
+(8.3
+)
+Other businesses
+225
+258
+(33
+)
+(12.8
+)
+(3
+)
+(1.2
+)
+Total consolidated revenues
+262,193
+312,429
+(50,236
+)
+(16.1
+)
+(25,881
+)
+(8.3
+)
+Operating income (loss):
+****
+****
+****
+Americas
+15,378
+13,437
+1,941
+14.4
+2,239
+16.7
+Asia Pacific
+17,335
+34,145
+(16,810
+)
+(49.2
+)
+(16,301
+)
+(47.7
+)
+Europe
+8,238
+7,539
+699
+9.3
+2,698
+35.8
+Total segment operating income
+40,951
+55,121
+(14,170
+)
+(25.7
+)
+(11,364
+)
+(20.6
+)
+Other businesses(1)
+(5,403
+)
+(3,756
+)
+(1,647
+)
+43.8
+(2,987
+)
+79.5
+Intersegment eliminations
+
+15
+(15
+)
+(100.0
+)
+(15
+)
+(100.0
+)
+Unallocated corporate and other(2)
+(37,910
+)
+(34,558
+)
+(3,352
+)
+9.7
+(4,553
+)
+13.2
+Total consolidated operating income (loss)(3)
+(2,362
+)
+16,822
+(19,184
+)
+(114.0
+)
+$
+(18,919
+)
+(112.5
+)%
+Foreign currency transaction income (loss), net
+494
+(2,768
+)
+3,262
+(117.8
+)
+****
+****
+Interest income
+288
+477
+(189
+)
+(39.6
+)
+****
+****
+Interest expense
+(219
+)
+(191
+)
+(28
+)
+14.7
+Other income (loss), net
+(331
+)
+141
+(472
+)
+(334.8
+)
+Income (loss) before income taxes
+$
+(2,130
+)
+$
+14,481
+$
+(16,611
+)
+(114.7
+)%
+* * *
+(1) During the three months ended March 31, 2015, operating losses of Other businesses increased $1.6 million compared to 2014, primarily due to a $2.0 million decrease in gross margin offset by a $0.4 million decrease in selling, general and administrative expenses.
+(2) Includes a corporate component consisting primarily of corporate support and administrative functions, costs associated with share-based compensation, research and development, brand marketing, legal, depreciation on corporate and other assets not allocated to operating segments and costs of the same nature of certain corporate holding companies. For the three months ended March 31, 2015, Unallocated corporate and other operating losses increased $3.4 million compared to the same period in 2014, primarily due to an $4.6 million increase in selling, general and administrative expenses primarily due to $5.6 million related to our ERP implementation, offset by lower non-retail professional expenses.
+(3) Please refer to our Results of Operations to reconcile total consolidated operating income to net income as segment information does not have an effect on values below total consolidated operating income.
+(4) Reflects year over year change as if the current period results were in constant currency, which is a non-GAAP financial measure. See Use of Non-GAAP Financial Measures above for more information.
+**_Americas Operating Segment_**** _._** During the three months ended March 31, 2015, revenues from our Americas segment decreased $11.4 million, or 9.7%, compared to the same period in 2014 primarily due to a 13.8% decrease in footwear units sold and a $1.9 million unfavorable impact from foreign currency fluctuations driven by weakening of the Brazilian Real against the U.S. Dollar. During the three months ended March 31, 2015, revenue declines for the region were realized primarily in the wholesale channel which decreased $9.0 million, or 12.8%, and in the retail channel which decreased $2.0 million, or 5.4%, compared to the same period in 2014. The decrease in wholesale channel revenue was predominately driven by a decrease of 16.0% in footwear units sold and a 3.6% decrease in the average selling price primarily due to changes in product mix. The decrease in retail channel revenue was predominately driven by a decrease of 8.9% in footwear units sold, partially offset by an increase of 3.0% in average footwear selling price.
+26
+* * *
+
+
+Table of Contents
+During the three months ended March 31, 2015, segment operating income increased $1.9 million, or 14.4%, compared to the same period in 2014 primarily related to:
+(i) a decrease of $3.0 million, or 7.4%, in selling, general and administrative expenses as a result lower employee compensation related expenses and lower professional fees, offset by higher marketing expenses; and
+(ii) a partial offset from a slight decrease in segment gross margins of $0.6 million, or 1.2%, primarily related to lower revenues.
+**_Asia Pacific Operating Segment._** During the three months ended March 31, 2015, revenues from our Asia Pacific segment decreased $31.1 million, or 23.8%, compared to the same period in 2014 primarily due to a 9.0% decrease in footwear units sold and a 14.1% decrease in average footwear selling price. Asias revenues were also impacted by a $6.9 million unfavorable impact from foreign currency fluctuations. During the three months ended March 31, 2015, revenue declines for the region were realized primarily in the wholesale channel which decreased $26.5 million, or 26.8%, and in the retail channel which decreased $4.9 million, or 17.4%, compared to the same period in 2014. The decrease in wholesale channel revenue was predominately driven by a decrease of 9.6% in footwear units sold and a 15.0% decrease in the average selling price, period over period. Partially offsetting these decreases was an increase of 8.6%, in the internet channel revenues.
+During the three months ended March 31, 2015, segment operating income decreased $16.8 million, or 49.2%, compared to the same period in 2014 primarily related to:
+(i) a decrease in segment gross margins of $20.2 million, or 27.5%, primarily related to the decrease in revenue;
+(ii) $1.8 million in restructuring charges related to severance and store closure costs; and
+(iii) a partial offset from a decrease of $5.2 million, or 13.2%, in selling, general and administrative expenses due lower employee compensation expenses, lower rent and occupancy related expenses and lower marketing expenses.
+**_Europe Operating Segment_****.** During the three months ended March 31, 2015, revenues from our Europe segment decreased $7.7 million, or 12.0%, compared to the same period in 2014 primarily due to a $15.5 million unfavorable impact from foreign currency fluctuations, primarily related to the weakening of the Euro against the U.S. Dollar, which drove a 42.4% decrease in average footwear unit selling price. This decrease was offset by an increase of 22.8% in footwear units sold. The wholesale channel revenues decreased $3.1 million, or 6.5%, due a drop in average footwear selling price offset by an increase in units sold.
+Our direct-to-consumer channel revenues decreased $2.3 million, or 21.6%, primarily due to a decrease in average footwear unit selling price, partially offset by a 5.7% increase in comparable store sales. During the three months ended March 31, 2015, segment operating income increased $0.7 million, or 9.3%, compared to the same period in 2014 primarily related to:
+(i) a decrease of 7.1 million, or 29.5%, in selling, general and administrative expenses primarily related to due lower employee compensation expenses, rent and occupancy related expenses and professional service fees;
+(ii) offset by the decrease in revenues.
+27
+* * *
+
+
+Table of Contents
+**Liquidity and Capital Resources**
+**_Cash Flows and Working Capital_**
+During the three months ended March 31, 2015, cash and cash equivalents decreased $86.8 million, or 32.5%, to $180.7 million compared to $267.5 million at December 31, 2014. The primary driver of this decrease was (i) lower gross receipts from revenues; (ii) the repurchase of $20.0 million of our common stock, including related commission charges, during the three months ended March 31, 2015 associated with Board authorized repurchases under our publicly-announced repurchase plan; (iii) strategic reinvestments into the business; (iv) dividend payments of $2.8 million on our Series A convertible preferred stock, which was recorded as dividends payable and prepaid dividends as of March 31, 2015; and (v) debt payments, including principal and interest, of $1.4 million related to long-term bank borrowings.
+Cash used by operations was $46.7 million for the three months ended March 31, 2015 compared $62.7 million used by operations during the same period in 2014. This decrease was primarily driven by the change in working capital accounts period over period which accounted for $24.3 million of the improvement. This was offset by $8.2 million less cash provided from our net operations recorded in the statement of operations for the three months ended March 31, 2015 compared to the same period in 2014.
+**_Working Capital_**
+Accounts receivable and inventory balances increased $72.9 million and $13.7 million, respectively from December 31, 2014 to March 31, 2015, due to the seasonality nature of our operations, specifically our highest revenues are recorded during the quarter ended June. Accounts payable increased $38.5 million as of March 31, 2015 compared to December 31, 2014. As a result of the January 2015 implementation of our new ERP system, we accelerated payments of our outstanding payables in late 2014 to accommodate the transition. Therefore, the increase in 2015 is due to the normal course of business, as our business cycles have returned to normal.
+We anticipate our cash flows from operations will be sufficient to meet the ongoing needs of our business for the next twelve months. In order to provide additional liquidity in the future and to help support our strategic goals, we have a revolving credit facility with a syndicate of lenders, including PNC Bank, National Association (PNC) as lead lender, which currently provides us with up to $100.0 million in borrowing capacity and matures in December 2017 (see _Revolving Credit Facility_ below). Additional future financing may be necessary and there can be no assurance that, if needed, we will be able to secure additional debt or equity financing on terms acceptable to us or at all.
+**_Stock Repurchase Plan Authorizations_**
+We continue to evaluate options to maximize the returns on our cash and to maintain an appropriate capital structure, including, among other alternatives, repurchases of our common stock.
+On December 26, 2013, the Board approved the repurchase of up to $350.0 million of our common stock, subject to certain restrictions on repurchases under our revolving credit facility. The number, price, structure and timing of the repurchases will be at our sole discretion and future repurchases will be evaluated by us depending on market conditions, liquidity needs and other factors. Share repurchases may be made in the open market or in privately negotiated transactions. The repurchase authorization does not have an expiration date and does not oblige us to acquire any particular amount of our common stock. The Board may suspend, modify or terminate the repurchase program at any time without prior notice.
+During the three months ended March 31, 2015, we repurchased 1.7 million shares at an average price of $11.60 per share for an aggregate price of approximately $20.0 million excluding related commission charges, under a publicly-announced repurchase plan.
+28
+* * *
+
+
+Table of Contents
+As of March 31, 2015, subject to certain restrictions on repurchases under our revolving credit facility, we had $182.1 million remaining under the repurchase authorizations.
+**_Revolving Credit Facility_**
+On September 25, 2009, we entered into a Revolving Credit and Security Agreement (the Credit Agreement) with the lenders named therein and PNC Bank, National Association (PNC), as a lender and administrative agent for the lenders.
+On April 2, 2015, we entered into the Sixth Amendment to Amended and Restated Credit Agreement (the Sixth Amendment), pursuant to which certain terms of the Credit Agreement were amended. The Sixth Amendment primarily amended certain definitions of the financial covenants to become more favorable to us including (i) setting the minimum fixed charge coverage ratio to 1.00 to 1.00 through December 31, 2015, 1.15 to 1.00 through March 31, 2016 and 1.25 to 1.00 for each quarter thereafter, (ii) setting the Leverage Ratio to 4.00 to 1.00 through March 31, 2016 and 3.75 to 1.00 for each quarter thereafter and (iii) reducing our global cash requirement from $100 million to $50 million.
+The Credit Agreement enables us to borrow up to $100.0 million, with the ability to increase commitments to up to $125.0 million subject to certain conditions, and is currently set to mature on December 16, 2017. The Credit Agreement is available for working capital, capital expenditures, permitted acquisitions, reimbursement of drawings under letters of credit, and permitted dividends, distributions, purchases, redemptions and retirements of equity interests. Borrowings under the Credit Agreement are secured by all of our assets including all receivables, equipment, general intangibles, inventory, investment property, subsidiary stock and intellectual property. Borrowings under the Credit Agreement bear interest at a variable rate. For domestic rate loans, the interest rate is equal to the highest of (i) the daily federal funds open rate as quoted by ICAP North America, Inc. plus 0.5%, (ii) PNCs prime rate and (iii) a daily LIBOR rate plus 1.0%, in each case there is an additional margin ranging from 0.25% to 1.00% based on certain conditions. For LIBOR rate loans, the interest rate is equal to a LIBOR rate plus a margin ranging from 1.25% to 2.00% based on certain conditions. The Credit Agreement requires monthly interest payments with respect to domestic rate loans and at the end of each interest period with respect to LIBOR rate loans. The Credit Agreement further provides for a limit on the issuance of letters of credit to a maximum of $20.0 million. The Credit Agreement contains provisions requiring us to maintain compliance with certain restrictive and financial covenants.
+As of March 31, 2015 and December 31, 2014, we had no outstanding borrowings under the Credit Agreement. As of March 31, 2015 and December 31, 2014, we had issued and outstanding letters of credit of $1.7 million and $1.8 million, respectively, which were reserved against the borrowing base under the terms of the Credit Agreement. As of March 31, 2015, we were in compliance with all restrictive financial and other covenants under the Credit Agreement.
+**_Long-term Bank Borrowings_**
+On December 10, 2012, we entered into a Master Installment Payment Agreement (Master IPA) with PNC in which PNC will finance the Companys purchase of software and services, which may include but are not limited to third-party costs to design, install and implement software systems, and associated hardware described in the schedules defined within the Master IPA. This agreement was entered into to finance the recent implementation of a new enterprise resource planning (ERP) system which began in October 2012 and was substantially completed in early 2015. The terms of the agreement consist of variable interest rates and payment terms based on amounts borrowed and timing of activity throughout the implementation of the ERP system.
+As of March 31, 2015 and December 31, 2014, we had $10.3 million and $11.6 million, respectively, of long-term debt outstanding under five separate notes payable, of which $5.3 million represents current installments for both periods. As of March 31, 2015, the notes bear interest rates ranging from 2.45% to 2.79% and maturities ranging from September 2016 to September 2017. As this debt arrangement relates solely to the construction and implementation of an ERP system for use by the entity, interest expense was capitalized to the condensed consolidated balance sheets until the assets were placed into service on January 1, 2015. During the three months ended March 31, 2015, no interest was capitalized. During the three months ended March 31, 2014, we capitalized $0.1 million in interest expense related to this debt arrangement to the condensed consolidated balance sheets. Interest rates and payment terms are subject to changes as further financing occurs under the Master IPA.
+29
+* * *
+
+
+Table of Contents
+**_Capital Assets_**
+During the three months ended March 31, 2015, net capital assets acquired, inclusive of intangible assets, were $6.5 million compared to $15.3 million during the same period in 2014. The decrease is primarily due to decreased capital spending related to our ERP implementation, as the implementation phase has ended.
+**_Repatriation of Cash_**
+As we are a global business, we have cash balances which are located in various countries and are denominated in various currencies. Fluctuations in foreign currency exchange rates impact our results of operations and cash positions. Future fluctuations in foreign currencies may have a material impact on our cash flows and capital resources. Cash balances held in foreign countries may have additional restrictions and covenants associated with them which could adversely impact our liquidity and our ability to timely access and transfer cash balances between entities.
+We generally consider unremitted earnings of subsidiaries operating outside of the U.S. to be indefinitely reinvested; however, our Board has approved a foreign cash repatriation strategy. As part of this strategy, we repatriated approximately $25.0 million during the three months ended March 31, 2015 without a tax impact. Further cash repatriation will depend on future cash requirements in the U.S. We maintain approximately $65.8 million of foreign earnings for which tax has previously been provided, and which has not been repatriated at this time.
+Most of the cash balances held outside of the U.S. could be repatriated to the U.S., but under current law, would be subject to U.S. federal and state income taxes less applicable foreign tax credits. In some countries, repatriation of certain foreign balances is restricted by local laws and could have adverse tax consequences if we were to move the cash to another country. Certain countries have monetary laws which may limit our ability to utilize cash resources in those countries for operations in other countries. These limitations may affect our ability to fully utilize our cash resources for needs in the U.S. or other countries and could adversely affect our liquidity. As of March 31, 2015, we held $165.1 million of our total $180.7 million in cash in international locations. This cash is primarily used for the ongoing operations of the business in the locations in which the cash is held. Of the $165.1 million, $2.2 million could potentially be restricted, as described above. If the remaining $162.9 million were to be immediately repatriated to the U.S., we would be required to incur approximately $19.0 million in taxes that were not previously provided for in our consolidated statement of operations.
+**_Off-Balance Sheet Arrangements_**
+We had no material off-balance sheet arrangements as of March 31, 2015.
+30
+* * *
+
+
+Table of Contents
+**Critical Accounting Policies and Estimates**
+Managements Discussion and Analysis of Financial Condition and Results of Operations is based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, sales and expenses, and related disclosure of contingent assets and liabilities. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. For a detailed discussion of our critical accounting policies, please refer to our annual report on Form 10-K for the year ended December 31, 2014 filed with the SEC on April 2, 2015. Our critical accounting policies and estimates did not change materially during the three months ended March 31, 2015.
+**_Recent Accounting Pronouncements._** See Note 1Organization and Summary of Significant Accounting Policies in the accompanying notes to the condensed consolidated financial statements for recently adopted and issued accounting pronouncements.
+**
+## ITEM 3. Quantitative and Qualitative Disclosures About Market Risk
+**
+**Interest Rate Risk**
+We centrally manage our debt and investment portfolios considering investment opportunities and risks, tax consequences and overall financing strategies. Our exposure to market risk includes interest rate fluctuations in connection with our revolving credit facility and certain financial instruments. In addition to the revolving credit facility, we have incurred short- and long-term indebtedness related to the implementation of our ERP system. Borrowings under these debt instruments bear fixed interest rates and therefore, do not have the potential for market risk.
+Borrowings under the revolving credit facility bear interest at a variable rate. For domestic rate loans, the interest rate is equal to the highest of (i) the daily federal funds open rate as quoted by ICAP North America, Inc. plus 0.5%, (ii) PNCs prime rate and (iii) a daily LIBOR rate plus 1.0%, in each case there is an additional margin ranging from 0.25% to 1.00% based on certain conditions. For LIBOR rate loans, the interest rate is equal to a LIBOR rate plus a margin ranging from 1.25% to 2.00% based on certain conditions. Borrowings under the revolving credit facility are therefore subject to risk based upon prevailing market interest rates. Interest rates fluctuate as a result of many factors, including governmental monetary and tax policies, domestic and international economic and political considerations and other factors that are beyond our control. As of March 31, 2015 and December 31, 2014, there were no borrowings under the revolving credit facility.
+We additionally hold cash equivalents including certificate of deposits, time deposits and money market funds. Interest income generated from these cash equivalents will fluctuate with the general level of interest rates. As of March 31, 2015, we held $13.0 million in cash equivalents subject to variable interest rates. If the prevailing market interest rates relative to these investments increased or decreased by 10% during the three months ended March 31, 2015, interest income would have increased or decreased by a negligible amount.
+**Foreign Currency Exchange Risk**
+As a global company, we have significant revenues and costs denominated in currencies other than the U.S. Dollar. We pay the majority of expenses attributable to our foreign operations in the functional currency of the country in which such operations are conducted and pay the majority of our overseas third-party manufacturers in U.S. Dollars. Our ability to sell our products in foreign markets and the U.S. Dollar value of the sales made in foreign currencies can be significantly influenced by foreign currency fluctuations. Fluctuations in the value of foreign currencies relative to the U.S. Dollar could result in downward price pressure for our products and increase losses from currency exchange rates. An increase or decrease of 1% in value of the U.S. Dollar relative to foreign currencies would have increased or decreased loss before taxes for the three months ended March 31, 2015 by approximately $0.9 million. The volatility of the applicable exchange rates is dependent on many factors that cannot be forecasted with reliable accuracy. In the event our foreign sales and purchases increase and are denominated in currencies other than the U.S. Dollar, our operating results may be affected by fluctuations in the exchange rate of currencies we receive for such sales. See Item 2, Managements Discussion and Analysis of Financial Condition and Results of Operations, for a discussion of the impact of foreign exchange rate variances experienced for the three months ended March 31, 2015 and 2014.
+31
+* * *
+
+
+Table of Contents
+We transact business in various foreign countries and are therefore exposed to foreign currency exchange rate risk inherent in revenues, costs, and monetary assets and liabilities denominated in non-functional currencies. We have entered into foreign currency exchange forward contracts and currency swap derivative instruments to selectively protect against volatility in the value of non-functional currency denominated monetary assets and liabilities, and of future cash flows caused by changes in foreign currency exchange rates.
+The following table summarizes the notional amounts of the outstanding foreign currency exchange contracts as of March 31, 2015 and December 31, 2014. The notional amounts of the derivative financial instruments shown below are denominated in their U.S. Dollar equivalents and represent the amount of all contracts of the foreign currency specified. These notional values do not necessarily represent amounts exchanged by the parties and, therefore, are not a direct measure of our exposure to the foreign currency exchange risks.
+****
+****
+**As of
+March 31, 2015**
+****
+**As of
+December 31, 2014**
+****
+****
+****
+**($ thousands)**
+****
+Foreign currency exchange forward contracts by currency:
+Japanese Yen
+$
+93,301
+$
+44,533
+Singapore Dollar
+59,843
+61,887
+Euro
+26,924
+134,755
+South Korean Won
+25,223
+14,590
+British Pound Sterling
+20,931
+17,230
+Mexican Peso
+12,923
+13,180
+South African Rand
+7,023
+4,355
+Australian Dollar
+5,747
+7,913
+Indian Rupee
+4,919
+3,356
+Chinese Yuan Renminbi
+4,352
+5,376
+Canadian Dollar
+3,474
+3,005
+Russian Ruble
+2,876
+1,838
+New Taiwan Dollar
+2,494
+3,229
+Hong Kong Dollar
+1,892
+814
+Swedish Krona
+1,572
+1,918
+Brazilian Real
+1,005
+
+New Zealand Dollar
+709
+743
+Norwegian Krone
+
+917
+Total notional value, net
+$
+275,208
+$
+319,639
+Latest maturity date
+April 2015
+January 2015
+**
+## ITEM 4. Controls and Procedures
+**
+**Evaluation of Disclosure Controls and Procedures**
+Under the supervision of and with the participation of our senior management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of March 31, 2015 (the Evaluation Date). Based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that as of the Evaluation Date, our disclosure controls and procedures were effective, such that the information relating to us, including our consolidated subsidiaries, required to be disclosed in our Securities and Exchange Commission (SEC) reports (i) is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+**Changes in Internal Control over Financial Reporting**
+There have been no changes to our internal control over financial reporting during the three months ended March 31, 2015 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting, other than certain changes and improvements to our processes and procedures resulting from our implementation of our new ERP system.
+32
+* * *
+
+
+Table of Contents
+**PART II  Other Information**
+**
+## Item 1. Legal Proceedings
+**
+We are currently subject to an audit by U.S. Customs & Border Protection (CBP) in respect of the period from 2006 to 2010. In October 2013, CBP issued the final audit report. In that report CBP projects that unpaid duties totaling approximately $12.4 million are due for the period under review and recommended collection of the duties due. We responded that these projections are erroneous and provided arguments that demonstrate the amount due in connection with this matter is considerably less than the projection. Additionally, on December 12, 2014, we made an offer to settle CBPs potential claims and tendered $3.5 million. At this time, it is not possible to determine how long it will take CBP to evaluate our offer or to predict whether our offer will be accepted. Likewise, if a settlement cannot be reached, it is not possible to predict with any certainty whether CBP will seek to assert a claim for penalties in addition to any unpaid duties, but such an assertion is a possibility.
+Mexicos Federal Tax Authority (SAT) has audited our records regarding imports and exports during the period from January 2006 to July 2011. There were two phases to the audit, the first for capital equipment and finished goods and the second for raw materials. The first phase was completed and no major discrepancies were noted by the SAT. On January 9, 2013, we received a notice for the second phase in which the SAT issued a tax assessment (taxes and penalties) of roughly 280.0 million pesos (approximately $22.0 million) based on the value of all of our imported raw materials during the audit period. We believe that the proposed penalty amount is unfounded and without merit. With the help of local counsel we filed an appeal by the deadline of March 15, 2013. We have argued that the amount due in connection with the matter, if any, is substantially less than that proposed by the SAT. In connection with the appeal, the SAT required us to post an appeal surety bond in the amount of roughly 321.0 million pesos (approximately $26.0 million), which amount reflects estimated additional penalties and interest if we are not successful on our appeal. This amount will be adjusted on an annual basis. On November 27, 2014, the Superior Chamber of the Federal Tax Court ruled in our favor and annulled the tax assessment and the corresponding penalty. The SAT filed its appeal of the decision in our favor on February 25, 2015. The parties are currently awaiting a ruling on the appeal. It is not possible at this time to predict the outcome of this matter or reasonably estimate any potential loss.
+We are currently subject to an audit by the Brazilian Federal Tax Authorities related to imports of footwear from China between 2010 to 2014. On January 13, 2015 we were notified about the issuance of assessments totaling roughly $5.25 million for the period January 2010 through May 2011. We have disputed these assessments and asserted defenses to the claims. On February 25, 2015, we received additional assessments totaling roughly $11.54 million related to the remainder of the audit period. We have also disputed these assessments and asserted defenses to these claims. It is not possible at this time to predict the outcome of this matter, therefore, we have no accrual for this matter as of March 31, 2015.
+On August 8, 2014, a purported class action lawsuit was filed in California state court against our subsidiary, Crocs Retail, LLC, Zaydenberg v. Crocs Retail, LLC, Case No. BC554214. The lawsuit alleges various employment law violations related to overtime, meal and break periods, minimum wage, timely payment of wages, wage statements, payroll records and business expenses. We filed an answer on February 6, 2015, denying the allegations and asserting several defenses. The parties are exchanging documents and information relevant to the issue of class certification and plan to participate in mediation in June 2015. It is not possible at this time to predict the outcome of this matter or reasonably estimate any potential loss.
+Although we are subject to other litigation from time to time in the ordinary course of business, including employment, intellectual property and product liability claims, we are not party to any other pending legal proceedings that we believe would reasonably have a material adverse impact on our business, financial position, results of operations or cash flows.
+33
+* * *
+
+
+Table of Contents
+**
+## ITEM 1A. Risk Factors
+**
+There have been no material changes to the risk factors contained in our Annual Report on Form 10-K for the year ended December 31, 2014.
+**
+## ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds
+**
+**ISSUER PURCHASES OF EQUITY SECURITIES**
+****
+****
+****
+****
+****
+****
+**Total Number of**
+****
+**Approximate Dollar**
+****
+****
+****
+**Total**
+****
+****
+****
+**Shares(or Units)**
+****
+**Value of Shares or Units**
+****
+****
+****
+**Number**
+****
+**Average**
+****
+**Purchased as**
+****
+**That May Yet Be**
+****
+****
+****
+**of Shares**
+****
+**Price Paid**
+****
+**Part of Publicly**
+****
+**Purchased Under the**
+****
+****
+****
+**(or Units)**
+****
+**per Share**
+****
+**Announced Plans**
+****
+**Plans or Programs**
+****
+**Period**
+****
+**Purchased**
+****
+**(or Unit)**
+****
+**or Programs(1)**
+****
+**(in thousands)**
+****
+January 1, 2015January 31, 2015
+899,021
+$
+11.49
+899,021
+$
+191,756
+February 1, 2015February 28, 2015
+
+
+
+191,756
+March 1, 2015March 31, 2015
+820,648
+11.72
+820,648
+182,134
+Total
+1,719,669
+11.60
+1,719,669
+182,134
+* * *
+(1) On December 26, 2013, the board of directors approved the repurchase of up to $350.0 million of our common stock, which was announced on December 30, 2013. During the three months ended March 31, 2015, we repurchased approximately 1.7 million shares at a weighted-average price of $11.60 for an aggregate price of approximately $20.0 million excluding related commission charges, under our publicly-announced repurchase plan. As of March 31, 2015, approximately $182.1 million of shares remained available for repurchase under our share repurchase authorization. The number, price, structure and timing of the repurchases, if any, will be at our sole discretion and future repurchases will be evaluated by us depending on market conditions, liquidity needs and other factors. Share repurchases may be made in the open market or in privately negotiated transactions. The repurchase authorization does not have an expiration date and does not oblige us to acquire any particular amount of our common stock. The board of directors may suspend, modify or terminate the repurchase program at any time without prior notice.
+34
+* * *
+
+
+Table of Contents
+**
+## ITEM 6. Exhibits
+**
+****
+**Exhibit Number**
+****
+**Description**
+3.1
+Restated Certificate of Incorporation of Crocs, Inc. (incorporated herein by reference to Exhibit 4.1 to Crocs, Inc.s Registration Statement on Form S-8, filed on March 9, 2006 (File No. 333-132312)).
+3.2
+Certificate of Amendment to Restated Certificate of Incorporation of Crocs, Inc. (incorporated herein by reference to Exhibit 3.1 to Crocs, Inc.s Current Report on Form 8-K, filed on July 12, 2007).
+3.3
+Amended and Restated Bylaws of Crocs, Inc. (incorporated herein by reference to Exhibit 4.2 to Crocs, Inc.s Registration Statement on Form S-8, filed on March 9, 2006 (File No. 333-132312)).
+3.4
+Certificate of Designations of Series A Convertible Preferred Stock of Crocs, Inc. (incorporated herein by reference to Exhibit 3.1 to Crocs, Inc.s Current Report on Form 8-K, filed on January 27, 2014).
+4.1
+Specimen Common Stock Certificate (incorporated herein by reference to Exhibit 4.2 to Crocs, Inc.s Registration Statement on Form S-1/A, filed on January 19, 2006 (File No. 333-127526)).
+31.1
+Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act.
+31.2
+Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934 as adopted pursuant to Section 302 of the Sarbanes- Oxley Act.
+32
+Certification of the Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act.
+101.INS
+XBRL Instance Document
+101.SCH
+XBRL Taxonomy Extension Schema Document
+101.CAL
+XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF 
+XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+XBRL Taxonomy Extension Presentation Linkbase Document
+* * *
+ Filed herewith.
+35
+* * *
+
+
+Table of Contents
+**SIGNATURES**
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+CROCS, INC.
+Date: May 8, 2015
+By:
+/s/ Jeffrey J. Lasher
+Name:
+Jeffrey J. Lasher
+Title:
+_Senior Vice President-Finance and Chief Financial Officer_
+36
+* * *
