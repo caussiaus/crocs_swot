@@ -8,6 +8,7 @@
 ✔ De‑duplicates identical sentences
 ✔ Limits each (year × bucket) to top‑30 high‑similarity sentences
 ✔ Deterministic summaries (no sampling)
+✔ Uses metadata from A_heading_preserver_converter.py for proper timestamping
 """
 from __future__ import annotations
 import json, itertools, re, hashlib, sys
@@ -20,7 +21,7 @@ from transformers import (AutoTokenizer, AutoModelForCausalLM, pipeline,
                           BitsAndBytesConfig)
 # ── paths ──────────────────────────────────────────────────────────────────
 BASE   = Path("/home/tempuser/projects/crocs_data/inference/data/processed/heading_preserved")
-META_CSV = Path("data/processed/metadata_report.csv")
+META_JSON = BASE / "processing_metadata.json"  # From A_heading_preserver_converter.py
 MODEL_DIR = Path(__file__).resolve().parents[2] / "models" / "Mistral-7B-Instruct-v0.3"
 OUT_DIR  = Path("yearly_swot"); OUT_DIR.mkdir(exist_ok=True)
 OUT_JSON = OUT_DIR / "yearly_swot.json"; OUT_CSV = OUT_DIR / "yearly_swot.csv"
@@ -33,34 +34,56 @@ bnb_conf = BitsAndBytesConfig(load_in_4bit=True,
                               bnb_4bit_compute_dtype=torch.float16,
                               bnb_4bit_quant_type="nf4",
                               bnb_4bit_use_double_quant=True)
-model = AutoModelForCausalLM.from_pretrained(MODEL_DIR, device_map="auto", quantization_config=bnb_conf)
-tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR)
-tokenizer.pad_token = tokenizer.eos_token
-model.config.pad_token_id = tokenizer.pad_token_id
-DEVICE = next(model.parameters()).device
+
+tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR, trust_remote_code=True, local_files_only=True)
+model = AutoModelForCausalLM.from_pretrained(MODEL_DIR,
+                                            quantization_config=bnb_conf,
+                                            device_map="auto",
+                                            trust_remote_code=True,
+                                            local_files_only=True)
+model.eval()
 
 @torch.no_grad()
 def embed(sentences: List[str]) -> np.ndarray:
-    toks = tokenizer(sentences, padding=True, truncation=True, return_tensors="pt").to(DEVICE)
-    last = model(**toks, output_hidden_states=True).hidden_states[-1]
-    emb  = torch.nn.functional.normalize(last.mean(dim=1), p=2, dim=1)
+    """Mean‑pool last hidden state → unit‑norm embedding."""
+    tok = tokenizer(sentences, padding=True, truncation=True, return_tensors="pt").to(model.device)
+    out = model(**tok, output_hidden_states=True)
+    last = out.hidden_states[-1]
+    emb  = last.mean(dim=1)
+    emb  = torch.nn.functional.normalize(emb, p=2, dim=1)
     return emb.cpu().numpy()
 
 generator = pipeline("text-generation", model=model, tokenizer=tokenizer,
-                     max_new_tokens=80, do_sample=False)
+                     device=0 if torch.cuda.is_available() else -1,
+                     max_new_tokens=100, do_sample=False)
 
-def summarize(label:str, year:int, sents:List[str]) -> str:
-    body = " ".join(sents[:30])
+def summarize(label: str, year: int, text: str) -> str:
     prompt = (
-        f"You are an equity analyst. Compose ONE concise bullet (max 30 words) that summarises the company's "
-        f"{label.lower()} for fiscal {year}.\n\nSentences:\n{body}\n\nBullet:")
-    out = generator(prompt)[0]["generated_text"].split("Bullet:")[-1]
-    return out.strip(' \n"*`')
+        f"You are an equity analyst. Create ONE concise bullet that summarises the company's {label.lower()} "
+        f"based on the following sentences for fiscal {year}.\n\nSentences:\n{text}\n\nBullet:"
+    )
+    gen = generator(prompt, pad_token_id=tokenizer.eos_token_id)[0]["generated_text"]
+    return gen.split("Bullet:")[-1].strip().replace("\n", " ")
 
 # ── metadata & year fallback ───────────────────────────────────────────────
-meta = pd.read_csv(META_CSV, dtype=str) if META_CSV.exists() else pd.DataFrame()
-meta["accession"] = meta.get("filename","").str.extract(r"(^[^,]+)")
-DATE = dict(zip(meta["accession"], meta.get("filing_date","")))
+print("▶ Loading metadata from A step...")
+if META_JSON.exists():
+    with open(META_JSON, 'r') as f:
+        metadata_list = json.load(f)
+    # Create mapping from filename to filing date
+    DATE = {}
+    for meta in metadata_list:
+        filename = meta.get('filename', '')
+        filing_date = meta.get('filing_date')
+        if filename and filing_date:
+            # Extract accession number from filename
+            accession_match = re.match(r'(\d{10}-\d{2}-\d{6,})', filename)
+            if accession_match:
+                accession = accession_match.group(1)
+                DATE[accession] = filing_date
+else:
+    print("⚠️  No metadata found, using filename fallback")
+    DATE = {}
 
 def year_from_name(name:str)->int|None:
     # first YY after accession dash
@@ -113,23 +136,25 @@ for i in range(0,len(df),B):
         if smax>=THR_SIM and (smax-s2)>=THR_MARGIN and LABELS[ti]!="Boiler":
             labs.append(LABELS[ti]); keep_idx.append(i+j)
 
-if not keep_idx:
-    sys.exit("❌ All sentences filtered as boiler/low‑sim")
-
 df=df.iloc[keep_idx].copy(); df["label"]=labs
+print(f"Classified {len(df):,} sentences into {df.label.nunique()} categories")
 
-# ── aggregate & summarise ──────────────────────────────────────────────────
-agg=(df.groupby(["year","label"]).agg(cnt=("text","size"),
-     sents=("text", lambda s:list(s)[:60])).reset_index())
-LATEST=df.year.max(); agg=agg[agg.year>=LATEST-14]
+# ── aggregate per year × label ─────────────────────────────────────────────
+agg=(df.groupby(["year","label"])
+       .agg(cnt=("text","size"), sample=("text",lambda s:" ".join(s.tolist()[:80])))
+       .reset_index())
+LATEST=df["year"].max()
+agg=agg[agg["year"]>=LATEST-14]  # last 15 fiscal years
 
-print("▶ Generating bullet summaries…")
-agg["summary"]=agg.apply(lambda r:summarize(r.label,int(r.year),r.sents),axis=1)
+# ── summarize ──────────────────────────────────────────────────────────────
+print("▶ Generating summaries… (this may take ~1‑2 min)")
+agg["summary"]=agg.apply(lambda r:summarize(r["label"],int(r["year"]),r["sample"]),axis=1)
 
+# ── save ───────────────────────────────────────────────────────────────────
 report:Dict[int,Dict[str,Dict]]=defaultdict(dict)
 for _,r in agg.iterrows():
-    report[int(r.year)][r.label]={"count":int(r.cnt),"summary":r.summary}
+    report[int(r["year"])][r["label"]]={"count":int(r["cnt"]),"summary":r["summary"]}
 
 OUT_JSON.write_text(json.dumps(report,indent=2))
-agg.drop(columns="sents").to_csv(OUT_CSV,index=False)
-print("✓ wrote", OUT_JSON, "and", OUT_CSV)
+agg.to_csv(OUT_CSV,index=False)
+print(f"✓ wrote {OUT_JSON} and {OUT_CSV}")
