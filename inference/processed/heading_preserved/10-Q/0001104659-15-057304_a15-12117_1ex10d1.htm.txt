@@ -1,0 +1,227 @@
+EX-10.1 2 a15-12117_1ex10d1.htm EX-10.1
+**Exhibit 10.1**
+**_SIXTH AMENDMENT TO_**
+**_AMENDED AND RESTATED CREDIT AGREEMENT_**
+This Sixth Amendment to Amended and Restated Credit Agreement (the  _Amendment_ ), is made this 2nd day of April, 2015 among **CROCS, INC.** , a corporation organized under the laws of the State of Delaware ( _Crocs_ ), **CROCS RETAIL, LLC** , a limited liability company organized under the laws of the State of Colorado ( _Retail_ ), **OCEAN MINDED, INC.** , a corporation organized under the laws of the State of Colorado ( _Ocean_ ), **JIBBITZ, LLC,** a limited liability company organized under the laws of the State of Colorado ( _Jibbitz_ ), **BITE, INC.** , a corporation organized under the laws of the State of Colorado ( _Bite_ , together with Crocs, Retail, Ocean, Jibbitz and each other Person joined as a borrower from time to time to the Credit Agreement (as defined below), collectively  _Borrowers_  and each a  _Borrower_ ), the Lenders who have executed this Amendment and constitute Required Lenders (collectively, the  _Consenting Lenders_  and each individually a  _Consenting Lender_ ) and **PNC BANK, NATIONAL ASSOCIATION**( _PNC_ ), as agent for Lenders (PNC, in such capacity, the  _Administrative Agent_ ). All capitalized terms used and not otherwise defined herein shall have the meaning ascribed thereto in the below-defined Credit Agreement, as amended hereby.
+**_BACKGROUND_**
+A. On December 16, 2011, Borrowers, Lenders and Administrative Agent entered into, _inter alia_ , that certain Amended and Restated Credit Agreement (as same has been or may hereafter be amended, modified, renewed, extended, restated or supplemented from time to time, including without limitation as amended by that certain First Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of December 10, 2012, that certain Second Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of June 12, 2013, that certain Third Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of December 27, 2013, that certain Fourth Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of March 27, 2014, and that certain Fifth Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of September 26, 2014, the  _Credit Agreement_ ) to reflect certain financing arrangements among the parties thereto.
+B. Borrowers have requested and Administrative Agent and Consenting Lenders have agreed to modify certain terms and provisions of the Credit Agreement on the terms and subject to the conditions contained in this Amendment.
+**NOW, THEREFORE** , in consideration of the mutual promises contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+**_Section 1._** **_Amendments to Credit Agreement_**. Upon the Effective Date (as defined below):
+(a) _Revolving Credit Commitments_. All references in the Credit Agreement to Revolver Commitments shall be deemed to refer to Revolving Credit Commitments.
+* * *
+
+
+(b) _Revolving Facility Usage_. All references in the Credit Agreement to Revolver Facility Usage shall be deemed to refer to Revolving Facility Usage.
+(c) _Global Cash_. The definition of Global Cash in Section 1.1 of the Credit Agreement is amended and restated as follows:
+_Global Cash_ means unrestricted cash of the Borrowers on a Consolidated Basis maintained in deposit accounts, as evidenced by the Borrowers most recent financial statements, and as confirmed on a Compliance Certificate; _provided_ , _however_ , that Global Cash shall not include cash of any Foreign Subsidiary that is subject to a Lien securing any Indebtedness of such Foreign Subsidiary.
+(d) _LIBOR Rate_. The following is hereby added as the last sentence of the definition of LIBOR Rate in Section 1.1 of the Credit Agreement:
+Notwithstanding the foregoing, if the LIBOR Rate determined as provided above would be less than zero, such rate shall be deemed to be zero for purposes of this Agreement.
+(e) _Permitted Liens_. The definition of Permitted Liens in Section 1.1 of the Credit Agreement is hereby amended by deleting the word and at the end of clause (xv) thereof, changing the period at the end of clause (xvi) thereof to ; and and adding the following as clause (xvii) thereof: (xvii) first-priority Liens on assets (other than intellectual property) of a Foreign Subsidiary that is not a Loan Party to the extent such Liens only secure Indebtedness of such Foreign Subsidiary that is permitted under Section 8.2.1(xvi).
+(f) _New Defined Terms_. The following defined terms are added to Section 1.1 of the Credit Agreement in the appropriate alphabetical order:
+_Revolver Availability_ shall mean, as of any date of determination, the difference between the Revolving Facility Usage as of such date of determination and the aggregate Revolving Credit Commitments as of such date of determination.
+(g) _Indebtedness of Foreign Subsidiaries_. Clause (xvi) of Section 8.2.1 of the Credit Agreement is amended and restated in its entirety to read as follows:
+(xvi) Indebtedness of Foreign Subsidiaries from third party lenders and guaranties thereof permitted under Section 8.2.3(iii) [Guaranties] in an aggregate amount not to exceed $75,000,000 at any time;
+(h) _Guarantees for Foreign Subsidiaries_. Clause (iii) of Section 8.2.3 of the Credit Agreement is amended and restated in its entirety to read as follows:
+2
+* * *
+
+
+(iii) guaranties by Crocs or any Foreign Subsidiary of Indebtedness not to exceed $75,000,000 in the aggregate outstanding at any time (excluding guaranties of Lender Provided Hedges);
+(i) _Loans and Investments_. Clause (iv) of Section 8.2.4 of the Credit Agreement is amended and restated in its entirety to read as follows:
+(iv) investments in and loans and advances to Foreign Subsidiaries to the extent that (A) such intercompany loans do not exceed $50,000,000 in the aggregate outstanding at any time, (b) no Potential Default or Event of Default has occurred or would occur after giving pro forma effect to such intercompany loans, and (c) Availability is greater than or equal to $35,000,000 after giving pro forma effect to such intercompany loans;
+(j) _Dividends and Related Distributions_. Clauses (iii) and (iv) of Section 8.2.5 of the Credit Agreement are amended and restated in their entirety to read as follows:
+(iii) purchases, redemptions or retirements of equity interests of any Borrower (A) during the period from January 1, 2014 through December 31, 2014 in the amount not exceeding $146,000,000 and (B) so long as (1) the aggregate amount of all such purchases, redemptions or retirements does not exceed (x) $350,000,000 in the aggregate since January 1, 2014 and (y) $200,000,000 in the aggregate in any fiscal year, and (2) at the time of and after giving pro forma effect to such purchases, redemptions or retirements, (I) no Potential Default or Event of Default has occurred and is continuing or would occur, and (II) Revolver Availability is not less than $25,000,000; _provided, however_ , up to $35,000,000 of any purchases, redemptions or retirements of such equity interests of any Borrower made on or after April 1, 2015 shall not be subject to the conditions in the foregoing clause (B)(2);
+(iv) [reserved]; and
+(k) _Minimum Fixed Charge Coverage Ratio_. Section 8.2.14 of the Credit Agreement is amended and restated in its entirety to read as follows:
+8.2.14 _Minimum Fixed Charge Coverage Ratio_. When measured for the four fiscal quarter period ending on each measurement date set forth below, the Loan Parties shall maintain a Fixed Charge Coverage Ratio of not less than the ratio set forth below opposite thereto:
+3
+* * *
+
+
+****
+****
+**Minimum Fixed Charge**
+****
+**Measurement Date**
+****
+**Coverage Ratio**
+****
+March 31, 2015
+1.00 to 1.00
+June 30, 2015
+1.00 to 1.00
+September 30, 2015
+1.00 to 1.00
+December 31, 2015
+1.00 to 1.00
+March 31, 2016
+1.15 to 1.00
+June 30, 2016 and the last day of each fiscal quarter thereafter
+1.25 to 1.00
+Notwithstanding anything to the contrary, for purposes of calculating the Fixed Charge Coverage Ratio for any applicable testing period, any costs incurred in fiscal year 2014 by the Loan Parties in connection with the implementation of a SAP software system, in an aggregate amount not to exceed $30,000,000, shall not be deemed to be Unfunded Capital Expenditures or included in Fixed Charges.
+(l) _Maximum Leverage Ratio_. Section 8.2.15 of the Credit Agreement is amended and restated in its entirety as follows:
+8.2.15 _Maximum Leverage Ratio_. When measured for the four fiscal quarter period ending on each measurement date set forth below, the Loan Parties shall maintain a Leverage Ratio of not more than the ratio set forth below opposite thereto:
+**Measurement Date**
+****
+**Maximum Leverage Ratio**
+****
+March 31, 2015
+4.00 to 1.00
+June 30, 2015
+4.00 to 1.00
+September 30, 2015
+4.00 to 1.00
+December 31, 2015
+4.00 to 1.00
+March 31, 2016
+4.00 to 1.00
+June 30, 2016 and the last day of each fiscal quarter thereafter
+3.75 to 1.00
+(m) _Global Cash_. Section 8.2.16 of the Credit Agreement is amended and restated in its entirety as follows:
+8.2.16 _Global Cash_. The Loan Parties shall at all times maintain Global Cash of not less than $50,000,000, measured as of the last day of each fiscal quarter.
+(n) _Compliance Certificate_. Exhibit 8.3.3 of the Credit Agreement is hereby replaced by Exhibit 8.3.3 attached hereto.
+4
+* * *
+
+
+**_Section 2._** **_Acknowledgment of Guarantors_. **With respect to the amendments to the Credit Agreement effected by this Amendment, each Guarantor signatory hereto hereby acknowledges and agrees to this Amendment and confirms and agrees that its Guaranty Agreement (as modified and supplemented in connection with this Amendment) and any other Loan Document to which it is a party is and shall continue to be, in full force and effect and is hereby ratified and confirmed in all respects except that, upon the effectiveness of, and on and after the date of this Amendment, each reference in such Guaranty or Loan Document to the Credit Agreement, thereunder, thereof or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement as amended or modified by this Amendment. Although Administrative Agent and the Consenting Lenders have informed the Guarantors of the matters set forth above, and the Guarantors have acknowledged the same, each Guarantor understands and agrees that neither Administrative Agent nor any Lender has any duty under the Credit Agreement, the Guaranty Agreements or any other Loan Document to so notify any Guarantor or to seek such an acknowledgement, and nothing contained herein is intended to or shall create such a duty as to any transaction hereafter.
+**_Section 3._** **_Amendment Fee_**. In consideration of the agreements of the Consenting Lenders set forth herein, Borrowers hereby agree, jointly and severally, to pay to Administrative Agent, for the ratable benefit of the Consenting Lenders, an amendment fee in the amount of $50,000 (the  _Amendment Fee_ ), which fee is fully-earned as of and due and payable on the date of this Amendment and is non-refundable once paid.
+**_Section 4._** **_Schedules_**. Administrative Agent and the Consenting Lenders acknowledge and agree that they accept the versions and updates to the Schedules attached hereto as _Exhibit A_ which have been delivered in accordance with Section 6.2 of the Credit Agreement.
+**_Section 5._** **_Conditions Precedent_. **This Amendment shall be effective upon (the  _Effective Date_ ):
+(a) Administrative Agents receipt of this Amendment fully executed by the Borrowers, the Guarantors, Administrative Agent and Consenting Lenders;
+(b) Administrative Agents receipt of the Amendment Fee in U.S. Dollars in immediately available funds; and
+(c) Receipt by Administrative Agent of original stock powers executed by Crocs with respect to each of (1) Stock Certificate Number C-3 for 50,000 shares of common stock of Ocean, and (2) Stock Certificate Number C-3 for 50,000 shares of common stock of Bite.
+**_Section 6._** **_Representations and Warranties_. **Each Loan Party:
+(a) reaffirms all representations and warranties made to Administrative Agent and Lenders under the Credit Agreement and all of the other Loan Documents and confirms that all are true and correct in all material respects as of the date hereof (except (i) to the extent any such representations and warranties specifically relate to a specific date, in which case such representations and warranties were true and correct in all material respects on and as of such
+5
+* * *
+
+
+other specific date, and (ii) to the extent any such representations and warranties are qualified by materiality, in which case such representations and warranties were true and correct in all respects);
+(b) reaffirms all of the covenants contained in the Credit Agreement, covenants to abide thereby until satisfaction in full of the Obligations and termination of the Credit Agreement and the other Loan Documents;
+(c) represents and warrants to the Administrative Agent and the Lenders that no Potential Default or Event of Default has occurred and is continuing under any of the Loan Documents or will result from this Amendment;
+(d) represents and warrants to the Administrative Agent and the Lenders that it has the authority and legal right to execute, deliver and carry out the terms of this Amendment, that such actions were duly authorized by all necessary limited liability company or corporate action, as applicable, and that the officers executing this Amendment on its behalf were similarly authorized and empowered, and that this Amendment does not contravene any provisions of its certificate of incorporation or formation, operating agreement, bylaws, or other formation documents, as applicable, or of any contract or agreement to which it is a party or by which any of its properties are bound; and
+(e) represents and warrants to the Administrative Agent and the Lenders that this Amendment and all assignments, instruments, documents, and agreements executed and delivered in connection herewith, are valid, binding and enforceable in accordance with their respective terms, except as such enforceability may be limited by any applicable bankruptcy, insolvency, moratorium or similar laws affecting creditors rights generally.
+**_Section 7._** **_General Provisions_**.
+(a) _Payment of Expenses_. Borrowers shall pay or reimburse Administrative Agent and Lenders for their reasonable attorneys fees and expenses in connection with the preparation, negotiation and execution of this Amendment and the documents provided for herein or related hereto.
+(b) _Reaffirmation_. Except as modified by the terms hereof, all of the terms and conditions of the Credit Agreement, as amended, and all of the other Loan Documents are hereby reaffirmed by each Loan Party and shall continue in full force and effect as therein written.
+(c) _Third Party Rights_. No rights are intended to be created hereunder for the benefit of any third party donee, creditor, or incidental beneficiary.
+(d) _Headings_. The headings of any paragraph of this Amendment are for convenience only and shall not be used to interpret any provision hereof.
+6
+* * *
+
+
+(e) _Modifications_. No modification hereof or any agreement referred to herein shall be binding or enforceable unless in writing and signed on behalf of the party against whom enforcement is sought.
+(f) _Governing Law_. This Amendment shall be governed by and construed in accordance with the laws of the State of New York applied to contracts to be performed wholly within the State of New York.
+(g) _Counterparts_. This Amendment may be executed in any number of and by different parties hereto on separate counterparts, all of which, when so executed, shall be deemed an original, but all such counterparts shall constitute one and the same agreement. Any signature delivered by a party by facsimile transmission or PDF shall be deemed to be an original signature hereto.
+(_Signature Pages Follow_)
+7
+* * *
+
+
+**IN WITNESS WHEREOF,** the parties hereto have caused this Amendment to be duly executed by their respective officers thereunto duly authorized as of the day and year first above written.
+**_BORROWERS_ :**
+****
+**CROCS, INC.**
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name:
+Jeffrey J. Lasher
+Title:
+Chief Financial Officer
+**CROCS RETAIL, LLC**
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name:
+Jeffrey J. Lasher
+Title:
+Chief Financial Officer
+**OCEAN MINDED INC.**
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name:
+Jeffrey J. Lasher
+Title:
+Chief Financial Officer
+**JIBBITZ, LLC**
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name:
+Jeffrey J. Lasher
+Title:
+Manager
+**BITE, INC.**
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name:
+Jeffrey J. Lasher
+Title:
+Chief Financial Officer
+[Signature Page to Sixth Amendment (Crocs)]
+* * *
+
+
+**_GUARANTORS_ :**
+****
+**WESTERN BRANDS HOLDING COMPANY,
+LLC**
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name:
+Jeffrey J. Lasher
+Title:
+Chief Financial Officer
+[Signature Page to Sixth Amendment (Crocs)]
+* * *
+
+
+**PNC BANK, NATIONAL ASSOCIATION** ,
+as a Lender and as Administrative Agent
+****
+By:
+/s/ Steve C. Roberts
+Name:
+Steve C. Roberts
+Title:
+Vice President
+[Signature Page to Sixth Amendment (Crocs)]
+* * *
+
+
+**JPMORGAN CHASE BANK, N.A.,**
+as a Lender
+****
+By:
+/s/ Monica Popowczak
+Name:
+Monica Popowczak
+Title:
+Authorized Officer
+[Signature Page to Sixth Amendment (Crocs)]
+* * *
+
+
+**HSBC BANK USA, N.A.,**
+as a Lender
+****
+By:
+/s/ Matthew D. Nierenberg
+Name:
+Matthew D. Nierenberg
+Title:
+Vice President
+[Signature Page to Sixth Amendment (Crocs)]
+* * *

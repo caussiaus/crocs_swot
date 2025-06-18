@@ -1,0 +1,11 @@
+# Ignore model files
+/models/*
+!/models/.gitkeep
+
+# Ignore all data files but keep folders
+/data/**
+!/data/.gitkeep
+!/data/raw/
+!/data/raw/.gitkeep
+!/data/processed/
+!/data/processed/.gitkeep

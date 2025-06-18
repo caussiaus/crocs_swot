@@ -1,0 +1,632 @@
+EX-10.1 2 a14-19877_1ex10d1.htm EX-10.1
+**Exhibit 10.1**
+EXECUTION VERSION
+**_FIFTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT_**
+This Fifth Amendment to Amended and Restated Credit Agreement (the  _Amendment_ ), is made this 26th day of September, 2014 among **CROCS, INC.** , a corporation organized under the laws of the State of Delaware ( _Crocs_ ), **CROCS RETAIL, LLC** , a limited liability company organized under the laws of the State of Colorado ( _Retail_ ), **OCEAN MINDED, INC.** , a corporation organized under the laws of the State of Colorado ( _Ocean_ ), **JIBBITZ, LLC,** a limited liability company organized under the laws of the State of Colorado ( _Jibbitz_ ), **BITE, INC.** , a corporation organized under the laws of the State of Colorado ( _Bite_ , together with Crocs, Retail, Ocean, Jibbitz and each other Person joined as a borrower from time to time to the Credit Agreement (as defined below), collectively  _Borrowers_  and each a  _Borrower_ ), the financial institutions which are now party to the Credit Agreement as lenders and who execute this Amendment (collectively, the  _Consenting Lenders_  and each individually a  _Consenting Lender_ ) and **PNC BANK, NATIONAL ASSOCIATION**( _PNC_ ), as agent for Lenders (PNC, in such capacity, the  _Administrative Agent_ ).
+**_BACKGROUND_**
+A. On December 16, 2011, Borrowers, Lenders and Administrative Agent entered into, _inter alia_ , that certain Amended and Restated Credit Agreement (as same has been or may hereafter be amended, modified, renewed, extended, restated or supplemented from time to time, including without limitation as amended by that certain First Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of December 10, 2012, that certain Second Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of June 12, 2013, that certain Third Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of December 27, 2013, and that certain Fourth Amendment to Amended and Restated Credit Agreement by and among the parties hereto dated as of March 27, 2014, the  _Credit Agreement_ ) to reflect certain financing arrangements among the parties thereto. The Credit Agreement and all other documents executed in connection therewith to the date hereof are collectively referred to as the  _Existing Financing Agreements_ . All capitalized terms used and not otherwise defined herein shall have the meaning ascribed thereto in the Credit Agreement, as amended hereby.
+B**.****** Borrowers have requested and Administrative Agent and Consenting Lenders have agreed to modify certain terms and provisions of the Credit Agreement on the terms and subject to the conditions contained in this Amendment. For the avoidance of doubt, the Consenting Lenders are sufficient to constitute Required Lenders.
+**NOW, THEREFORE** , in consideration of the mutual promises contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+**_Section 1._********_Consent to Dissolution of Fury, Inc._**
+Administrative Agent and Lenders hereby consent to the dissolution of Fury, Inc., a Colorado corporation, that occurred prior to the date first set forth
+* * *
+
+
+above, and agree that effective as of such dissolution such entity was released from its obligations under the Amended and Restated Guaranty and Suretyship Agreement that it executed on December 16, 2011. For avoidance of doubt, effective as of the date of its dissolution, Fury, Inc. shall no longer be a Guarantor for purposes of the Credit Agreement or any other Loan Document.
+**_Section 2._********_Consent to Dissolution of RA Footwear, LLC; Post-Closing Covenant._**
+Administrative Agent and Lenders hereby consent to the dissolution of RA Footwear, LLC, a Colorado limited liability company, within ninety (90) days of the Effective Date, and agree that, effective as of the date of dissolution, RA Footwear, LLC shall be released from its obligations under the Amended and Restated Guaranty and Suretyship Agreement that it executed on December 16, 2011. For avoidance of doubt, effective as of the date of its dissolution, RA Footwear, LLC shall no longer be a Guarantor for purposes of the Credit Agreement or any other Loan Document.
+Within five (5) Business Days after the dissolution of RA Footwear, LLC, Borrowers shall deliver to Administrative Agent: (a) evidence of dissolution of RA Footwear, LLC; and (b) evidence of the assignment of all assets of RA Footwear, LLC to a Borrower.
+**_Section 3._********_Amendments to Credit Agreement_****.**
+(a) Definitions. Upon the Effective Date, the following defined terms shall be added to Section 1.1 of the Credit Agreement in the appropriate alphabetical order:
+_Covered Entity_ shall mean (a) each Borrower, each Subsidiary of each Borrower, all Guarantors and all pledgors of Collateral and (b) each Person that, directly or indirectly, is in control of a Person described in clause (a) above. For purposes of this definition, control of a Person shall mean the direct or indirect (x) ownership of, or power to vote, 25% or more of the issued and outstanding equity interests having ordinary voting power for the election of directors of such Person or other Persons performing similar functions for such Person, or (y) power to direct or cause the direction of the management and policies of such Person whether by ownership of equity interests, contract or otherwise.
+_Reportable Compliance Event_ shall mean that any Covered Entity becomes a Sanctioned Person, or is charged by indictment, criminal complaint or similar charging instrument, arraigned, or custodially detained in connection with any Anti-Terrorism Law or any predicate crime to any Anti-Terrorism Law, or has knowledge of facts or circumstances to the effect that it is reasonably likely that any aspect of its operations is in actual or probable violation of any Anti-Terrorism Law.
+2
+* * *
+
+
+_Sanctioned Country_ shall mean a country that is the subject of, or a target of, a sanctions program maintained under any Anti-Terrorism Law.
+_Sanctioned Person_ shall mean any individual person, group, regime, entity or thing listed or otherwise recognized as a specially designated, prohibited, sanctioned or debarred person, group, regime, entity or thing, the subject of, or target of, any limitations or prohibitions (including but not limited to the blocking of property or rejection of transactions), under any Anti-Terrorism Law.
+(b) Definitions. Upon the Effective Date, the reference to the British Bankers Association within the definition of LIBOR Rate in Section 1.1 of the Credit Agreement shall be replaced by a reference to the ICE Benchmark Administration Limited.
+(c) Definitions. Upon the Effective Date, the following definitions in Section 1.1 of the Credit Agreement shall be amended and restated in their entirety as follows:
+_Anti-Terrorism Laws_ shall mean any Laws relating to terrorism, trade sanctions programs and embargoes, import/export licensing, money laundering or bribery, and any regulation, order, or directive promulgated, issued or enforced pursuant to such Laws (including without limitation, any Laws enforced or administered by the United States Treasury Departments Office of Foreign Asset Control or the United States State Department) all as amended, supplemented or replaced from time to time.
+_Consolidated EBITDAR_ shall mean for any period the sum of (i) net income (or loss) of Borrowers on a Consolidated Basis for such period (excluding, in each case to the extent incurred or charged during the applicable period: (w) one-time non-cash charges with the consent of Administrative Agent in the aggregate not to exceed $15,000,000 in any trailing twelve month period ending through December 31, 2015, and one-time non-cash charges with the consent of Administrative Agent in the aggregate not to exceed $25,000,000 for any trailing twelve month period ending thereafter, (x) any transaction costs associated with the Preferred Stock Issuance in an amount not to exceed $30,000,000 in the aggregate to the extent paid within 180 days of the closing of the Preferred Stock Issuance, (y) cash and non-cash charges incurred during the period beginning January 1, 2013 and ending June 30, 2014 in connection with store closings or restructuring, charges for inventory obsolescence, other corporate restructuring activities or contingent liabilities, in an amount not to exceed $25,000,000 in the aggregate or $10,000,000 with respect to cash
+3
+* * *
+
+
+charges), and (z) cash and non-cash charges incurred during the period beginning July 1, 2014 and ending December 31, 2015 in connection with corporate restructuring activities, including, but not limited to, retail restructuring, costs associated with the transition from a direct to distribution model in foreign markets, inventory charges and write-offs, global staff reductions and personnel charges, new office locations, charges associated with the Borrowers SAP software system, charges relating to the exit, sublease and other costs associated with the company plane, other corporate restructuring activities or contingent liabilities, in an amount not to exceed $60,000,000 in the aggregate or $45,000,000 with respect to cash charges, plus (ii) all interest expense of Borrowers on a Consolidated Basis for such period, plus (iii) all charges against income of Borrowers on a Consolidated Basis for such period for federal, state and local taxes, plus (iv) depreciation expenses for such period, plus (v) amortization expenses for such period, plus (vi) non-cash share based compensation expenses, plus (vii) Borrowers aggregate Rental Expenses for such period.
+(d) Section 6.1.16 Anti-Terrorism Representations and Warranties. Upon the Effective Date, the following shall be added as a new Section 6.1.16 of the Credit Agreement:
+6.1.16. _Anti-Terrorism Laws_. (i) no Covered Entity is a Sanctioned Person and (ii) no Covered Entity, either in its own right or through any third party, (A) has any of its assets in a Sanctioned Country or in the possession, custody or control of a Sanctioned Person in violation of any Anti-Terrorism Law; (B) does business in or with, or derives any of its income from investments in or transactions with, any Sanctioned Country or Sanctioned Person in violation of any Anti-Terrorism Law; or (C) engages in any dealings or transactions prohibited by any Anti-Terrorism Law.
+(e) Section 8.2.14 Minimum Fixed Charge Coverage Ratio. Upon the Effective Date, Section 8.2.14 of the Credit Agreement shall be amended and restated in its entirety as follows:
+8.2.14 _Minimum Fixed Charge Coverage Ratio_. The Loan Parties shall not permit the Fixed Charge Coverage Ratio to be less than the following ratios for the following time periods, in each case calculated as of the end of each fiscal quarter for the four (4) fiscal quarters then ended:
+4
+* * *
+
+
+**Fiscal Quarter Ending**
+****
+**Minimum Fixed Charge
+Coverage Ratio**
+September 30, 2014, December 31, 2014, March 31, 2015, and June 30, 2015
+1.15 to 1.00
+September 30, 2015 and each fiscal quarter thereafter
+1.25 to 1.00
+Notwithstanding anything to the contrary, for purposes of calculating the Fixed Charge Coverage Ratio for any applicable testing period, any costs incurred in fiscal year 2014 by the Loan Parties in connection with the implementation of a SAP software system, in an aggregate amount not to exceed $30,000,000, shall not be deemed to be Unfunded Capital Expenditures or included in Fixed Charges.
+(f) Anti-Terrorism Laws: Upon the Effective Date, Section 8.1.9 of the Credit Agreement shall be amended and restated in its entirety as follows:
+8.1.9 _Anti-Terrorism Laws_. Each Loan Party covenants and agrees that (i) no Covered Entity will become a Sanctioned Person, (ii) no Covered Entity, either in its own right or through any third party, will (A) have any of its assets in a Sanctioned Country or in the possession, custody or control of a Sanctioned Person in violation of any Anti-Terrorism Law; (B) do business in or with, or derive any of its income from investments in or transactions with, any Sanctioned Country or Sanctioned Person in violation of any Anti-Terrorism Law; (C) engage in any dealings or transactions prohibited by any Anti-Terrorism Law or (D) use the Loans or any Letter of Credit to fund any operations in, finance any investments or activities in, or, make any payments to, a Sanctioned Country or Sanctioned Person in violation of any Anti-Terrorism Law, (iii) the funds used to repay the Obligations will not be derived from any unlawful activity, (iv) each Covered Entity shall comply with all Anti-Terrorism Laws and (v) the Loan Parties shall promptly notify the Administrative Agent in writing upon the occurrence of a Reportable Compliance Event.
+(g) _Foreign Borrowers_. Upon the Effective Date, the period at the end of Section 11.2.4 shall be replaced by ; or, and the following shall be added as a new Section 11.2.5:
+11.2.5 _Foreign Borrower_. Join as a Borrower any Person that is organized or incorporated in any jurisdiction other than the United States or any State or territory thereof without the consent of all Lenders.
+5
+* * *
+
+
+**_Section 4._********_Acknowledgment of Guarantors_****.**
+(a) By execution of this Amendment, each Guarantor hereby covenants and agrees that each of the Amended and Restated Guaranty and Suretyship Agreements dated December 16, 2011 shall remain in full force and effect and shall continue to cover the existing and future Obligations of Borrowers to Administrative Agent and Lenders under the Credit Agreement.
+(b) Each Guarantor further agrees that upon the Effective Date the following language shall be added as a new Section 22 to the Amended and Restated Guaranty and Suretyship Agreement executed by such Guarantor:
+22\. Keepwell. If Guarantor is a Qualified ECP Loan Party, then Guarantor, jointly and severally, together with each other Qualified ECP Loan Party, hereby absolutely unconditionally and irrevocably (a) guarantees the prompt payment and performance of all Swap Obligations owing by each Non-Qualifying Party (it being understood and agreed that this guarantee is a guaranty of payment and not of collection), and (b) undertakes to provide such funds or other support as may be needed from time to time by any Non-Qualifying Party to honor all of such Non Qualifying Partys obligations under the Credit Agreement or any other Loan Document in respect of Swap Obligations (provided, however, that Guarantor shall only be liable under this Section 22 for the maximum amount of such liability that can be hereby incurred without rendering its obligations under this Section 22, or otherwise under this Guaranty, the Credit Agreement or any other Loan Document, voidable under applicable law, including applicable law relating to fraudulent conveyance or fraudulent transfer, and not for any greater amount). The obligations of Guarantor under this Section 22 shall remain in full force and effect until payment in full of the Obligations and termination of this Guaranty, the Credit Agreement and the other Loan Documents. Guarantor intends that this Section 22 constitute, and this Section 22 shall be deemed to constitute, a guarantee of the obligations of, and a keepwell, support, or other agreement for the benefit of each other Guarantor and each Borrower or any other Guarantor for all purposes of Section 1a(18)(A)(v)(II) of the CEA.
+As used in this Section 22, the following terms shall have the following meanings:
+_CEA_ shall mean the Commodity Exchange Act (7 U.S.C.§1 et seq.), as amended from time to time, and any successor statute.
+6
+* * *
+
+
+_CFTC_ shall mean the Commodity Futures Trading Commission.
+_Eligible Contract Participant_ shall mean an eligible contract participant as defined in the CEA and regulations thereunder.
+_Eligibility Date_ shall mean, with respect to each Swap, the date on which this Guaranty or any other Loan Document becomes effective with respect to such Swap (for the avoidance of doubt, the Eligibility Date shall be the effective date of such Swap if this Guaranty or any other Loan Document is then in effect with respect to Guarantor).
+_Non-Qualifying Party_ shall mean any Person that on the Eligibility Date fails for any reason to qualify as an Eligible Contract Participant.
+_Qualified ECP Loan Party_ shall mean each Person that on the Eligibility Date is (a) a corporation, partnership, proprietorship, organization, trust, or other entity other than a commodity pool as defined in Section 1a(10) of the CEA and CFTC regulations thereunder that has total assets exceeding $10,000,000 or (b) an Eligible Contract Participant that can cause another person to qualify as an Eligible Contract Participant on the Eligibility Date under Section 1a(18)(A)(v)(II) of the CEA by entering into or otherwise providing a letter of credit or keepwell, support, or other agreement for purposes of Section 1a(18)(A)(v)(II) of the CEA.
+_Swap_ shall mean any swap as defined in Section 1a(47) of the CEA and regulations thereunder other than (a) a swap entered into on, or subject to the rules of, a board of trade designated as a contract market under Section 5 of the CEA, or (b) a commodity option entered into pursuant to CFTC Regulation 32.3(a).
+_Swap Obligation_ means any obligation of a Loan Party to pay or perform under any agreement, contract or transaction that constitutes a Swap which is also a Lender-Provided Hedge.
+**_Section 5._********_Conditions Precedent_****.** This Amendment shall be effective upon (the  _Effective Date_ ):
+(a) Administrative Agents receipt of this Amendment fully executed by the Borrowers, the Guarantors, Administrative Agent and Consenting Lenders;
+(b) Administrative Agent shall have received a non refundable amendment fee in the amount of $75,000, which fee shall be fully earned upon
+7
+* * *
+
+
+execution hereof and payable pro rata to all Consenting Lenders who consent to this Amendment in accordance with such Consenting Lenders Commitment percentage; and
+(c) Receipt by Administrative Agent of evidence of dissolution of Fury, Inc.
+**_Section 6._********_Schedules_****.** Administrative Agent and the Consenting Lenders acknowledge and agree that they accept the revisions and updates to the Schedules attached hereto as _Exhibit A_ which have been delivered in accordance with Section 6.2 of the Credit Agreement.
+**_Section 7._********_Representations and Warranties_****.** Each Loan Party:
+(a) reaffirms all representations and warranties made to Administrative Agent and Lenders under the Credit Agreement and all of the other Existing Financing Agreements and confirms that all are true and correct in all material respects as of the date hereof (except (i) to the extent any such representations and warranties specifically relate to a specific date, in which case such representations and warranties were true and correct in all material respects on and as of such other specific date, and (ii) to the extent any such representations and warranties are qualified by materiality, in which case such representations and warranties were true and correct in all respects);
+(b) reaffirms all of the covenants contained in the Credit Agreement, covenants to abide thereby until satisfaction in full of the Obligations and termination of the Credit Agreement and the other Loan Documents;
+(c) represents and warrants to the Administrative Agent and the Lenders that no Potential Default or Event of Default has occurred and is continuing under any of the Existing Financing Agreements or will result from this Amendment;
+(d) represents and warrants to the Administrative Agent and the Lenders that it has the authority and legal right to execute, deliver and carry out the terms of this Amendment, that such actions were duly authorized by all necessary limited liability company or corporate action, as applicable, and that the officers executing this Amendment on its behalf were similarly authorized and empowered, and that this Amendment does not contravene any provisions of its certificate of incorporation or formation, operating agreement, bylaws, or other formation documents, as applicable, or of any contract or agreement to which it is a party or by which any of its properties are bound; and
+(e) represents and warrants to the Administrative Agent and the Lenders that this Amendment and all assignments, instruments, documents, and agreements executed and delivered in connection herewith, are valid, binding and enforceable in accordance with their respective terms, except as such enforceability may be limited by any applicable bankruptcy, insolvency, moratorium or similar laws affecting creditors rights generally.
+8
+* * *
+
+
+**_Section 8._********_General Provisions_**.
+(a) Payment of Expenses. Borrowers shall pay or reimburse Administrative Agent and Lenders for their reasonable attorneys fees and expenses in connection with the preparation, negotiation and execution of this Amendment and the documents provided for herein or related hereto.
+(b) Reaffirmation of Credit Agreement. Except as modified by the terms hereof, all of the terms and conditions of the Credit Agreement, as amended, and all of the other Existing Financing Agreements are hereby reaffirmed and shall continue in full force and effect as therein written.
+(c) Third Party Rights. No rights are intended to be created hereunder for the benefit of any third party donee, creditor, or incidental beneficiary.
+(d) Headings. The headings of any paragraph of this Amendment are for convenience only and shall not be used to interpret any provision hereof.
+(e) Modifications. No modification hereof or any agreement referred to herein shall be binding or enforceable unless in writing and signed on behalf of the party against whom enforcement is sought.
+(f) Governing Law. This Amendment shall be governed by and construed in accordance with the laws of the State of New York applied to contracts to be performed wholly within the State of New York.
+(g) Counterparts. This Amendment may be executed in any number of and by different parties hereto on separate counterparts, all of which, when so executed, shall be deemed an original, but all such counterparts shall constitute one and the same agreement. Any signature delivered by a party by facsimile transmission or PDF shall be deemed to be an original signature hereto.
+(_Signature Pages Follow_)
+9
+* * *
+
+
+**IN WITNESS WHEREOF,** the parties hereto have caused this Amendment to be duly executed by their respective officers thereunto duly authorized as of the day and year first above written.
+****
+**_BORROWERS_****:**
+****
+****
+****
+**CROCS, INC.**
+****
+****
+****
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+****
+**CROCS RETAIL, LLC**
+****
+****
+****
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+****
+**OCEAN MINDED, INC.**
+****
+****
+****
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+****
+**JIBBITZ, LLC**
+****
+****
+****
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Manager
+****
+**BITE, INC.**
+****
+****
+****
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+[Signature Page to Fifth Amendment]
+S-1
+* * *
+
+
+****
+**_GUARANTORS_****:**
+****
+****
+****
+**WESTERN BRANDS HOLDING COMPANY, LLC**
+****
+****
+****
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Chief Financial Officer
+****
+**RA FOOTWEAR, LLC**
+****
+****
+****
+****
+****
+By:
+/s/ Jeffrey J. Lasher
+Name: Jeffrey J. Lasher
+Title: Authorized Representative
+[Signature Page to Fifth Amendment]
+S-2
+* * *
+
+
+****
+**_ADMINISTRATIVE AGENT AND LENDERS_****:**
+****
+****
+****
+**PNC BANK, NATIONAL ASSOCIATION,** As
+Lender and as Administrative Agent
+By:
+/s/ Steve C. Roberts
+Name:
+Steve C. Roberts
+Title:
+Vice President
+****
+**JPMORGAN CHASE BANK, N.A.,** as Lender
+****
+****
+****
+****
+****
+By:
+/s/ Monica Popowczak
+Name:
+Monica Popowczak
+Title:
+Authorized Officer
+****
+**HSBC BANK USA, N.A.,** as Lender
+****
+****
+****
+****
+****
+By:
+/s/ Hans Lin # 19708
+Name:
+Hans Lin
+Title:
+Senior Vice President
+[Signature Page to Fifth Amendment]
+S-3
+* * *
+
+
+**Exhibit A**
+****
+**Updates to Schedules**
+See attached
+* * *
+
+
+SCHEDULE 6.1.1
+QUALIFICATIONS TO DO BUSINESS
+**Entity**
+****
+**Jurisdictions**
+**_Crocs, Inc._**
+Arizona
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Kansas
+Kentucky
+Maryland
+Massachusetts
+Michigan
+Missouri
+Nebraska
+Nevada
+New Jersey
+North Carolina
+Ohio
+Pennsylvania
+South Carolina
+Tennessee
+Texas
+Utah
+Washington
+Wisconsin
+**_Crocs Retail, LLC_**
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+* * *
+
+
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+**_Ocean Minded, Inc._**
+California
+Colorado
+**_Jibbitz LLC_**
+Colorado
+**_Bite, Inc._**
+Colorado
+* * *
+
+
+SCHEDULE 6.1.2
+SUBSIDIARIES
+**Subsidiary**
+****
+**Jurisdiction**
+****
+**Outstanding Equity Interests**
+****
+**Holder(s) of Equity****
+****Interests/Percentage Ownership**
+Western Brands Holding Company, LLC
+Colorado
+N/A
+Crocs, Inc.  100%
+Crocs Retail, LLC
+Colorado
+N/A
+Crocs, Inc.  100%
+RA Footwear, LLC
+Colorado
+Membership Interests
+Crocs, Inc.  100%
+Western Brands Netherlands Holding C.V.
+Netherlands
+N/A
+Crocs, Inc.  80.48%
+Western Brands Holding Company  19.52%
+Crocs Puerto Rico, Inc.
+Puerto Rico
+1 common share
+Crocs, Inc.  100%
+Crocs Marine Ltd.
+Cayman Islands
+1 share
+Crocs, Inc.  100%
+4246519 Canada Inc.
+Canada
+20,101,625 common shares
+Western Brands Netherlands Holding C.V.  100%
+Ocean Minded, Inc.
+Colorado
+50,000 shares of common stock
+Western Brands Netherlands Holding C.V.  100%
+Jibbitz LLC
+Colorado
+Membership Interests
+Western Brands Netherlands Holding C.V.  100%
+Bite, Inc.
+Colorado
+50,000 shares
+Western Brands Netherlands Holding C.V.  100%
+Crocs General Partner LLC
+Delaware
+Membership Interests
+Western Brands Netherlands Holding C.V.  0.56%
+Western Brands Holding Company  99.44%
+Colorado Footwear C.V.
+Netherlands
+N/A
+Western Brands Netherlands Holding C.V.  99.97%
+Crocs General Partner LLC  0.03%
+Crocs Canada Inc.
+Canada
+54,320 Class A shares; 52,000 Class B shares; 135,316 Class C shares
+4246619 Canada Inc.  100%
+Exo Italia S.R.L.
+Italy
+N/A
+Colorado Footwear C.V.  100%
+Crocs Europe B.V.
+Netherlands
+18,000 shares
+Colorado Footwear C.V.  100%
+Crocs Brazil Comercio de Calcados Ltda
+Brazil
+21,193,817 (quotas)
+Colorado Footwear C.V.  99.99%
+Crocs US Latin American Holdings, LLC  0.0000005%
+Crocs US Latin American Holdings, LLC
+Delaware
+Membership Interests
+Colorado Footwear C.V.  100%
+Crocs Italy S.r.l.
+Italy
+1
+Crocs Europe B.V.  100%
+Crocs Europe Stores S.L.
+Spain
+23,000 shares
+Crocs Europe B.V.  100%
+Crocs Stores Ireland Limited
+Ireland
+10 shares
+Crocs Europe B.V.  100%
+Crocs Belgium NV
+Belgium
+61,500 shares
+Crocs Europe B.V.  99.998%
+Crocs Stores B.V.  0.002%
+Crocs Portugal, Lda.
+Portugal
+2 shares
+Crocs Europe B.V.  98%
+Crocs Stores B.V. - 2%
+Crocs Stores B.V.
+Netherlands
+180 shares
+Crocs Europe B.V.  100%
+Crocs Germany GmbH
+Germany
+1 share
+Crocs Europe B.V.  100%
+Crocs UK Limited
+United Kingdom
+1,000 shares
+Crocs Europe B.V.  100%
+Crocs France S.A.R.L.
+France
+100,000 shares
+Crocs Europe B.V.  100%
+Crocs Nordic OY
+Finland
+100 shares
+Crocs Europe B.V.  100%
+Crocs BH LLC
+Bosnia-Herzgovina
+1
+Crocs Europe B.V.  100%
+* * *
+
+
+LLC Crocs CIS
+Russia
+N/A
+Crocs Europe B.V.  99%
+Crocs Stores B.V.  1%
+Panama Footwear S. De R.L.
+Panama
+N/A
+Crocs Europe B.V.  99%
+Colorado Footwear C.V.  1%
+Crocs NL Latin American Holdings B.V.
+Netherlands
+N/A
+Crocs Brazil Comercio de Calcados Ltda  100%
+Crocs Stores OY
+Finland
+2,500 shares
+Crocs Nordic OY  100%
+Crocs Stores AB
+Sweden
+N/A
+Crocs Nordic OY  100%
+Crocs Mexico Trading
+Mexico
+N/A
+Crocs NL Latin American Holdings B.V.  99%
+Crocs Mexico SRL de CV  1%
+Crocs Mexico SRL de CV
+Mexico
+N/A
+Crocs NL Latin American Holdings B.V.  99.99%
+Crocs US Latin American Holdings, LLC  0.0000006%
+Crocs Servicios SRL de CV
+Mexico
+N/A
+Crocs NL Latin American Holdings B.V.  99.97%
+Crocs US Latin American Holdings, LLC  0.33%
+Crocs S.R.L.
+Argentina
+N/A
+Crocs NL Latin American Holdings B.V.  89.95%
+Crocs US Latin American Holdings, LLC  10.05%
+Crocs Chile Ltda.
+Chile
+N/A
+Crocs NL Latin American Holdings B.V.  99%
+Crocs US Latin American Holdings, LLC  1%
+Crocs Asia Pte Ltd.
+Singapore
+N/A
+Colorado Footwear C.V.  100%
+Crocs Asia Pte Ltd.
+Japan
+N/A
+Crocs Asia Pte Ltd.  100%
+Crocs Korea Pte Ltd.
+South Korea
+50,000 shares
+Crocs Asia Pte Ltd.  100%
+Crocs Hong Kong Ltd.
+Hong Kong
+N/A
+Crocs Asia Pte Ltd.  100%
+Crocs Malaysia Sdn Bhd
+Malaysia
+99,998 shares
+Crocs Asia Pte Ltd.  100%
+Crocs Japan GK
+Japan
+N/A
+Crocs Asia Pte Ltd.  100%
+Crocs Footwear and Accessories (FICE2)
+China
+N/A
+Crocs Hong Kong Ltd.  100%
+Crocs Trading (Shanghai) Co. Ltd.
+China
+N/A
+Crocs Hong Kong Ltd.  100%
+Shanghai Shengyiguan
+China
+N/A
+Crocs Footwear and Accessories (FICE2)  100%
+Crocs Japan GK
+Taiwan
+N/A
+Crocs Japan GK  100%
+Crocs Industrial (Hong Kong) Co. Ltd.
+Hong Kong
+N/A
+Crocs Japan GK  100%
+Crocs Singapore Pte Ltd.
+Singapore
+1 share
+Crocs Japan GK  100%
+Crocs India Private Limited
+India
+N/A
+Crocs Japan GK  100%
+Crocs New Zealand
+New Zealand
+N/A
+Crocs Japan GK  100%
+Crocs Australia Pty Ltd.
+Australia
+N/A
+Crocs Japan GK  100%
+Crocs South Africa (Proprietary) Limited
+South Africa
+928 shares
+Crocs Japan GK  100%
+Crocs Industrial (Shenzhen) Co. Ltd.
+China
+N/A
+Crocs Industrial (Hong Kong) Co. Ltd.  100%
+Crocs Middle East
+UAE
+N/A
+Crocs Singapore Pte Ltd.  100%
+Crocs Gulf JV
+UAE
+N/A
+Crocs Singapore Pte Ltd.  49% Abdulla Majed Khalfan  51%
+Crocs Vietnam, Ltd.
+Vietnam
+N/A
+Crocs Japan GK  100%
+* * *
+
+
+SCHEDULE 6.1.5
+LITIGATION
+The Borrowers are subject to litigation from time to time in the ordinary course of business, including employment, intellectual property and product liability claims. The Borrowers are not currently party to pending legal proceedings that the Company believes, if adversely determine, could result in a material Adverse Change, with the following possible exceptions.
+1. In re Crocs Securities Litigation, Case No. 07-CV-02351-REB-KLM (consolidated with Case Nos. 07-CV-02412-MSK, 07-CV-02454-EWN, 07-CB-02465-WYD and 07-CV- 02469-DEM). Crocs, Inc. and certain current and former officers and directors have been named as defendants in complaints filed by investors in the United States District Court for the District of Colorado. The first complaint was filed in November 2007 and several other complaints were filed shortly thereafter. These actions were consolidated and, in September 2008, the District Court appointed a lead plaintiff and counsel. An amended consolidated complaint was filed in December 2008. The amended complaint purports to state claims under Section 10(b), 20(a), and 20A of the Exchange Act on behalf of a class of all persons who purchased the Companys common stock between April 2, 2007 and April 14, 2008 (the Class Period). The amended complaint also added the Companys independent auditor as a defendant. The amended complaint alleges that, during the Class Period, the defendants made false and misleading public statements about the Company and its business and prospects and, as a result, the market price of its common stock was artificially inflated. The amended complaint also claims that certain current and former officers and directors traded in the Companys common stock on the basis of material non-public information. The amended complaint seeks compensatory damages on behalf of the alleged class in an unspecified amount, including interest, and also added attorneys fees and costs of litigation. On February 28, 2011, the District Court granted motions to dismiss filed by the defendants and dismissed all claims. A final judgment was thereafter entered. Plaintiffs subsequently appealed to the United States Court of Appeals for the Tenth Circuit.
+The Company and those current and former officers and directors named as defendants have entered into a Stipulation of Settlement with the plaintiffs that would, if approved by the United States District Court for the District of Colorado, resolve all claims asserted against the Company by the plaintiffs on behalf of the putative class, and plaintiffs appeal would be dismissed. The Companys independent auditor is not a party to the Stipulation of Settlement. The Stipulation of Settlement received preliminary approval from the District Court on August 28, 2013. It remains subject to customary conditions, including final court approval following notice to stockholders. On February 13, 2014, a final settlement hearing took place and the parties are awaiting a ruling in conjunction with the same. If the settlement becomes final, all amounts required by the settlement will be paid by the Companys insurers.
+2. The Company is currently subject to an audit by U.S. Customs & Border Protection (CBP) in respect of the period from 2006 to 2010. In October 2013, CBP issued a
+* * *
+
+
+revised final audit report to which the Company filed comments and objections. CBP has stated that a final report. In that report, CBP projects that unpaid duties totaling approximately $12.4 million are due for the period under review (a reduction from $14.3 million in the preliminary draft report issued in 2012). The Company has responded that these projections are erroneous and provided arguments that demonstrate the amount due in connection with this matter is considerably less than the projection. CBP has stated that the final report will recommend collection of the duties due. At this time, it is not possible to determine precisely when a notice of claim will be received from CBP, but currently we anticipate a notice of claim could be received sometime in the third quarter of 2014. Likewise, it is not possible to predict with any certainty whether CBP will seek to assert a claim for penalties in addition to any unpaid duties, but such an assertion is a possibility.
+3. Mexicos Federal Tax Authority (SAT) audited the period from January 2006 to July 2011. There were two phases to the audit, the first for capital equipment and finished goods and the second for raw materials. The first phase was completed and no major discrepancies were noted by the SAT. On January 9, 2013, the Company received a notice for the second phase in which the SAT issued a tax assessment (taxes and penalties) of roughly 280.0 million pesos (approximately $22.0 million) based on the value of all of the Companys imported raw materials during the audit period. The Company believes that the proposed penalty amount is unfounded and without merit. With the help of local counsel, the Company filed an appeal by the deadline of March 15, 2013. The Company argued that the amount due in connection with the matter, if any, is substantially less than that proposed by the SAT. In connection with the appeal, the SAT required the Company to post an appeal surety bond in the amount of roughly 321.0 million pesos (approximately $26.0 million), which amount reflects estimated additional penalties and interest if the Company is not successful on its appeal. This amount will be adjusted on an annual basis. The Company expects it to take between two and three years for resolution of this matter in the Mexican courts. It is not possible at this time to predict the outcome of this matter or reasonably estimate any potential loss.
+* * *

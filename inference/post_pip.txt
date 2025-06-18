@@ -1,0 +1,7 @@
+# 4-bit / GPTQ / quant utilities
+auto-gptq==0.7.0
+bitsandbytes==0.43.1
+
+# FinBERT & model hub helpers
+transformers
+
