@@ -1,7 +1,7 @@
 """
 Phase 4: Insider Trading Anomaly Detection (Form 4)
-- Input: inference/data/raw/*_4.jsonl
-- Output: inference/data/features/*_insider_activity.parquet
+- Input: data/raw/*_4.jsonl
+- Output: data/features/*_insider_activity.parquet
 
 Steps:
   1. Parse Form 4 transactions (A vs D)

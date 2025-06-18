@@ -34,7 +34,7 @@ except ImportError:
     warnings.warn("faiss not installed – duplicate suppression disabled", RuntimeWarning)
 
 # ─── paths ──────────────────────────────────────────────────────────────────
-BASE = Path("/home/tempuser/projects/crocs_data/inference/data/processed/heading_preserved")
+BASE = Path("data/processed/heading_preserved")
 OUT_BASE = BASE  # If output is still needed, write to the same heading_preserved folder
 SUBDIRS = ["10-K", "10-Q"]
 

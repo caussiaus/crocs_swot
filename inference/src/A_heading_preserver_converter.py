@@ -138,9 +138,9 @@ def main(argv: list[str] | None = None) -> None:
         out_path.write_text(text, encoding="utf8")
 
 def batch_process_raw_to_processed():
-    """Process all 10-K and 10-Q files from inference/data/raw to inference/data/processed/heading_preserved."""
-    base_in = Path(__file__).parent.parent / "data" / "raw"
-    base_out = Path(__file__).parent.parent / "data" / "processed" / "heading_preserved"
+    """Process all 10-K and 10-Q files from data/raw to data/processed/heading_preserved."""
+    base_in = Path(__file__).parent.parent.parent / "data" / "raw"
+    base_out = Path(__file__).parent.parent.parent / "data" / "processed" / "heading_preserved"
     
     # Track metadata for all processed files
     all_metadata = []
@@ -179,7 +179,7 @@ def batch_process_raw_to_processed():
 
 if __name__ == "__main__":
     if len(sys.argv) == 1:
-        print("No arguments provided. Running batch mode for inference/data/raw/10-K and 10-Q...")
+        print("No arguments provided. Running batch mode for data/raw/10-K and 10-Q...")
         batch_process_raw_to_processed()
     else:
         main()

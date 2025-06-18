@@ -20,7 +20,7 @@ import torch, numpy as np
 from transformers import (AutoTokenizer, AutoModelForCausalLM, pipeline,
                           BitsAndBytesConfig)
 # ── paths ──────────────────────────────────────────────────────────────────
-BASE   = Path("/home/tempuser/projects/crocs_data/inference/data/processed/heading_preserved")
+BASE   = Path("data/processed/heading_preserved")
 META_JSON = BASE / "processing_metadata.json"  # From A_heading_preserver_converter.py
 MODEL_DIR = Path(__file__).resolve().parents[2] / "models" / "Mistral-7B-Instruct-v0.3"
 OUT_DIR  = Path("yearly_swot"); OUT_DIR.mkdir(exist_ok=True)
