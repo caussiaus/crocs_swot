@@ -1,0 +1,196 @@
+{
+  "2011": {
+    "Opportunity": {
+      "count": 251,
+      "summary": " The company has potential for growth due to strong demand for its diverse product line and expansion through acquisitions. However, it faces foreign currency exchange rate risks, which could materially impact revenues and gross profit, as well as increased selling, general, and administrative expenses. Potential future financing may be necessary, but there is no guarantee it will be secured on acceptable terms. Additionally, fluctuations in foreign currency exchange rates may strain liquidity and hinder the timely access and transfer of cash balances between entities."
+    },
+    "Threat": {
+      "count": 1,
+      "summary": "* Higher operating expenses, mainly driven by increased labor and rent costs associated with expansion of retail store network, have led to a 17.5% increase in SG&A expense for the nine months ended Sep 30, 2011.*"
+    },
+    "Weakness": {
+      "count": 2,
+      "summary": "\"Elevated selling, general and administrative expenses in FY11 driven by increased salaries, rent and building costs, and losses on foreign currency transactions due to global headcount expansion and retail store growth.\""
+    }
+  },
+  "2012": {
+    "Opportunity": {
+      "count": 255,
+      "summary": " _Expansion into new markets and maintaining brand image is crucial to executing our long-term growth strategy; revenue volatility and potential adverse effects from foreign currency fluctuations pose challenges to sustaining current revenue levels and growing the business._"
+    },
+    "Threat": {
+      "count": 17,
+      "summary": "The company faces increasing SG&A expenses primarily due to headcount and store expansion, foreign currency transaction gains, foreign exchange rate fluctuations negatively impacting gross profit, and a potential impact from reclassification of prior period amounts."
+    },
+    "Weakness": {
+      "count": 2,
+      "summary": "Increased SG&A expenses resulting from the expansion of the retail channel, coupled with a slight decrease in gross margin, led to reduced segment operating income growth in FY2012."
+    }
+  },
+  "2013": {
+    "Opportunity": {
+      "count": 284,
+      "summary": "\"_Growth in 2013 depends on maintaining brand image, expanding distribution channels, streamlining supply chain, and introducing successful products in new markets. Volatility in results due to seasonality and FX fluctuations is a risk to stock performance._\""
+    },
+    "Threat": {
+      "count": 8,
+      "summary": "_Threat: Weak performance in wholesale and internet channels during Q3 2013 with revenue decline in Americas and Japan, partially offset by growth in Europe and Asia Pacific. However, strong retail growth driven by expanded retail presence is maintaining overall revenue growth._"
+    }
+  },
+  "2014": {
+    "Opportunity": {
+      "count": 316,
+      "summary": "Company aims to build stable year-round business, expand Croslite product offerings, become a four-season brand, and maintain a spirit of \"giving back\" while growing retail locations globally; introduces new proprietary platform, Stretch Sole, to raise the bar of combined comfort and style; seeks to streamline supply chain, lower operating costs, and minimize production costs through a flexible, globally diversified manufacturing base; faces competition from larger companies with greater resources and stronger brand recognition, which could impact business, results of operations, financial condition, liquidity or access to financing."
+    },
+    "Threat": {
+      "count": 4,
+      "summary": "**Revenue Threat: Decrease in Revenue due to Foreign Currency Exchange Rates; Discount on Preferred Stock due to Beneficial Conversion Feature**"
+    }
+  },
+  "2015": {
+    "Opportunity": {
+      "count": 314,
+      "summary": "Company aims to streamline product portfolio, drive cohesive global brand positioning, expand retail business in a disciplined manner, and maintain flexible manufacturing base while continuing to protect its intellectual property rights, as it strives to remain the leading casual lifestyle footwear brand globally and mitigate potential risks from economic and competitive forces."
+    },
+    "Threat": {
+      "count": 6,
+      "summary": "The company faces threats from economic downturn, changes in foreign exchange rates, product pricing and mix, unit sales, disruptions in shipping, new accounting standards, and potential changes in tax laws or other economic factors, all of which led to a significant revenue decrease in Q1 2015."
+    }
+  },
+  "2016": {
+    "Opportunity": {
+      "count": 309,
+      "summary": "In fiscal 2016, the company aims to expand its market share globally by targeting key markets including the US, Japan, China, South Korea, Germany, and the UK, while improving its e-commerce capabilities, strategically growing its retail business through selective store openings and existing store sales increases, and maintaining a flexible, low-cost manufacturing base."
+    },
+    "Threat": {
+      "count": 7,
+      "summary": "Threat for Fiscal 2016: Potential adverse effects on financial success due to economic factors (recessionary cycles, higher interest rates, higher energy costs, inflation, etc.), lower sales volumes, increased debt issuance costs, and higher costs due to foreign currency translation, coupled with potential risks from decreased liquidity among wholesale customers leading to reduced orders, increased cancellations, extended payment terms, higher accounts receivable balances, and increased expenses related to collections and bad debt."
+    },
+    "Weakness": {
+      "count": 4,
+      "summary": " Weakness for FY 2016: Decreases in implementation costs, marketing expenses, reorganization charges, and various other one-time items (e.g., nonrecurring disbursements, bad debt, legal settlements, variable compensation), partially offset by foreign currency fluctuations, contributed to the overall decline in operating expenses during the year."
+    }
+  },
+  "2017": {
+    "Opportunity": {
+      "count": 303,
+      "summary": " The company aims to expand its global footprint and improve its e-commerce capabilities, focusing on core markets like US, Japan, China, South Korea, and Germany while leveraging its proprietary technology and brand identity in the casual footwear market. It plans to moderately grow its retail expansion in 2017, with a focus on outlet locations and enhancing the profitability of existing ones. The company also intends to protect its intellectual property rights and continues to compete with larger players in the casual footwear industry, managing foreign exchange risks to minimize volatility in earnings."
+    },
+    "Strength": {
+      "count": 4,
+      "summary": "The company's broad appeal of its footwear is leveraged across a diverse network of distribution channels, contributing to strong market penetration in fiscal 2017."
+    },
+    "Threat": {
+      "count": 8,
+      "summary": "\"The company faces threats in fiscal 2017 from adverse economic conditions, geopolitical instability, and currency fluctuations, which have led to decreased revenues in the Americas segment and increased costs in both the Americas and Asia Pacific segments. The growth in e-commerce sales has been moderated by lower average selling prices and currency impacts.\""
+    },
+    "Weakness": {
+      "count": 5,
+      "summary": "Gross profit increased due to cost reductions and volume growth, yet weakened by unfavorable exchange rates and declines in certain market segments; specifically Americas region saw a 4.3% decrease in unit sales volumes."
+    }
+  },
+  "2018": {
+    "Opportunity": {
+      "count": 313,
+      "summary": "Opportunities for FY18 include expanding e-commerce capabilities, increasing customer awareness in targeted countries, and leveraging global brand value while maintaining a diversified, cost-effective manufacturing base."
+    },
+    "Threat": {
+      "count": 2,
+      "summary": "\"Currency favorably impacts Q3 2018 inventory costs in overseas markets, contributing to a 100bps increase in gross margin.\""
+    },
+    "Weakness": {
+      "count": 5,
+      "summary": "The company competes with various footwear and apparel brands in its wholesale, retail, and e-commerce businesses, faces potential fluctuations in Average Selling Prices (ASP) due to product mix, sales channel, sales discounts/incentives, and foreign currency translation, and has taken non-cash impairment expenses due to facility closures in Mexico and Italy."
+    }
+  },
+  "2019": {
+    "Opportunity": {
+      "count": 237,
+      "summary": "For FY2019, Crocs aims to capitalize on their innovative molded footwear technology, Croslite\u2122, expand market presence in key geographies, and engage consumers through designer collaborations and celebrity endorsements while maintaining a flexible, cost-efficient manufacturing approach and streamlined supply chain to drive growth.  (Disclaimer: This summary does not capture every detail mentioned in the original text. It attempts to convey the essence of the opportunity for Crocs in FY2019.)"
+    },
+    "Threat": {
+      "count": 1,
+      "summary": "\"The company faces potential foreign exchange risks due to exposure to non-functional currencies and derivative instruments.\""
+    },
+    "Weakness": {
+      "count": 2,
+      "summary": "Fiscal 2019 weak points include: declining gross margin (52.4%) due to non-recurring charges ($1.5 million) from a new distribution center, currency impacts on purchasing power & increased distribution costs; growth in lower margin wholesale revenues, and reduced profitability from the closure of manufacturing facilities (not offset by higher ASPs)."
+    }
+  },
+  "2020": {
+    "Opportunity": {
+      "count": 157,
+      "summary": "Crocs seeks to expand its market presence in key geographies by enhancing its brand image and increasing marketing efforts, while maintaining a flexible, diversified manufacturing strategy that focuses on quality, design, and comfort. The company continues to innovate, leveraging proprietary technologies like Croslite\u2122 and LiteRide\u2122 to produce high-demand footwear, and it emphasizes sustainability initiatives throughout its supply chain."
+    },
+    "Threat": {
+      "count": 1,
+      "summary": "Revenue growth of 14.7% in FY 2020 primarily resulted from a combination of strong e-commerce growth, improved brick-and-mortar performance, increased average selling prices, and reduced promotions, partially offset by negative currency effects."
+    },
+    "Weakness": {
+      "count": 2,
+      "summary": "\"Increased SG&A expenses (up 480 bps YoY) indicate potential operational inefficiencies amidst pandemic.\""
+    }
+  },
+  "2021": {
+    "Opportunity": {
+      "count": 154,
+      "summary": "\"Crocs expects to grow its brand and sales in 2021 through expanded marketing, sustainable product initiatives, and investments in digital commerce and supply chain. The company aims to increase factory production, allocate resources to key growth initiatives, and mitigate global logistics challenges through air freight investments. Strong consumer demand, particularly for clogs and sandals, will drive sales growth.\""
+    },
+    "Threat": {
+      "count": 3,
+      "summary": "Increased borrowing costs associated with variable interest rates tied to domestic base rate, LIBOR, and leverage ratio, partially offset by revenue growth from higher unit sales volumes, increased average selling prices, and favorable foreign exchange rates, but still represents a threat to profitability in FY21."
+    },
+    "Weakness": {
+      "count": 3,
+      "summary": "Global logistics disruptions, particularly in Vietnam, have negatively affected cost of sales and manufacturing operations; however, strategic shifts in production locations and allocation strategies may help mitigate these issues in the remainder of 2021 and beyond."
+    }
+  },
+  "2022": {
+    "Opportunity": {
+      "count": 154,
+      "summary": "* Expanding global presence and market share across core markets (China, Japan, South Korea, US, Western Europe) through strategic growth initiatives, digital sales growth, sandal market share, and Asia expansion\n* Enhancing product line via innovation, with a focus on sandals and personalization, and acquiring complementary brand HEYDUDE to further diversify portfolio\n* Implementing ESG initiatives and adhering to UN SDGs and SASB framework for reporting and disclosure guidance\n* Managing FX risk through forward contracts to reduce volatility in earnings caused by fluctuations in foreign exchange rates"
+    },
+    "Threat": {
+      "count": 6,
+      "summary": "The company faces a 12-month lock-up period for Equity Consideration Shares post-acquisition, with partial release at 6 and 12 months. Interest rates on borrowings under the Credit Agreement vary based on multiple factors, potentially increasing debt servicing costs. "
+    }
+  },
+  "2023": {
+    "Opportunity": {
+      "count": 157,
+      "summary": "Opportunity in FY2023 lies in expanding the HEYDUDE Brand internationally, gaining sandals market share for the Crocs Brand, increasing awareness and distribution for the HEYDUDE Brand, ongoing product and marketing innovation, and growth opportunities in our six core markets worldwide, including Asia."
+    },
+    "Strength": {
+      "count": 1,
+      "summary": "Strong Q4 23 outlook due to product and marketing innovations, including expanded clog offerings, personalized Jibbitz\u2122 charms, and the addition of the HEYDUDE Brand, supported by global digital ad campaigns, strategic partnerships, and celebrity endorsements."
+    },
+    "Threat": {
+      "count": 2,
+      "summary": "The company faces potential increased borrowing costs due to variable interest rates linked to multiple benchmarks, including the Overnight Bank Funding Rate, Prime Rate, Daily Simple SOFR, and Term SOFR, with interest margins ranging between 0.25% - 2.025% depending on leverage ratio and tenor."
+    }
+  },
+  "2024": {
+    "Opportunity": {
+      "count": 156,
+      "summary": "\"Expanding global reach for both Crocs and HEYDUDE Brands through international growth, marketing investments, and product innovations while maintaining financial strength and adaptability to economic challenges.\""
+    },
+    "Threat": {
+      "count": 3,
+      "summary": "Company faces potential increased borrowing costs due to variable interest rates linked to multiple benchmarks under the Credit Agreement, including the Overnight Bank Funding Rate, Prime Rate, Daily Simple SOFR, and Term SOFR, with associated margins dependent on leverage ratios.  **Additional information:**\n- The company's leverage ratio could impact the interest rate it pays on borrowings under the Credit Agreement.\n- Higher leverage ratios may result in higher interest rates.\n- If the Overnight Bank Funding Rate, Prime Rate, or SOFR rates increase, the company's borrowing costs could also rise significantly."
+    },
+    "Weakness": {
+      "count": 1,
+      "summary": "\"ESG Committee's oversight of sustainability and ESG matters did not effectively address material concerns impacting the company, employees, communities, and the environment.\""
+    }
+  },
+  "2025": {
+    "Opportunity": {
+      "count": 79,
+      "summary": "\"Company aims to drive growth through expanding product offerings and geographical reach, particularly focusing on the HEYDUDE Brand in the US and international markets for the Crocs Brand, while enhancing operational efficiency.\""
+    },
+    "Threat": {
+      "count": 1,
+      "summary": "\"Potential for increased costs due to potential tariffs on imports from China (145%) and other countries (additional 46%, 32%, 26%, and 49%), requiring exploration of cost reduction strategies or potential price increases; government actions and regulations may negatively impact the company's business.\""
+    }
+  }
+}

@@ -37,15 +37,18 @@ Promise.all([ d3.json('yearly_swot.json') ]).then(([swot]) => {
         IH  = H - M.t - M.b,
         TLH = 60,
         Q   = Math.min(IW/2, (IH - TLH)/2),
-        gapX = (IW - 2*Q)/8,
-        margin = 20,        // space between quadrant & bullet-box
+        centerGap = 6, // tight gap between center line and quadrants
+        margin = 20,
         offsetX = M.l, offsetY = M.t;
 
+  const leftX  = IW/2 - Q - centerGap;
+  const rightX = IW/2 + centerGap;
+
   const quadPos = {
-    S: [gapX,        0],
-    W: [IW/2 + gapX,  0],
-    O: [gapX,        Q],
-    T: [IW/2 + gapX,  Q]
+    S: [leftX, 0],
+    O: [leftX, Q],
+    W: [rightX, 0],
+    T: [rightX, Q]
   };
   const colors = { S:'46,125,50', O:'46,125,50', W:'229,57,53', T:'229,57,53' };
   const titles = { S:'Strength', W:'Weakness', O:'Opportunity', T:'Threat' };
@@ -70,9 +73,10 @@ Promise.all([ d3.json('yearly_swot.json') ]).then(([swot]) => {
    .attr('stroke','#000').attr('stroke-width',4);
 
   // horizontal timeline line
+  const timelineY = 2*Q+4;
   G.append('line')
    .attr('x1', 0   ).attr('x2', IW)
-   .attr('y1', 2*Q+4 ).attr('y2', 2*Q+4)
+   .attr('y1', timelineY).attr('y2', timelineY)
    .attr('stroke','#000').attr('stroke-width',4);
 
   // outcome axis label
@@ -85,7 +89,8 @@ Promise.all([ d3.json('yearly_swot.json') ]).then(([swot]) => {
   G.append('text')
    .attr('class','axis-label')
    .attr('transform', `translate(-60,${Q}) rotate(-90)`)
-   .text('Level of Control • High ↑——↓ Low');
+   .text('Level of Control • Low ↓––↑High');
+
 
   // big-year in top center
   const yearLabel = G.append('text')
@@ -104,7 +109,9 @@ Promise.all([ d3.json('yearly_swot.json') ]).then(([swot]) => {
     g.append('rect')
      .attr('width', Q).attr('height', Q)
      .attr('rx',20).attr('ry',20)
-     .attr('fill','none').attr('stroke','none');
+     .attr('fill', 'none')
+     .attr('stroke', '#ccc')
+     .attr('stroke-width', 2);
 
     g.append('text')
      .attr('class','title')
@@ -148,20 +155,26 @@ Promise.all([ d3.json('yearly_swot.json') ]).then(([swot]) => {
 
   const tl = G.append('g')
               .attr('class','timeline')
-              .attr('transform', `translate(0, ${IH - TLH + 30})`);
+              .attr('transform', `translate(0, ${timelineY})`);
+
+  tl.append('line')
+    .attr('x1', 0).attr('x2', IW)
+    .attr('y1', 0).attr('y2', 0)
+    .attr('stroke', '#000').attr('stroke-width', 4);
 
   tl.selectAll('text')
     .data(YEARS_15)
     .enter().append('text')
       .attr('class','axis-label')
       .attr('x', d=>xTime(d))
-      .attr('y', 0)
+      .attr('y', 24)
       .attr('fill','#888').attr('font-size',14).attr('text-anchor','middle')
       .text(d=>d);
 
   const dot = tl.append('circle')
                 .attr('r',10).attr('fill','red')
-                .attr('cy',4).attr('cx',xTime(YEARS_15[0]));
+                .attr('cx',xTime(YEARS_15[0]))
+                .attr('cy',0);
 
 
   // ── 8) svg word-wrap helper ─────────────────────────────────
@@ -271,7 +284,9 @@ Promise.all([ d3.json('yearly_swot.json') ]).then(([swot]) => {
 
     const year = YEARS_15[idx];
     yearLabel.text(year);
-    dot.transition().duration(600).attr('cx', xTime(year));
+    dot.transition().duration(600)
+      .attr('cx', xTime(year))
+      .attr('cy', 0);
     tl.selectAll('text').attr('fill', d => d===year? '#000':'#888' );
 
     // populate each Q×Q bullet-box (S/O left, W/T right)
